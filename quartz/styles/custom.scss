@@ -1,5 +1,19 @@
 @use "./variables.scss" as *;
 
+// Desativa o comportamento de ocultar/mostrar elementos no hover — tudo fica SEMPRE visível
+.sidebar, 
+.explorer, 
+.left, 
+.right, 
+.search, 
+.darkmode, 
+.reader-mode,
+.explorer-button,
+.folder-button {
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
 // Estilização do Menu Lateral Explorer — Identificação clara e espaçamento de títulos
 .explorer {
   margin-top: 1rem;

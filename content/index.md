@@ -25,7 +25,7 @@ Navegue pelas pastas na **barra lateral esquerda** (Explorar Pastas) para abrir 
 
 ## 🌿 Trilha 2: Bio-Otimização & Performance Humana
 
-*(Abra a pasta `02_Bio_Otimizacao` no menu lateral para visualizar os temas)*
+*(Abra a pasta `02 — Bio-Otimização & Performance` no menu lateral para visualizar os temas)*
 
 ---
 
