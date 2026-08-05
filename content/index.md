@@ -8,7 +8,7 @@ description: "Digital Garden e Hub de Conhecimento autoral no Obsidian."
 
 Este é o meu acervo público de ensaios autorais, guias de execução e sistematizações de conhecimento no Obsidian.
 
-Navegue pelas pastas na **barra lateral esquerda** (Explorar Pastas) para acessar os artigos de cada trilha.
+Navegue pelas pastas na **barra lateral esquerda** (Explorar Pastas) para abrir e fechar a árvore de artigos.
 
 ---
 
@@ -25,7 +25,7 @@ Navegue pelas pastas na **barra lateral esquerda** (Explorar Pastas) para acessa
 
 ## 🌿 Trilha 2: Bio-Otimização & Performance Humana
 
-*(Pasta `02_Bio_Otimizacao` no menu lateral — Publicação sequencial após a conclusão da Trilha de IA)*
+*(Abra a pasta `02_Bio_Otimizacao` no menu lateral para visualizar os temas)*
 
 ---
 
