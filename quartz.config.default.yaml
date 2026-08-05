@@ -1,13 +1,14 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: "Wiki Pessoal — Arthur"
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  locale: pt-BR
+  baseUrl: 7arthurfmelo-source.github.io/wiki
+
   ignorePatterns:
     - private
     - templates
@@ -131,7 +132,8 @@ plugins:
   - source: "@quartz-community/tag-page"
     enabled: true
   - source: "@quartz-community/explorer"
-    enabled: true
+    enabled: false
+
     layout:
       position: left
       priority: 50
