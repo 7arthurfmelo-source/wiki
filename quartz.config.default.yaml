@@ -132,7 +132,13 @@ plugins:
   - source: "@quartz-community/tag-page"
     enabled: true
   - source: "@quartz-community/explorer"
-    enabled: false
+    enabled: true
+    options:
+      title: "Explorar Pastas"
+      folderClickBehavior: collapse
+      folderDefaultState: open
+      useSavedState: true
+
 
     layout:
       position: left
