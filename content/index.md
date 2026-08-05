@@ -14,12 +14,12 @@ Navegue pelas pastas na **barra lateral esquerda** (Explorar Pastas) para abrir 
 
 ## 🤖 Trilha 1: IA & Segundo Cérebro
 
-- **[[01_IA_e_Segundo_Cerebro/01-hub-mestre|01 — Hub Mestre da Trilha]]**: Visão geral e mapa da capacitação em IA.
-- **[[01_IA_e_Segundo_Cerebro/02-amplificacao-vs-substituicao|02 — Amplificação vs Substituição]]**: Por que você deve ser pago pelo seu critério e bom gosto.
-- **[[01_IA_e_Segundo_Cerebro/03-prompting-como-falar-com-a-maquina|03 — Prompting: Como Falar com a Máquina]]**: Guia de engenharia de prompt em 3 partes.
-- **[[01_IA_e_Segundo_Cerebro/04-o-operador-no-comando|04 — O Operador no Comando: Especialistas e Contexto]]**: Personas de especialistas e injeção de contexto.
-- **[[01_IA_e_Segundo_Cerebro/05-a-era-dos-agentes-e-automacoes|05 — A Era dos Agentes e Automações]]**: Agentes autônomos, MCP e o Segundo Cérebro sem código.
-- **[[01_IA_e_Segundo_Cerebro/06-ia-slop-no-mercado-de-trabalho|06 — IA Slop no Mercado de Trabalho]]**: O risco do código lixo (Slop) vs. sistemas pessoais.
+- **[[01-hub-mestre|01 — Hub Mestre da Trilha]]**: Visão geral e mapa da capacitação em IA.
+- **[[02-amplificacao-vs-substituicao|02 — Amplificação vs Substituição]]**: Por que você deve ser pago pelo seu critério e bom gosto.
+- **[[03-prompting-como-falar-com-a-maquina|03 — Prompting: Como Falar com a Máquina]]**: Guia de engenharia de prompt em 3 partes.
+- **[[04-o-operador-no-comando|04 — O Operador no Comando: Especialistas e Contexto]]**: Personas de especialistas e injeção de contexto.
+- **[[05-a-era-dos-agentes-e-automacoes|05 — A Era dos Agentes e Automações]]**: Agentes autônomos, MCP e o Segundo Cérebro sem código.
+- **[[06-ia-slop-no-mercado-de-trabalho|06 — IA Slop no Mercado de Trabalho]]**: O risco do código lixo (Slop) vs. sistemas pessoais.
 
 ---
 

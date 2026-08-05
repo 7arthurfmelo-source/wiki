@@ -1,5 +1,5 @@
 ---
-title: "🤖 01 — IA & Segundo Cérebro"
+title: "01 — IA & Segundo Cérebro"
 publish: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "🌿 02 — Bio-Otimização & Performance"
+title: "02 — Bio-Otimização & Performance"
 publish: true
 ---
 

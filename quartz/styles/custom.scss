@@ -1,3 +1,54 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Estilização do Menu Lateral Explorer — Identificação clara e espaçamento de títulos
+.explorer {
+  margin-top: 1rem;
+
+  // Botão de Pastas
+  .folder-button {
+    font-weight: 700;
+    color: var(--tertiary);
+    font-size: 0.95rem;
+    padding: 0.35rem 0.2rem;
+    border-bottom: 1px dashed var(--lightgray);
+    margin-bottom: 0.5rem;
+    cursor: pointer;
+  }
+
+  // Lista de arquivos dentro da pasta
+  .explorer-content {
+    ul {
+      list-style: none;
+      padding-left: 0.8rem;
+      margin: 0.4rem 0;
+
+      li {
+        margin-bottom: 0.6rem;
+        line-height: 1.4;
+        position: relative;
+
+        a {
+          display: inline-block;
+          padding: 0.25rem 0.4rem;
+          border-radius: 4px;
+          color: var(--darkgray);
+          font-size: 0.88rem;
+          transition: all 0.2s ease;
+
+          // Bullets visuais para identificar o início de cada artigo
+          &::before {
+            content: "• ";
+            color: var(--secondary);
+            font-weight: bold;
+            margin-right: 0.4rem;
+          }
+
+          &:hover {
+            color: var(--secondary);
+            background-color: var(--highlight);
+          }
+        }
+      }
+    }
+  }
+}
