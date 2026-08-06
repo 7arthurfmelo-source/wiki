@@ -217,14 +217,8 @@ plugins:
       position: footer
       priority: 50
   - source: "@quartz-community/recent-notes"
-    enabled: true
-    options:
-      title: "Artigos Relacionados & Recentes"
-      showImports: true
-      limit: 5
-    layout:
-      position: right
-      priority: 60
+    enabled: false
+
 
   - source: "@quartz-community/spacer"
     enabled: true

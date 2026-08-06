@@ -12,20 +12,20 @@ Navegue pelas pastas na **barra lateral esquerda** (Explorar Pastas) para abrir 
 
 ---
 
-## 🤖 Trilha 1: IA & Segundo Cérebro
+## 🤖 Trilha 1: IA e Segundo Cérebro
 
-- **[[01-hub-mestre|01 — Hub Mestre da Trilha]]**: Visão geral e mapa da capacitação em IA.
-- **[[02-amplificacao-vs-substituicao|02 — Amplificação vs Substituição]]**: Por que você deve ser pago pelo seu critério e bom gosto.
-- **[[03-prompting-como-falar-com-a-maquina|03 — Prompting: Como Falar com a Máquina]]**: Guia de engenharia de prompt em 3 partes.
-- **[[04-o-operador-no-comando|04 — O Operador no Comando: Especialistas e Contexto]]**: Personas de especialistas e injeção de contexto.
-- **[[05-a-era-dos-agentes-e-automacoes|05 — A Era dos Agentes e Automações]]**: Agentes autônomos, MCP e o Segundo Cérebro sem código.
-- **[[06-ia-slop-no-mercado-de-trabalho|06 — IA Slop no Mercado de Trabalho]]**: O risco do código lixo (Slop) vs. sistemas pessoais.
+- **[[01-hub-mestre|01. Hub Mestre — IA e O Segundo Cérebro]]**: Visão geral e mapa da capacitação em IA.
+- **[[02-amplificacao-vs-substituicao|02. Amplificação vs Substituição — O Critério Humano]]**: Por que você deve ser pago pelo seu critério e bom gosto.
+- **[[03-prompting-como-falar-com-a-maquina|03. Prompting em 3 Partes — Como Falar com a Máquina]]**: Guia de engenharia de prompt em 3 partes.
+- **[[04-o-operador-no-comando|04. Personas e Taxonomia — O Operador no Comando]]**: Personas de especialistas e injeção de contexto.
+- **[[05-a-era-dos-agentes-e-automacoes|05. Agentes e o Segundo Cérebro — A Era das Automações]]**: Agentes autônomos, MCP e o Segundo Cérebro sem código.
+- **[[06-ia-slop-no-mercado-de-trabalho|06. IA Slop e o POS — Riscos vs Sistemas Pessoais]]**: O risco do código lixo (Slop) vs. sistemas pessoais.
 
 ---
 
-## 🌿 Trilha 2: Bio-Otimização & Performance Humana
+## 🌿 Trilha 2: Bio-Otimização e Performance Humana
 
-*(Abra a pasta `02 — Bio-Otimização & Performance` no menu lateral para visualizar os temas)*
+*(Abra a pasta `02 — Bio-Otimização e Performance` no menu lateral para visualizar os temas)*
 
 ---
 
