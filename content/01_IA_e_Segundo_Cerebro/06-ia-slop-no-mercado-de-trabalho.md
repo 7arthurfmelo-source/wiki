@@ -1,5 +1,5 @@
 ---
-title: "IA Slop no Mercado de Trabalho: Riscos vs. Sistemas Pessoais"
+title: "06. IA Slop e o POS — Riscos vs Sistemas Pessoais"
 publish: true
 description: "O risco do código e conteúdo lixo (AI Slop), a ilusão do MicroSaaS sem código e a soberania dos Sistemas de Amplificação Pessoais (POS)."
 tags:
@@ -7,7 +7,12 @@ tags:
   - slop
   - carreira
   - pos
+aliases:
+  - "10 - IA Slop no Mercado de Trabalho"
+  - "IA Slop no Mercado de Trabalho: Riscos vs. Sistemas Pessoais"
+  - "06-ia-slop-no-mercado-de-trabalho"
 ---
+
 
 # IA Slop no Mercado de Trabalho: Riscos vs. Sistemas Pessoais
 

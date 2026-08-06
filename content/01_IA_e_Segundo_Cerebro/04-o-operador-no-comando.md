@@ -1,5 +1,5 @@
 ---
-title: "IA na Prática — O Operador no Comando: Contexting, Personas e Taxonomia"
+title: "04. Personas e Taxonomia — O Operador no Comando"
 publish: true
 description: "Aprenda a injetar bases de conhecimento, criar personas céticas, eliminar a adulação da IA e organizar sua pasta local com a taxonomia minimalista."
 tags:
@@ -7,7 +7,12 @@ tags:
   - contexto
   - personas
   - taxonomia
+aliases:
+  - "8 - IA na Prática - O Operador no Comando Especialistas e Contexto"
+  - "O Operador no Comando: Contexting, Personas e Taxonomia"
+  - "04-o-operador-no-comando"
 ---
+
 
 # IA na Prática — O Operador no Comando: Contexting, Personas e Taxonomia
 

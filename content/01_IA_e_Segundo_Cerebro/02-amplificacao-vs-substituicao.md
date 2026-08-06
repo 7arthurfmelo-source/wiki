@@ -1,5 +1,5 @@
 ---
-title: "IA na Prática — Amplificação vs Substituição: O Critério Humano"
+title: "02. Amplificação vs Substituição — O Critério Humano"
 publish: true
 description: "A diferença conceitual e prática entre a IA te substituir e te amplificar, e por que o critério e o bom gosto definem o valor no futuro."
 tags:
@@ -7,7 +7,12 @@ tags:
   - tecnologia
   - produtividade
   - ensaios
+aliases:
+  - "4 - Amplificação vs Substituição"
+  - "Amplificação vs Substituição"
+  - "02-amplificacao-vs-substituicao"
 ---
+
 
 # IA na Prática — Amplificação vs Substituição: O Critério Humano
 

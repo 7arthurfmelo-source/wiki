@@ -1,5 +1,5 @@
 ---
-title: "IA na Prática — O Mapa da Autonomia e do Segundo Cérebro"
+title: "01. Hub Mestre — IA & O Segundo Cérebro"
 publish: true
 description: "O portal de entrada e mapa de navegação JIT da trilha: da desconstrução de dogmas ao uso da IA como amplificadora de inteligência."
 tags:
@@ -7,7 +7,13 @@ tags:
   - segundo-cerebro
   - trilha
   - hub
+aliases:
+  - "1 - IA na Prática (Arthur)"
+  - "IA na Prática"
+  - "IA & O Segundo Cérebro (Hub Mestre)"
+  - "01-hub-mestre"
 ---
+
 
 # IA na Prática — O Mapa da Autonomia e do Segundo Cérebro
 

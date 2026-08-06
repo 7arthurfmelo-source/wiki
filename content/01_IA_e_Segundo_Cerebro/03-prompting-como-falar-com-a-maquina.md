@@ -1,12 +1,17 @@
 ---
-title: "IA na Prática — Prompting: Como Falar com a Máquina"
+title: "03. Prompting em 3 Partes — Como Falar com a Máquina"
 publish: true
 description: "Desmistificando os LLMs: entenda por que a IA autocompleta em vez de pensar e como estruturar prompts de controle em 3 partes."
 tags:
   - ia
   - prompting
   - guias
+aliases:
+  - "7 - IA na Prática - Prompting Como Falar com a Máquina"
+  - "Prompting: Como Falar com a Máquina"
+  - "03-prompting-como-falar-com-a-maquina"
 ---
+
 
 # IA na Prática — Prompting: Como Falar com a Máquina
 
