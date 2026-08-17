@@ -1,8 +1,8 @@
 ---
-title: "01 — IA e Segundo Cérebro"
+title: "04 — Lifestyle e Bio-Otimização"
 publish: true
 ---
 
-# 🤖 Trilha 1: Inteligência Artificial e O Segundo Cérebro
+# 🌿 Trilha 4: Lifestyle, Bio-Otimização e Performance
 
 Navegue pelos artigos desta trilha através do menu lateral ou dos links abaixo.

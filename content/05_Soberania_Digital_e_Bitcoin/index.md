@@ -1,8 +1,8 @@
 ---
-title: "01 — IA e Segundo Cérebro"
+title: "05 — Soberania Digital e Bitcoin"
 publish: true
 ---
 
-# 🤖 Trilha 1: Inteligência Artificial e O Segundo Cérebro
+# ₿ Trilha 5: Soberania Digital, Bitcoin e Autocustódia
 
 Navegue pelos artigos desta trilha através do menu lateral ou dos links abaixo.
