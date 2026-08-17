@@ -23,6 +23,13 @@ Navegue pelas pastas na **barra lateral esquerda** (Explorar Pastas) para abrir 
 
 ---
 
+## ✝️ Trilha 7: Filosofia, Transcendência & Sentido
+
+- **[[00-filosofia-transcendencia-hub|00. Guia Mestre — Filosofia e Transcendência]]**: Visão geral da trilha de sentido e moralidade.
+- **[[01-transcendencia-bom-carpinteiro|01. Transcendência — Conheça o Bom Carpinteiro]]**: Deus como âncora fundacional e o protocolo de ancoragem diária.
+
+---
+
 ## 🌿 Trilha 2: Bio-Otimização e Performance Humana
 
 *(Abra a pasta `02 — Bio-Otimização e Performance` no menu lateral para visualizar os temas)*
