@@ -24,6 +24,13 @@ Navegue pelas pastas na **barra lateral esquerda** (Explorar Pastas) para abrir 
 
 ---
 
+## 05 — Soberania Digital e Bitcoin
+
+- **[[00-soberania-digital-e-bitcoin-guia-mestre|00 - Soberania Digital & Bitcoin — Guia Mestre]]**
+- **[[01-bitcoin-das-predicoes-de-friedman-ao-bloco-genesis|01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]]**
+
+---
+
 ## 07 — Filosofia e Transcendência
 
 - **[[00-filosofia-e-transcendencia-guia-mestre|00 - Filosofia e Transcendência — Guia Mestre]]**
