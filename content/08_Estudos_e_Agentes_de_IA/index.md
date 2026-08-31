@@ -3,8 +3,8 @@ title: "08 — Estudos e Agentes de IA"
 publish: true
 ---
 
-# 🎓 Trilha 8: Estudos de Alto Desempenho, Segundo Cérebro & Agentes de IA
+# 🎓 Estudos com IA (Faculdade & Cursos)
 
-> O método Two-Tier na faculdade, engenharia de prompts em tempo real e orquestração de co-pilotos locais.
+> Como eu estudo na prática, organizo o conteúdo das aulas e uso IA para tirar dúvidas e fixar conceitos sem perder tempo.
 
 Navegue pelos artigos desta trilha através do menu lateral ou dos links abaixo.

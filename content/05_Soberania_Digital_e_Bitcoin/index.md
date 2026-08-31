@@ -3,8 +3,8 @@ title: "05 — Soberania Digital e Bitcoin"
 publish: true
 ---
 
-# ₿ Trilha 5: Soberania Digital, Bitcoin e Autocustódia
+# ₿ Soberania Digital & Bitcoin
 
-> A física da escassez digital, a falência do padrão fiduciário, reserva fracionária e autocustódia soberana.
+> Estudos sobre a história do dinheiro, a falência do sistema fiduciário e por que o Bitcoin representa uma revolução na escassez digital e na liberdade individual.
 
 Navegue pelos artigos desta trilha através do menu lateral ou dos links abaixo.
