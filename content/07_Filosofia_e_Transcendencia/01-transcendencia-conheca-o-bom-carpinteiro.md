@@ -87,13 +87,14 @@ Para que a fé não seja apenas uma ideia abstrata, aplique o **Protocolo dos 3 
 
 ## 🔗 Próximo Passo na Trilha
 
-Na próxima etapa desta trilha, investigaremos a ilusão do niilismo contemporâneo e como pensadores como Viktor Frankl e G.K. Chesterton nos ensinam a encontrar sentido mesmo no sofrimento extremo.
+Na próxima etapa desta trilha, investigaremos a anatomia do sofrimento humano e como Viktor Frankl e a teologia da cruz nos ensinam a encontrar sentido mesmo na dor extrema:
 
-* → Avançar para a Etapa 2: `[[02 - Filosofia — A Ilusão do Niilismo e a Busca de Sentido]]`
+* → Avançar para a Etapa 2: [[02 - Transcendência — A Anatomia do Sofrimento e o Sentido da Vida]]
 
 ---
 
-## 🌱 Sementes de Conexão e Futuros Artigos
-- `[[Plano Mestre — Trilha de Filosofia e Transcendência]]`
-- `[[Diretriz de Desdobramento Prático de Trilhas]]`
-- `[[Meu Sistema de Escrita]]`
+## 🧬 Notas Co-ativadas & Fontes Canônicas
+- **Plano Mestre da Trilha:** [[Plano Mestre — Trilha de Filosofia e Transcendência]]
+- **Diretriz de Escrita:** [[Diretriz de Desdobramento Prático de Trilhas]]
+- **Sistema de Escrita:** [[Meu Sistema de Escrita]]
+

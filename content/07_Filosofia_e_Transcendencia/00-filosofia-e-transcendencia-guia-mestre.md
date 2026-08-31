@@ -1,44 +1,50 @@
 ---
 title: "00. Guia Mestre — Filosofia e Transcendência"
 publish: true
-description: "Hub central da Trilha 7: Ensaios críticos sobre busca de sentido, moralidade objetiva, cristianismo e a figura do Bom Carpinteiro."
+description: "Hub central da Trilha 7: A busca de sentido, apologética cristã, superação do niilismo, moralidade objetiva e a vida interior com Deus."
+tipo: moc
+dominio: carreira_autoridade
+status: ativo
 tags:
   - filosofia
   - transcendencia
   - cristianismo
-  - fe
-  - moralidade
+  - apologetica
+  - moc
   - hub
 aliases:
   - "00 - Filosofia e Transcendência — Guia Mestre"
   - "Filosofia e Transcendência (Hub Mestre)"
-  - "00-filosofia-transcendencia-hub"
+  - "00-filosofia-e-transcendencia-guia-mestre"
 ---
 
-# ✝️ Trilha 7: Filosofia, Transcendência & Sentido da Vida
+# ✝️ 00. Guia Mestre — Filosofia e Transcendência
 
 > **Autor:** Arthur (Tutu)  
-> **Trilha:** [[00 - Filosofia e Transcendência — Guia Mestre|Filosofia & Transcendência (Hub Mestre)]]
+> **Trilha:** #FilosofiaETranscendencia (Nível 1 a 3)  
+> **Conexões:** → [[Índice — Acervo de Artigos Wiki]] | → [[Plano Mestre — Trilha de Filosofia e Transcendência]]  
 
 ---
 
-## 🎯 Visão Geral da Trilha
+## 🎯 Sobre Esta Trilha
 
-Em uma era dominada pelo imediatismo digital, ruído algorítmico e niilismo contemporâneo, a busca por uma âncora moral e existencial sólida é a decisão mais estratégica e transformadora que um indivíduo pode tomar.
-
-Esta trilha reúne ensaios críticos, teológicos e filosóficos que investigam a necessidade do sagrado, a moralidade objetiva, a transcendência e a vida prática iluminada pelos ensinamentos de Cristo (o Bom Carpinteiro).
+Esta trilha conduz o leitor do vazio do relativismo moral e do niilismo moderno à solidez da vida interior com Deus: da figura histórica de Cristo e o sentido do sofrimento à prática da oração e da perseverança moral.
 
 ---
 
-## 🗺️ Mapa de Navegação da Trilha
+## 🗺️ A Espinha Dorsal (Spine): Progressão Determinística
 
-- **[[01 - Transcendência — Conheça o Bom Carpinteiro|01. Transcendência — Conheça o Bom Carpinteiro]]**: A desconstrução do relativismo moral e por que a relação com Deus é a âncora mais importante da existência humana.
-- **[[02 - Filosofia — A Ilusão do Niilismo e a Busca de Sentido|02. Filosofia — A Ilusão do Niilismo e a Busca de Sentido]]**: Análise crítica sobre o vazio existencial moderno (Frankl, Lewis e Chesterton).
-- **[[03 - Moralidade — A Física do Bem e a Responsabilidade Individual|03. Moralidade — A Física do Bem e a Responsabilidade Individual]]**: Como princípios morais atemporais operam como leis de conservação no mundo real.
+| Artigo da Espinha Dorsal | O que Informa? (Fato/Mecanismo) | O que Convence/Persuade? (Quebra de Crença) | O que o Leitor Faz/Muda na Vida? (Ação/Comportamento) | CTA de Encerramento & Estágio Promovido |
+| :--- | :--- | :--- | :--- | :--- |
+| **[[01 - Transcendência — Conheça o Bom Carpinteiro\|01. Conheça o Bom Carpinteiro]]** | O choque histórico de Cristo e o Trilema de C.S. Lewis. | Destrói o relativismo moral inofensivo. | Confronta suas premissas diante da verdade divina. | **CTA:** Avançar para o Artigo 02. *(Nível 1)* |
+| **[[02 - Transcendência — A Anatomia do Sofrimento e o Sentido da Vida\|02. O Sentido do Sofrimento]]** | A logoterapia de Frankl e a redenção pela cruz. | Prova que o hedonismo é incapaz de saciar a alma na dor. | Encontra firmeza e propósito nas provações. | **CTA:** Avançar para o Artigo 03. *(Nível 2)* |
+| **[[03 - Transcendência — Os 3 Pilares da Vida Interior\|03. Os 3 Pilares da Vida Interior]]** | Silêncio matinal, Evangelhos e exame de consciência. | Prova que sem reflexão a mente é colonizada pelo mundo. | Pratica 15 minutos diários de disciplina espiritual. | **CTA:** Avançar para o Artigo 04. *(Nível 3)* |
+| **[[04 - Transcendência — A Cidade de Deus contra a Cidade dos Homens\|04. A Cidade de Deus]]** | A teologia agostiniana das duas cidades e a Providência. | Prova que nenhuma utopia terrena é permanente. | Mantém serenidade inabalável diante de crises. | **CTA:** Consolidar e viver a fé na prática. *(Nível 4)* |
 
 ---
 
-## 🧬 Conexões e Referências de Governança
-- **Plano Mestre da Trilha:** [[Plano Mestre — Trilha de Filosofia e Transcendência]]
-- **Acervo de Conhecimento:** [[Índice — Acervo de Artigos Wiki]]
-- **Diretriz de Escrita:** [[Diretriz de Desdobramento Prático de Trilhas]]
+## 📚 Documentação Mestre & Referências
+
+- **Plano Mestre de Arquitetura:** [[Plano Mestre — Trilha de Filosofia e Transcendência]].
+- **Diretriz de Escrita:** [[Diretriz de Desdobramento Prático de Trilhas]].
+- **Log de Decisões:** [[DECISIONS|Log de Decisões de Arquitetura (ADRs) — Wiki]].
