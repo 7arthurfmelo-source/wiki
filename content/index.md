@@ -67,4 +67,12 @@ Navegue pelas pastas na **barra lateral esquerda** (Explorar Pastas) para abrir 
 
 ---
 
+## 08 — Estudos e Agentes de IA
+
+- **[[00-estudos-e-agentes-de-ia-guia-mestre|00 - Estudos & Agentes de IA — Guia Mestre]]**
+- **[[01-estudos-com-ia-a-falencia-do-estudo-passivo-e-o-modelo-two-tier|01 - Estudos com IA — A Falência do Estudo Passivo e o Modelo Two-Tier]]**
+- **[[02-estudos-com-ia-engenharia-de-prompts-de-alto-rendimento|02 - Estudos com IA — Engenharia de Prompts de Alto Rendimento]]**
+
+---
+
 *Compilado automaticamente via Quartz v5 & Obsidian Vault.*
