@@ -23,7 +23,7 @@ aliases:
 
 > **Autor:** Arthur (Tutu)  
 > **Trilha:** [[00 - IA na Prática — Guia Mestre|IA & O Segundo Cérebro (Sidequest 4 — Casos Práticos)]]  
-> **Conexões:** → [[00 - IA na Prática — Guia Mestre]] | [[04 - IA na Prática — A Era dos Agentes e Automações]] | [[Matriz de Referências Canônicas — Trilha IA e Segundo Cérebro]]  
+> **Conexões:** → [[00 - IA na Prática — Guia Mestre]] | [[04 - IA na Prática — A Era dos Agentes e Automações]]  
 
 ---
 
@@ -84,7 +84,7 @@ Conforme um cofre pessoal atinge milhares de notas interligadas, o grafo começa
 ### A Solução com IA
 Implementamos agentes de auditoria (`auditoria-grafos` e `saude-e-grafos-vault`) operando em modo **Somente Leitura (N0)**:
 - Fazem a varredura bidirecional em 100% dos arquivos do cofre.
-- Resolvem cada link `[[Nome da Nota]]` contra o sistema de arquivos físico.
+- Resolvem cada link em colchetes duplos (`[[Link]]`) contra o sistema de arquivos físico.
 - Detectam links quebrados e geram relatórios com métrica **BLR (Broken Link Ratio = 0.0%)**.
 - Calculam a maturidade de cada nota através de scores de confiança YAML.
 
@@ -125,5 +125,4 @@ Você não precisa de sistemas complexos para começar. Siga este roteiro mínim
 ## 🧬 Conexões e Referências
 - **Hub Mestre da Trilha:** [[00 - IA na Prática — Guia Mestre]]
 - **Plano Mestre:** [[Plano Mestre — Trilha de IA e Segundo Cérebro]]
-- **Matriz Canônica:** [[Matriz de Referências Canônicas — Trilha IA e Segundo Cérebro]]
 - **Artigo de Agentes:** [[04 - IA na Prática — A Era dos Agentes e Automações]]

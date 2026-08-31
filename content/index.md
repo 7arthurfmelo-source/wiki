@@ -63,7 +63,6 @@ Navegue pelas pastas na **barra lateral esquerda** (Explorar Pastas) para abrir 
 ## 07 — Filosofia e Transcendência
 
 - **[[00-filosofia-e-transcendencia-guia-mestre|00 - Filosofia e Transcendência — Guia Mestre]]**
-- **[[01-transcendencia-conheca-o-bom-carpinteiro|01 - Transcendência — Conheça o Bom Carpinteiro]]**
 
 ---
 
