@@ -23,6 +23,7 @@ Navegue pelas pastas na **barra lateral esquerda** (Explorar Pastas) para abrir 
 - **[[06-ia-na-pratica-a-maieutica-da-dissonancia-cognitiva|06 - IA na Prática — A Maiêutica da Dissonância Cognitiva]]**
 - **[[07-ia-na-pratica-glossario-essencial-de-ia-e-contexto|07 - IA na Prática — Glossário Essencial de IA e Contexto]]**
 - **[[08-ia-na-pratica-casos-reais-e-replicaveis-do-vault|08 - IA na Prática — Casos Reais e Replicáveis do Vault]]**
+- **[[experimento-mental-o-chute-estatistico-e-a-ilusao-de-certeza-da-ia|Experimento Mental — O Chute Estatístico e a Ilusão de Certeza da IA]]**
 
 ---
 
