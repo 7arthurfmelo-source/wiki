@@ -27,7 +27,7 @@ Se algum texto te ajudou, se você achou algo interessante e quiser trocar uma i
 ### 🤖 IA & O Segundo Cérebro
 > Minhas anotações e testes práticos sobre como usar Inteligência Artificial sem depender de respostas genéricas, integrando contexto e ferramentas locais.
 
-📖 **Guia Mestre:** **[[00-ia-na-pratica-guia-mestre|00. Guia Mestre — IA na Prática e Segundo Cérebro]]**
+📖 **Guia Mestre:** **[[00-ia-na-pratica-guia-mestre|00. Guia Mestre — IA na Prática e Segundo Cérebro]]** — *Hub central da Trilha 1: Modelos mentais de amplificação cognitiva, engenharia de contexto, prompting avançado e orquestração agêntica com Obsidian.*
 
 📍 **Artigos Principais:**
 - **[[01-ia-na-pratica-amplificacao-vs-substituicao|01. Amplificação vs Substituição — O Critério Humano e a Janela de Oportunidade]]** — *Por que a IA não substitui o humano, mas quem domina IA substitui quem não usa: desconstruindo a física dos LLMs, a razão das alucinações e a janela de arbitragem econômica do capex de IA.*
@@ -47,28 +47,39 @@ Se algum texto te ajudou, se você achou algo interessante e quiser trocar uma i
 ### 📈 Economia & Antifragilidade
 > Conceitos de Escola Austríaca, ciclos de mercado e estratégias para lidar com a incerteza.
 
-📖 **Guia Mestre:** **[[00-economia-e-antifragilidade-guia-mestre|00. Guia Mestre — Economia & Antifragilidade]]**
+📖 **Guia Mestre:** **[[00-economia-e-antifragilidade-guia-mestre|00. Guia Mestre — Economia & Antifragilidade]]** — *Hub central da Trilha 2: Teoria monetária austríaca, desmonte do keynesianismo, derivativos financeiros e estratégias de convexidade patrimonial.*
 
 ---
 
 ### 🧠 Aprendizado & Método
 > Modelos mentais, frameworks de pensamento e como aprender coisas complexas de forma autodidata.
 
-📖 **Guia Mestre:** **[[00-aprendizado-e-metodo-guia-mestre|00. Guia Mestre — Aprendizado & Método]]**
+📖 **Guia Mestre:** **[[00-aprendizado-e-metodo-guia-mestre|00. Guia Mestre — Aprendizado & Método]]** — *Hub central da Trilha 3: Modelos mentais de tomada de decisão, técnicas de estudo autodidata por imersão, leitura sintópica e arquitetura de hábitos.*
 
 ---
 
 ### 🌿 Lifestyle & Bio-Otimização
 > Hábitos, sono, alimentação e cuidados com o corpo e a mente para manter o foco e a energia.
 
-📖 **Guia Mestre:** **[[00-bio-otimizacao-guia-mestre|00. Guia Mestre — Bio-Otimização e Alta Performance]]**
+📖 **Guia Mestre:** **[[00-bio-otimizacao-guia-mestre|00. Guia Mestre — Bio-Otimização e Alta Performance]]** — *Hub central da Trilha 4: Otimização do ritmo circadiano, neurobiologia da dopamina, protocolos de jejum intermitente e modulação autonômica da respiração.*
+📖 **Guia Mestre:** **[[00-nutricao-ancestral-e-terapeutica-de-eliminacao-guia-mestre|00. Guia Mestre — Nutrição Ancestral & Terapêutica de Eliminação]]** — *Sub-hub de nutrição da Trilha 4: Da desconstrução da inflamação crônica e antinutrientes vegetais ao domínio da Dieta Carnívora, cetose nutricional e reversão da resistência à insulina.*
+
+📍 **Artigos Principais:**
+- **[[01-nutricao-ancestral-a-falsa-normalidade-do-cansaco-e-a-inflamacao-oculta|01. A Falsa Normalidade do Cansaço e a Inflamação Oculta]]** — *Por que você aceitou viver cansado, inchado e com sono após o almoço como se fosse normal — e a biologia da inflamação silenciosa gerada pela alimentação moderna.*
+- **[[02-dieta-carnivora-fundamentos-antinutrientes-e-densidade-heme|02. Dieta Carnívora — Fundamentos, Antinutrientes e Densidade Heme]]** — *A biologia da guerra química vegetal, a extrema biodisponibilidade da carne vermelha e por que não existe carboidrato essencial para a fisiologia humana.*
+- **[[03-dieta-carnivora-o-protocolo-de-transicao-e-adaptacao-estavel|03. Dieta Carnívora — O Protocolo de Transição e Adaptação Estável]]** — *O guia prático de 30 dias para transitar para a Dieta Carnívora sem fraqueza, o manejo inegociável de eletrólitos e a seleção de cortes no açougue.*
+
+🌿 **Notas de Aprofundamento, Experimentos & Casos Reais:**
+- **[[a-mecanica-do-diabetes-tipo-2-resistencia-a-insulina-e-o-paradoxo-da-mala-cheia|A Mecânica do Diabetes Tipo 2 — Resistência à Insulina e o Paradoxo da Mala Cheia]]** — *Uma explicação didática e intuitiva de por que o diabetes tipo 2 não é falta de insulina, mas saturação celular — e por que a cura é esvaziar a mala, não empurrar mais força.*
+- **[[a-triade-metabolica-dieta-carnivora-cetose-nutricional-e-jejum-intermitente|A Tríade Metabólica — Dieta Carnívora, Cetose Nutricional e Jejum Intermitente]]** — *Como a união entre alimentação animal, corpos cetônicos e jejum espontâneo desliga a fome, estabiliza a energia e aciona a autofagia celular contínua.*
+- **[[dieta-carnivora-os-5-maiores-mitos-e-misconceptions-desmistificados|Dieta Carnívora — Os 5 Maiores Mitos e Misconceptions Desmistificados]]** — *O desmonte científico dos 5 maiores medos sobre a Dieta Carnívora: Escorbuto/GLUT-1, Fibras WJG 2012, Colesterol LMHR, Vísceras e Ácido Úrico/Gota.*
 
 ---
 
 ### ₿ Soberania Digital & Bitcoin
 > Estudos sobre a história do dinheiro, a falência do sistema fiduciário e por que o Bitcoin representa uma revolução na escassez digital e na liberdade individual.
 
-📖 **Guia Mestre:** **[[00-soberania-digital-e-bitcoin-guia-mestre|00. Guia Mestre — Soberania Digital, Teoria Monetária & Bitcoin]]**
+📖 **Guia Mestre:** **[[00-soberania-digital-e-bitcoin-guia-mestre|00. Guia Mestre — Soberania Digital, Teoria Monetária & Bitcoin]]** — *Hub central da Trilha 5: Da desconstrução da farsa da moeda estatal (pós-1971) e inflação à soberania financeira definitiva através da matemática e autocustódia do Bitcoin.*
 
 📍 **Artigos Principais:**
 - **[[01-bitcoin-das-predicoes-de-friedman-ao-bloco-genesis|01. A Farsa de Papel e a Segunda Maior Mentira do Mundo]]** — *Por que a moeda estatal é uma esteira de descapitalização do seu tempo de vida, a falência do padrão fiat pós-1971, o Efeito Cantillon e o nascimento da primeira escassez digital.*
@@ -83,21 +94,21 @@ Se algum texto te ajudou, se você achou algo interessante e quiser trocar uma i
 ### 🎭 Psicologia & Dinâmicas Sociais
 > Reflexões sobre o comportamento humano, maturidade emocional e relacionamentos.
 
-📖 **Guia Mestre:** **[[00-psicologia-e-dinamicas-sociais-guia-mestre|00. Guia Mestre — Psicologia & Dinâmicas Sociais]]**
+📖 **Guia Mestre:** **[[00-psicologia-e-dinamicas-sociais-guia-mestre|00. Guia Mestre — Psicologia & Dinâmicas Sociais]]** — *Hub central da Trilha 6: Maturação da personalidade nas 12 camadas, psicologia analítica junguiana, vieses cognitivos e retórica persuasiva ética.*
 
 ---
 
 ### ✝️ Filosofia & Transcendência
 > Buscas de sentido, moralidade, responsabilidade pessoal e transcendência.
 
-📖 **Guia Mestre:** **[[00-filosofia-e-transcendencia-guia-mestre|00. Guia Mestre — Filosofia e Transcendência]]**
+📖 **Guia Mestre:** **[[00-filosofia-e-transcendencia-guia-mestre|00. Guia Mestre — Filosofia e Transcendência]]** — *Hub central da Trilha 7: A busca de sentido, apologética cristã, superação do niilismo, moralidade objetiva e a vida interior com Deus.*
 
 ---
 
 ### 🎓 Estudos com IA (Faculdade & Cursos)
 > Como eu estudo na prática, organizo o conteúdo das aulas e uso IA para tirar dúvidas e fixar conceitos sem perder tempo.
 
-📖 **Guia Mestre:** **[[00-estudos-e-agentes-de-ia-guia-mestre|00. Guia Mestre — Estudos de Alto Desempenho, Segundo Cérebro & Agentes de IA]]**
+📖 **Guia Mestre:** **[[00-estudos-e-agentes-de-ia-guia-mestre|00. Guia Mestre — Estudos de Alto Desempenho, Segundo Cérebro & Agentes de IA]]** — *Hub central da Trilha 8: Como transformar seu processo de aprendizagem na faculdade e em estudos autodidatas através de arquitetura Two-Tier de IA, Obsidian e orquestração de agentes locais com Antigravity.*
 
 📍 **Artigos Principais:**
 - **[[01-estudos-com-ia-a-falencia-do-estudo-passivo-e-o-modelo-two-tier|01. A Falência do Estudo Passivo e o Modelo Two-Tier de IA]]** — *Por que assistir aulas passivamente gera ilusão de competência e como a Arquitetura Two-Tier de IA com Prompt-Ponte permite capturar o contexto da aula e aprofundar dúvidas sob demanda.*
