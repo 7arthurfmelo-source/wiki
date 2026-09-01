@@ -50,8 +50,19 @@ Artigos e ensaios complementares desacoplados da linha cronológica principal pa
 
 * **História & Gênese do Protocolo:** [[Fundamentos e História do Bitcoin — Da Crise de 2008 ao Bloco Gênesis]].
 * **Economia & Mecânica de Mercado:** [[Experimento Mental — Oferta, Demanda e a Formação de Preços]] e [[Reserva Fracionária — Como os Bancos Criam Dinheiro do Vazio]].
+* **Psicologia & Sociedade:** **Preferência Temporal e Civilização — Como a Moeda Fraca Destrói o Futuro** *(A tese austríaca de Ammous sobre moeda, ansiedade e poupança — Em breve)*.
+* **História Econômica & Dados:** **A Anatomia do Padrão Fiat — Dívida Soberana e o Descolamento de 1971** *(WTF Happened in 1971, produtividade vs salário e Petrodólar — Em breve)*.
 * **Objeções & Ceticismo:** **O Arsenal do Cético — As 7 Maiores Objeções ao Bitcoin** *(Quântica, Proibição Estatal, Tether, Volatilidade — Em breve)*.
 * **Termodinâmica & Meio Ambiente:** **A Termodinâmica do Bitcoin — Energia Residual e Matriz Verde** *(Monetização de queima de gás e estabilização de redes — Em breve)*.
-* **Fundamentos Filosóficos da Moeda:** **As 5 Características Aristotélicas do Dinheiro** *(Em breve)*.
-* **História Econômica:** **A Evolução Histórica da Moeda — Do Escambo ao Crédito** *(Em breve)*.
 * **Fronteiras Tecnológicas:** **A Fronteira da Tokenização — Ativos Reais e Redes Sociais Descentralizadas** *(Nostr, Zaps, Lightning Network e RWA — Em breve)*.
+
+---
+
+## 📚 Livros & Referências Canônicas do Acervo
+
+Esta trilha é fundamentada e enriquecida continuamente com o acervo da Biblioteca:
+
+- **O Padrão Bitcoin** *(Saifedean Ammous)* — A história da moeda, Stock-to-Flow ($S2F$), preferência temporal e a falha do padrão fiduciário.
+- **Bitcoin Red Pill: O Renascimento Moral e Material** *(Renato Amoedo & Alan Schramm)* — A soberania patrimonial em 3 níveis, inconfiscabilidade cognitiva BIP-39 e o desmonte da farsa estatal.
+- **The Fiat Standard** *(Saifedean Ammous)* — A engenharia contábil do Dólar pós-1971, dívida governamental como inflação estrutural e o Petrodólar.
+
