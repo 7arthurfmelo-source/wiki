@@ -38,7 +38,7 @@ Se algum texto te ajudou, se você achou algo interessante e quiser trocar uma i
 - **[[06-ia-na-pratica-a-maieutica-da-dissonancia-cognitiva|06. A Maiêutica da Dissonância — Como o Erro da IA Gera Insights Humanos]]** — *Entenda como a fricção reflexiva, o raciocínio abdutivo e os erros da IA servem de faísca socrática para a autoria e o bom gosto humano.*
 
 🌿 **Notas de Aprofundamento, Experimentos & Casos Reais:**
-- **[[07-ia-na-pratica-glossario-essencial-de-ia-e-contexto|07. Glossário Essencial de IA e Contexto]]** — *Glossário prático e desmistificado com os termos indispensáveis de Inteligência Artificial, Engenharia de Contexto, LLMs e Sistemas Agênticos.*
+- **[[07-ia-na-pratica-glossario-essencial-de-ia-e-contexto|07. Glossário Essencial de IA e Contexto]]** — *Glossário prático e desmistificado com os termos indispensáveis de Inteligência Artificial, Engenharia de Contexto, LLMs e Sistemas Agênticos organizados em 3 níveis de maturidade.*
 - **[[08-ia-na-pratica-casos-reais-e-replicaveis-do-vault|08. Casos Reais e Replicáveis do Segundo Cérebro]]** — *Demonstração prática e inspiradora de 3 casos reais e replicáveis de uso de IA e agentes em produção sobre o cofre Obsidian.*
 - **[[experimento-mental-o-chute-estatistico-e-a-ilusao-de-certeza-da-ia|Experimento Mental — O Chute Estatístico e a Ilusão de Certeza da IA]]** — *Um experimento mental com gosto musical e gastronomia demonstrando por que os LLMs falam com convicção cirúrgica mesmo quando estão apenas completando padrões no escuro.*
 
@@ -68,7 +68,7 @@ Se algum texto te ajudou, se você achou algo interessante e quiser trocar uma i
 ### ₿ Soberania Digital & Bitcoin
 > Estudos sobre a história do dinheiro, a falência do sistema fiduciário e por que o Bitcoin representa uma revolução na escassez digital e na liberdade individual.
 
-📖 **Guia Mestre:** **[[00-soberania-digital-e-bitcoin-guia-mestre|00. Guia Mestre — Soberania Digital e Bitcoin]]**
+📖 **Guia Mestre:** **[[00-soberania-digital-e-bitcoin-guia-mestre|00. Guia Mestre — Soberania Digital, Teoria Monetária & Bitcoin]]**
 
 📍 **Artigos Principais:**
 - **[[01-bitcoin-das-predicoes-de-friedman-ao-bloco-genesis|01. A Farsa de Papel e a Segunda Maior Mentira do Mundo]]** — *Por que a moeda estatal é uma esteira de descapitalização do seu tempo de vida, a falência do padrão fiat pós-1971, o Efeito Cantillon e o nascimento da primeira escassez digital.*

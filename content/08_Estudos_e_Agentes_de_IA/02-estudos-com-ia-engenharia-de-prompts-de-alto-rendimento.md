@@ -42,6 +42,17 @@ aliases:
 
 ---
 
+## 🧭 Índice do Artigo
+- [[#Ato 1: A Morte do Prompt Improvisado]]
+- [[#Ato 2: Os 5 Princípios de Design de Prompts de Estudo]]
+- [[#Ato 3: A Tríade de Prompts Pronta para Uso (Plug & Play)]]
+- [[#Ato 4: A Mágica da Marcação Semântica (`•` vs `→`)]]
+- [[#Ato 5: Protocolo de Execução em 2 Segundos]]
+- [[#🔗 Próximo Passo na Trilha]]
+- [[#🧬 Notas Co-ativadas & Conexões da Trilha]]
+
+---
+
 > *"A velocidade do seu aprendizado com IA não é limitada pela capacidade do modelo, mas pela fricção da sua interface de comando."*  
 > — **Axioma do Operador de IA**
 
@@ -214,11 +225,10 @@ Com os prompts afiados e a captura automatizada em 2 segundos, o próximo desafi
 
 *Como organizar semestres inteiros no Obsidian, calibrar a velocidade de estudo (2x a 4x) pelo ROI da matéria e nunca mais acumular conteúdo no final do período?*
 
-* → Avançar para a Etapa 03: [[03 - Estudos com IA — O Sistema Operacional Acadêmico e Ritmo Lindy]]
+* → **03. O Sistema Operacional Acadêmico e Ritmo Lindy** *(Em breve)*
 
 ---
 
 ### 🧬 Notas Co-ativadas & Conexões da Trilha
 * **Guia Mestre da Trilha:** [[00 - Estudos & Agentes de IA — Guia Mestre]]
 * **Etapa Anterior (Modelo Two-Tier):** [[01 - Estudos com IA — A Falência do Estudo Passivo e o Modelo Two-Tier]]
-* **Próxima Etapa (Sistema Operacional Acadêmico):** [[03 - Estudos com IA — O Sistema Operacional Acadêmico e Ritmo Lindy]]

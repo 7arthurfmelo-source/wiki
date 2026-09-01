@@ -21,7 +21,7 @@ aliases:
 
 > **Autor:** Arthur (Tutu)  
 > **Trilha:** #PsicologiaEDinamicasSociais (Nível 1 a 3)  
-> **Conexões:** → [[Índice — Acervo de Artigos Wiki]] | → [[Plano Mestre — Trilha de Psicologia Comportamental e Dinâmicas Sociais]]  
+> **Conexões:** → [[Índice — Acervo de Artigos Wiki]]  
 
 ---
 
@@ -35,21 +35,13 @@ Esta trilha conduz o leitor do infantilismo existencial à maturidade de caráte
 
 | Artigo da Espinha Dorsal | O que Informa? (Fato/Mecanismo) | O que Convence/Persuade? (Quebra de Crença) | O que o Leitor Faz/Muda na Vida? (Ação/Comportamento) | CTA de Encerramento & Estágio Promovido |
 | :--- | :--- | :--- | :--- | :--- |
-| **[[01 - Maturação Individual — As 12 Camadas da Personalidade\|01. As 12 Camadas da Personalidade]]** | A escala de maturação existencial e o papel do dever. | Destrói a ilusão de que idade cronológica é maturidade. | Assume os deveres necessários para a transição de camada. | **CTA:** Avançar para o Artigo 02. *(Nível 1)* |
-| **[[02 - A Arquitetura do Inconsciente — Jung, Arquétipos e Tipos Psicológicos\|02. Jung e a Sombra]]** | A psique junguiana: Persona, Sombra e Individuação. | Prova que o que você reprime nos outros controla você. | Mapeia a Sombra e cessa projeções destrutivas. | **CTA:** Avançar para o Artigo 03. *(Nível 2)* |
-| **[[03 - Arquitetura de Escolha — Heurísticas e Atalhos Mentais\|03. Heurísticas e Vieses]]** | Sistema 1 vs Sistema 2 e vieses de decisão. | Prova que o cérebro prefere narrativas a dados reais. | Aplica o protocolo de desaceleração decisória. | **CTA:** Avançar para o Artigo 04. *(Nível 3)* |
-| **[[04 - A Física da Persuasão — Retórica Aristotélica e Comunicação Não-Violenta\|04. Retórica e Persuasão]]** | Ethos, Pathos, Logos e assertividade não-violenta. | Prova que ter razão sem Ethos e empatia é inútil. | Constrói diálogos firmes ancorados na verdade. | **CTA:** Acessar Sidequests avançadas. *(Nível 4)* |
+| **01. As 12 Camadas da Personalidade** *(Em breve)* | A escala de maturação existencial e o papel do dever. | Destrói a ilusão de que idade cronológica é maturidade. | Assume os deveres necessários para a transição de camada. | **CTA:** Avançar para o Artigo 02. *(Nível 1)* |
+| **02. Jung e a Sombra** *(Em breve)* | A psique junguiana: Persona, Sombra e Individuação. | Prova que o que você reprime nos outros controla você. | Mapeia a Sombra e cessa projeções destrutivas. | **CTA:** Avançar para o Artigo 03. *(Nível 2)* |
+| **03. Heurísticas e Vieses** *(Em breve)* | Sistema 1 vs Sistema 2 e vieses de decisão. | Prova que o cérebro prefere narrativas a dados reais. | Aplica o protocolo de desaceleração decisória. | **CTA:** Avançar para o Artigo 04. *(Nível 3)* |
+| **04. Retórica e Persuasão** *(Em breve)* | Ethos, Pathos, Logos e assertividade não-violenta. | Prova que ter razão sem Ethos e empatia é inútil. | Constrói diálogos firmes ancorados na verdade. | **CTA:** Acessar Sidequests avançadas. *(Nível 4)* |
 
 ---
 
 ## 🌿 Sidequests & Nós Satélites de Aprofundamento
 
-* **Poder & Biologia:** [[05 - Dinâmicas de Poder — Psicologia Evolutiva e Matrizes Interpessoais]] *(Hierarquias de dominância e cooperação estratégica)*.
-
----
-
-## 📚 Documentação Mestre & Referências
-
-- **Plano Mestre de Arquitetura:** [[Plano Mestre — Trilha de Psicologia Comportamental e Dinâmicas Sociais]].
-- **Diretriz de Escrita:** [[Diretriz de Desdobramento Prático de Trilhas]].
-- **Log de Decisões:** [[DECISIONS|Log de Decisões de Arquitetura (ADRs) — Wiki]].
+* **Poder & Biologia:** **05. Psicologia Evolutiva e Matrizes Interpessoais** *(Hierarquias de dominância e cooperação estratégica — Em breve)*.

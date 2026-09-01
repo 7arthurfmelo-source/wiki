@@ -29,13 +29,22 @@ aliases:
 ## 🎯 Cabeçalho de Metas & Premissas
 
 > **Premissas Necessárias:**
-> - Compreensão do modelo centauro e do perigo da terceirização de raciocínio ([[01 - IA na Prática — Amplificação vs Substituição]]).
+> - Compreensão da amplificação ativa e do perigo da terceirização de raciocínio ([[01 - IA na Prática — Amplificação vs Substituição]]).
 >
 > **O que você VAI aprender neste artigo:**
 > - O fenômeno do "AI Slop" (a inundação de lixo estatístico na internet) e como ele degrada a autoridade profissional.
 > - A ilusão dos cursos caça-níqueis de "MicroSaaS sem código em 48 horas" e o custo invisível da dívida técnica.
 > - O "Grande Rollback" da IA e a revalorização do Proof of Work intelectual.
 > - A alternativa sustentável: criar um Personal Operating System (POS) soberano em Markdown.
+
+---
+
+## 🧭 Índice do Artigo
+- [[#Ato 1: O Fenômeno do AI Slop — A Inundação do Lixo Estatístico]]
+- [[#Ato 2: A Ilusão do "MicroSaaS sem Código em 2 Dias"]]
+- [[#Ato 3: O Grande Rollback da IA & A Revalorização do Critério]]
+- [[#Ato 4: Personal Operating System (POS) — A Alternativa Sustentável]]
+- [[#🧬 Conexões e Referências]]
 
 ---
 
@@ -48,7 +57,7 @@ O *AI Slop* ocorre quando o operador abandona a postura do Comandante e passa a 
 * Bases de código repletas de bugs ocultos e funções redundantes geradas por quem não sabe auditar software.
 * Posts nas redes sociais sem voz própria, criados unicamente para inflar métricas de vaidade.
 
-Quando todo mundo consegue gerar 1.000 palavras em 5 segundos, o volume de texto impresso perde valor econômico. O que passa a valer ouro é a **densidade de sinal, a concisão e o Proof of Work intelectual** ([[Deep Work - Cal Newport]]).
+Quando todo mundo consegue gerar 1.000 palavras em 5 segundos, o volume de texto impresso perde valor econômico. O que passa a valer ouro é a **densidade de sinal, a concisão e o Proof of Work intelectual**.
 
 ---
 
@@ -88,6 +97,6 @@ As vantagens de um POS em Markdown soberano:
 
 ### 🧬 Conexões e Referências
 * **Guia Mestre da Trilha:** [[00 - IA na Prática — Guia Mestre]]
-* **Matriz Canônica:** [[Matriz de Referências Canônicas — Trilha IA e Segundo Cérebro]]
-* **Casos Práticos:** [[08 - IA na Prática — Casos Reais e Replicáveis do Vault]]
+* **Artigo Central:** [[01 - IA na Prática — Amplificação vs Substituição]]
+* **Casos Práticos do Vault:** [[08 - IA na Prática — Casos Reais e Replicáveis do Vault]]
 * **Glossário Essencial:** [[07 - IA na Prática — Glossário Essencial de IA e Contexto]]

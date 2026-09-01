@@ -39,6 +39,15 @@ aliases:
 
 ---
 
+## 🧭 Índice do Artigo
+- [[#Ato 1: O Perigo da Interface Perfeita (Fricção Reflexiva)]]
+- [[#Ato 2: Raciocínio Abdutivo (O Salto Lógico Humano)]]
+- [[#Ato 3: Sensemaking — Extraindo Ordem do Caos]]
+- [[#Ato 4: Exercício Prático: O Filtro do Caos em 3 Passos]]
+- [[#🧬 Conexões e Referências]]
+
+---
+
 ### Ato 1: O Perigo da Interface Perfeita (Fricção Reflexiva)
 
 A busca incessante da indústria de tecnologia por interfaces *seamless* (sem atrito) gera um efeito colateral grave: a passividade intelectual. Quando uma ferramenta entrega tudo pronto e perfeitamente polido, o usuário tende a desativar o pensamento analítico profundo (Sistema 2 de Daniel Kahneman).
@@ -77,6 +86,6 @@ Sem o *Sensemaking* humano, os dados gerados pela IA permanecem como ruído inú
 
 ### 🧬 Conexões e Referências
 * **Guia Mestre da Trilha:** [[00 - IA na Prática — Guia Mestre]]
-* **Matriz Canônica:** [[Matriz de Referências Canônicas — Trilha IA e Segundo Cérebro]]
-* **Fundamentos do KM:** [[Cognitive Offloading]], [[Física de Sistemas Cognitivos]]
+* **Artigo Central:** [[01 - IA na Prática — Amplificação vs Substituição]]
+* **Engenharia de Contexto:** [[03 - IA na Prática — O Operador no Comando e Contexting]]
 * **Glossário Essencial:** [[07 - IA na Prática — Glossário Essencial de IA e Contexto]]

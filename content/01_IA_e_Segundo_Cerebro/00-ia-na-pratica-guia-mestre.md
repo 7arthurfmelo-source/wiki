@@ -21,7 +21,7 @@ aliases:
 
 > **Autor:** Arthur (Tutu)  
 > **Trilha:** #IANaPratica (Nível 1 a 4)  
-> **Conexões:** → [[Índice — Acervo de Artigos Wiki]] | → [[Plano Mestre — Trilha de IA e Segundo Cérebro]]  
+> **Conexões:** → [[Índice — Acervo de Artigos Wiki]]  
 
 ---
 
@@ -51,10 +51,3 @@ Você aprenderá a explorar a janela histórica de arbitragem econômica do cape
 * **Pensamento Crítico:** [[06 - IA na Prática — A Maiêutica da Dissonância Cognitiva]] *(Uso socrático de LLMs e raciocínio abdutivo)*.
 * **Referência Rápida:** [[07 - IA na Prática — Glossário Essencial de IA e Contexto]] *(Terminologia essencial: Tokens, Context Rot, RAG, POS e Agentes)*.
 * **Inspiração Prática:** [[08 - IA na Prática — Casos Reais e Replicáveis do Vault]] *(Demonstração de 3 fluxos reais: Ingestão de Livros, Auditoria de Grafos e Conciliação Financeira)*.
-
----
-
-## 📚 Documentação Mestre & Planejamento
-
-- **Plano Mestre de Arquitetura:** [[Plano Mestre — Trilha de IA e Segundo Cérebro]]
-- **Diretriz de Escrita:** [[Diretriz de Desdobramento Prático de Trilhas]]

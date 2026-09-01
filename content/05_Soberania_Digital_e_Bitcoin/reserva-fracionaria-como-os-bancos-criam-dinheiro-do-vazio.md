@@ -23,8 +23,6 @@ aliases:
 > **Autor:** Arthur (Tutu)  
 > **Trilha:** [[00 - Soberania Digital & Bitcoin — Guia Mestre|Soberania Digital & Bitcoin (Sidequest de Apoio)]]  
 > **Artigo Principal Vinculado:** [[01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]]  
-> **Conexão no KM:** [[Reserva Fracionária vs Índice de Basileia]] | [[Base Monetária Brasileira]]  
-> **Book Skill de Apoio:** [[SKILL|book-bitcoin-red-pill]] — *Bitcoin Red Pill (3ª Edição)*  
 
 ---
 
@@ -37,6 +35,14 @@ Na prática jurídica e contábil do sistema financeiro moderno, **isso não aco
 Sob o regime de **Reserva Fracionária**, os bancos comerciais são autorizados por lei a reter apenas uma pequena fração dos depósitos (geralmente entre 10% e 20%, ou até 0% em alguns países) e **emprestar todo o restante** para terceiros. 
 
 Ao fazer isso repetidamente, os bancos criam dinheiro escritural do vazio, expandindo a quantidade de moeda circulante na economia.
+
+---
+
+## 🧭 Índice do Artigo
+- [[#⚙️ A Mecânica do Multiplicador Bancário]]
+- [[#💥 As Consequências Perversas da Reserva Fracionária]]
+- [[#🛡️ A Alternativa Soberana do Bitcoin]]
+- [[#🧬 Conexões Semânticas & Referências]]
 
 ---
 
@@ -102,7 +108,7 @@ A rede Bitcoin extingue completamente a possibilidade de reserva fracionária no
 
 ## 🧬 Conexões Semânticas & Referências
 
-* **Artigo da Trilha:** [[01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]]
-* **Fundamentos no KM:** [[Reserva Fracionária vs Índice de Basileia]] | [[Base Monetária Brasileira]]
-* **Trilha de Economia:** [[01 - Economia — As 6 Lições de Mises]]
-* **Referência da Literatura:** *Bitcoin Red Pill (3ª Edição)*, Capítulo sobre Fragilidade Bancária e Moeda Escritural.
+* **Artigo Principal da Trilha:** [[01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]]
+* **Guia Mestre da Trilha:** [[00 - Soberania Digital & Bitcoin — Guia Mestre]]
+* **Fundamentos Históricos:** [[Fundamentos e História do Bitcoin — Da Crise de 2008 ao Bloco Gênesis]]
+* **Experimento Mental de Preços:** [[Experimento Mental — Oferta, Demanda e a Formação de Preços]]

@@ -21,7 +21,7 @@ aliases:
 
 > **Autor:** Arthur (Tutu)  
 > **Trilha:** #AprendizadoEMetodo (Nível 1 a 3)  
-> **Conexões:** → [[Índice — Acervo de Artigos Wiki]] | → [[Plano Mestre — Trilha de Aprendizado e Método]]  
+> **Conexões:** → [[Índice — Acervo de Artigos Wiki]]  
 
 ---
 
@@ -35,15 +35,7 @@ Esta trilha conduz o leitor do estudo passivo e ineficiente à soberania intelec
 
 | Artigo da Espinha Dorsal | O que Informa? (Fato/Mecanismo) | O que Convence/Persuade? (Quebra de Crença) | O que o Leitor Faz/Muda na Vida? (Ação/Comportamento) | CTA de Encerramento & Estágio Promovido |
 | :--- | :--- | :--- | :--- | :--- |
-| **[[01 - Método — Frameworks de Pensamento e Tomada de Decisão\|01. Modelos Mentais e Decisão]]** | Primeiros Princípios, Navalha de Occam e Inversão de Jacobi. | Destrói o pensamento por analogia passiva. | Aplica o checklist de 3 navalhas em decisões reais. | **CTA:** Avançar para o Artigo 02. *(Nível 1)* |
-| **[[02 - Método — O Guia Autodidata por Imersão\|02. Autodidatismo por Imersão]]** | Técnica Feynman, curva de esquecimento e recuperação ativa. | Elimina a ilusão de competência do estudo passivo. | Adota ciclos de autoexplicação e repetição espaçada. | **CTA:** Avançar para o Artigo 03. *(Nível 2)* |
-| **[[03 - Método — Filosofia e Metacognição na Modernidade\|03. Leitura Sintópica e PKM]]** | Os 4 níveis de Adler e síntese em rede Zettelkasten. | Prova que ler sem fichar atômico gera amnésia. | Constrói conexões em rede no Segundo Cérebro. | **CTA:** Avançar para o Artigo 04. *(Nível 3)* |
-| **[[04 - Método — A Fisiologia dos Sistemas de Incentivos\|04. Arquitetura de Hábitos]]** | Neurobiologia do hábito e engenharia de ambientes. | Prova que força de vontade pura se esgota rapidamente. | Desenha ambientes que tornam o foco inevitável. | **CTA:** Consolidar e acessar novas trilhas. *(Nível 4)* |
-
----
-
-## 📚 Documentação Mestre & Referências
-
-- **Plano Mestre de Arquitetura:** [[Plano Mestre — Trilha de Aprendizado e Método]].
-- **Diretriz de Escrita:** [[Diretriz de Desdobramento Prático de Trilhas]].
-- **Log de Decisões:** [[DECISIONS|Log de Decisões de Arquitetura (ADRs) — Wiki]].
+| **01. Modelos Mentais e Decisão** *(Em breve)* | Primeiros Princípios, Navalha de Occam e Inversão de Jacobi. | Destrói o pensamento por analogia passiva. | Aplica o checklist de 3 navalhas em decisões reais. | **CTA:** Avançar para o Artigo 02. *(Nível 1)* |
+| **02. Autodidatismo por Imersão** *(Em breve)* | Técnica Feynman, curva de esquecimento e recuperação ativa. | Elimina a ilusão de competência do estudo passivo. | Adota ciclos de autoexplicação e repetição espaçada. | **CTA:** Avançar para o Artigo 03. *(Nível 2)* |
+| **03. Leitura Sintópica e PKM** *(Em breve)* | Os 4 níveis de Adler e síntese em rede Zettelkasten. | Prova que ler sem fichar atômico gera amnésia. | Constrói conexões em rede no Segundo Cérebro. | **CTA:** Avançar para o Artigo 04. *(Nível 3)* |
+| **04. Arquitetura de Hábitos** *(Em breve)* | Neurobiologia do hábito e engenharia de ambientes. | Prova que força de vontade pura se esgota rapidamente. | Desenha ambientes que tornam o foco inevitável. | **CTA:** Consolidar e acessar novas trilhas. *(Nível 4)* |

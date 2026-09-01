@@ -42,6 +42,17 @@ aliases:
 
 ---
 
+## 🧭 Índice do Artigo
+- [[#Ato 1: A Armadilha da 'Ilusão de Competência' no Ensino Moderno]]
+- [[#Ato 2: O Método — A Arquitetura Two-Tier & O Prompt-Ponte]]
+- [[#Ato 3: Como Eu Aplico no Meu Caso Pessoal (& Como Você Pode Adaptar)]]
+- [[#Ato 4: Aprofundamento Sob Demanda — Amplificação em Vez de Substituição]]
+- [[#Ato 5: Guia de Implementação Imediata]]
+- [[#🔗 Próximo Passo na Trilha]]
+- [[#🧬 Notas Co-ativadas & Conexões da Trilha]]
+
+---
+
 > *"Ouvir uma explicação brilhante e entender o que o professor disse não significa que você aprendeu. Significa apenas que o professor sabe explicar."*  
 > — **Axioma do Aprendizado Ativo**
 

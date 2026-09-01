@@ -23,7 +23,6 @@ aliases:
 > **Autor:** Arthur (Tutu)  
 > **Trilha:** [[00 - IA na Prática — Guia Mestre|IA & O Segundo Cérebro (Espinha Dorsal — Etapa 02)]]  
 > **Nível de Consciência:** Nível 1 ➔ Nível 2 (Da frustração com respostas genéricas ao controle previsível)  
-> **Matriz de Referências:** [[Matriz de Referências Canônicas — Trilha IA e Segundo Cérebro]]  
 > **Conexões:** → [[00 - IA na Prática — Guia Mestre]] | [[01 - IA na Prática — Amplificação vs Substituição]] | [[03 - IA na Prática — O Operador no Comando e Contexting]]  
 
 ---
@@ -39,9 +38,17 @@ aliases:
 > - A fórmula de 3 partes de um prompt previsível: Papel (*Role*), Contexto (*Context*) e Restrição de Saída (*Constraint*).
 > - Como aplicar restrições negativas para eliminar adulação, clichês e respostas prolixas.
 > - 3 exemplos comparativos de refatoração de prompts antes e depois.
->
-> **O que você NÃO VAI aprender neste artigo:**
-> - Gerenciamento de memória de longo prazo ou automação com multiagentes (ver Artigos 03 e 04).
+
+---
+
+## 🧭 Índice do Artigo
+- [[#Ato 1: O Paradoxo do Oráculo Místico]]
+- [[#Ato 2: O Salto — A Máquina como Processador de Insumo]]
+- [[#Ato 3: A Tríade Canônica do Prompt de Controle]]
+- [[#Ato 4: A Engenharia de Restrições Negativas (Matando a Adulação)]]
+- [[#Ato 5: Guia de Implementação Prática (Antes vs. Depois)]]
+- [[#🔗 Próximo Passo na Trilha]]
+- [[#🧬 Notas Co-ativadas & Conexões da Trilha]]
 
 ---
 
@@ -141,7 +148,7 @@ Veja a transformação na prática:
 
 ---
 
-### 🔗 Próximo Passo na Trilha (Loop Aberto & CTA)
+### 🔗 Próximo Passo na Trilha
 
 Você já domina a sintaxe do prompt individual. No entanto, digitar o contexto do seu negócio manualmente em cada conversa é insustentável e queima tempo.
 
@@ -151,8 +158,8 @@ Como fazer a IA lembrar de quem você é, dos seus projetos e das suas preferên
 
 ---
 
-### 🧬 Notas Co-ativadas & Fontes Canônicas
+### 🧬 Notas Co-ativadas & Conexões da Trilha
 * **Guia Mestre da Trilha:** [[00 - IA na Prática — Guia Mestre]]
-* **Matriz Canônica de Fontes:** [[Matriz de Referências Canônicas — Trilha IA e Segundo Cérebro]]
-* **Fundamentos do KM:** [[Fundamentos Prompting]], [[Framework Feynman de Prompt]]
-* **Glossário Essencial:** [[07 - IA na Prática — Glossário Essencial de IA e Contexto]]
+* **Etapa Anterior:** [[01 - IA na Prática — Amplificação vs Substituição]]
+* **Próxima Etapa:** [[03 - IA na Prática — O Operador no Comando e Contexting]]
+* **Glossário Essencial de IA:** [[07 - IA na Prática — Glossário Essencial de IA e Contexto]]

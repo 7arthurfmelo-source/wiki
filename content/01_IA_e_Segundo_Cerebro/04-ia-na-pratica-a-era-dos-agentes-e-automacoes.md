@@ -24,7 +24,6 @@ aliases:
 > **Autor:** Arthur (Tutu)  
 > **Trilha:** [[00 - IA na Prática — Guia Mestre|IA & O Segundo Cérebro (Espinha Dorsal — Etapa 04)]]  
 > **Nível de Consciência:** Nível 3 ➔ Nível 4 (Do contexto persistente à orquestração agêntica soberana)  
-> **Matriz de Referências:** [[Matriz de Referências Canônicas — Trilha IA e Segundo Cérebro]]  
 > **Conexões:** → [[00 - IA na Prática — Guia Mestre]] | [[03 - IA na Prática — O Operador no Comando e Contexting]] | [[08 - IA na Prática — Casos Reais e Replicáveis do Vault]]  
 
 ---
@@ -39,11 +38,19 @@ aliases:
 > - O salto de chats de turno único para sistemas de múltiplos loops iterativos (*AI Loops*).
 > - Como o ecossistema local (Obsidian + Markdown + Assistente Agêntico) opera sem depender de nuvens fechadas.
 > - A matriz de governança e disjuntores de segurança por níveis de risco (Travas N0 a N4).
-> - As 6 Camadas de um Segundo Cérebro AI-First ([[Thiago Peraro — Segundo Cérebro e Context Engineering (CEIA 2026)|CEIA 2026]]).
+> - As 6 Camadas de um Segundo Cérebro AI-First.
 > - O Actionable Kit Plug-and-Play para ativar seu primeiro agente em 5 minutos.
->
-> **O que você NÃO VAI aprender neste artigo:**
-> - Programação avançada em Python ou desenvolvimento de backends tradicionais.
+
+---
+
+## 🧭 Índice do Artigo
+- [[#Ato 1: O Salto Lógico — De Chats Reativos para Loops de Agência]]
+- [[#Ato 2: O Ecossistema Local (Obsidian + Markdown + Motor Agêntico)]]
+- [[#Ato 3: O Perigo da Autonomia Cega & A Governança de Travas (N0 a N4)]]
+- [[#Ato 4: As 6 Camadas do Segundo Cérebro AI-First]]
+- [[#Ato 5: Actionable Kit Plug-and-Play (Ative seu Agente em 5 Minutos)]]
+- [[#🔗 Próximo Passo na Trilha]]
+- [[#🧬 Notas Co-ativadas & Conexões da Trilha]]
 
 ---
 
@@ -110,7 +117,7 @@ graph LR
 
 ### Ato 4: As 6 Camadas do Segundo Cérebro AI-First
 
-Conforme estruturado por [[Thiago Peraro — Segundo Cérebro e Context Engineering (CEIA 2026)|Thiago Peraro (CEIA 2026)]], um ecossistema cognitivo maduro opera sobre **6 camadas integradas**:
+Um ecossistema cognitivo maduro opera sobre **6 camadas integradas**:
 
 1. **Camada 1: Knowledge-as-Code:** Toda nota é um arquivo Markdown com frontmatter YAML no Git.
 2. **Camada 2: Context Engineering Aplicado:** Resumos de alta densidade e revelação progressiva (*Progressive Disclosure*).
@@ -156,7 +163,7 @@ Quando acionado, execute:
 
 ---
 
-### 🔗 Próximo Passo na Trilha (Loop Aberto & CTA)
+### 🔗 Próximo Passo na Trilha
 
 Você completou a jornada central da Espinha Dorsal: compreendeu a física dos LLMs, dominou o prompting em 3 partes, instalou seu córtex de contexto e aprendeu a governar agentes autônomos com segurança.
 
@@ -169,9 +176,8 @@ Agora, explore as Sidequests especializadas para aprofundar seu discernimento cr
 
 ---
 
-### 🧬 Notas Co-ativadas & Fontes Canônicas
+### 🧬 Notas Co-ativadas & Conexões da Trilha
 * **Guia Mestre da Trilha:** [[00 - IA na Prática — Guia Mestre]]
-* **Matriz Canônica de Fontes:** [[Matriz de Referências Canônicas — Trilha IA e Segundo Cérebro]]
-* **Palestra de Referência:** [[Thiago Peraro — Segundo Cérebro e Context Engineering (CEIA 2026)]]
-* **Fundamentos do KM:** [[AI Loops — Do Prompt Isolado ao Sistema Iterativo]], [[AI-KM Operating System — Arquitetura Agnóstica para Segundo Cérebro, KM e Agentes]]
-* **Casos Reais:** [[08 - IA na Prática — Casos Reais e Replicáveis do Vault]]
+* **Etapa Anterior (Engenharia de Contexto):** [[03 - IA na Prática — O Operador no Comando e Contexting]]
+* **Glossário Essencial:** [[07 - IA na Prática — Glossário Essencial de IA e Contexto]]
+* **Casos Reais do Vault:** [[08 - IA na Prática — Casos Reais e Replicáveis do Vault]]

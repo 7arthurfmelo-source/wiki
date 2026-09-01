@@ -42,6 +42,17 @@ aliases:
 
 ---
 
+## 🧭 Índice do Artigo
+- [[#Ato 1: O 'Gênio com Amnésia' & O Ciclo do Desperdício de Tokens]]
+- [[#Ato 2: O Gargalo Real — Extensão de Memória, Lost-in-the-Middle e Context Rot]]
+- [[#Ato 3: A Arquitetura de 2 Arquivos — O Córtex Externo no Obsidian]]
+- [[#Ato 4: Comparativo — O Usuário Amador vs. O Engenheiro de Contexto]]
+- [[#Ato 5: Guia de Implementação Imediata]]
+- [[#🔗 Próximo Passo na Trilha]]
+- [[#🧬 Notas Co-ativadas & Conexões da Trilha]]
+
+---
+
 > *"Fluência em IA não é saber qual modelo usar. É saber exatamente o que colocar dentro da janela de contexto."*  
 > — **Axioma da Engenharia de Contexto**
 
@@ -155,4 +166,4 @@ Você transformou a IA em um especialista que conhece seu contexto e suas regras
 * **Guia Mestre da Trilha:** [[00 - IA na Prática — Guia Mestre]]
 * **Etapa Anterior (Prompting em 3 Partes):** [[02 - IA na Prática — Prompting em 3 Partes]]
 * **Próxima Etapa (Agentes e Automação):** [[04 - IA na Prática — A Era dos Agentes e Automações]]
-* **Glossário Essencial:** [[07 - IA na Prática — Glossário Essencial de IA e Contexto]]
+* **Glossário Essencial de IA:** [[07 - IA na Prática — Glossário Essencial de IA e Contexto]]

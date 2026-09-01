@@ -22,7 +22,7 @@ aliases:
 > **Autor:** Arthur (Tutu)  
 > **Trilha de Origem:** [[00 - Economia & Antifragilidade — Guia Mestre|Economia & Antifragilidade (Nível 1)]]  
 > **Trilha Co-ativada:** [[00 - Soberania Digital & Bitcoin — Guia Mestre|Soberania Digital & Bitcoin]]  
-> **Conexões Canônicas:** → [[01 - Economia — As 6 Lições de Mises]] | → [[Escola Austríaca]] | → [[01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]]  
+> **Conexões Canônicas:** → [[01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]]  
 
 ---
 
@@ -30,9 +30,16 @@ aliases:
 
 No senso comum, muitas pessoas acreditam erroneamente que os preços são determinados de forma voluntariosa pela *"ganância dos comerciantes"* ou por decretos estatais.
 
-Como demonstrado pela tradição da [[Escola Austríaca]] (Carl Menger e Ludwig von Mises em [[01 - Economia — As 6 Lições de Mises]]), **os preços são sinais de informação e escassez relativa**. Eles comunicam instantaneamente a milhões de agentes descentralizados o valor que a sociedade atribui a determinado bem frente à sua disponibilidade real no mundo físico.
+Como demonstrado pela tradição da Escola Austríaca de Economia (Carl Menger e Ludwig von Mises), **os preços são sinais de informação e escassez relativa**. Eles comunicam instantaneamente a milhões de agentes descentralizados o valor que a sociedade atribui a determinado bem frente à sua disponibilidade real no mundo físico.
 
 Para compreender como isso opera de forma cristalina, recorremos a um clássico experimento mental.
+
+---
+
+## 🧭 Índice do Artigo
+- [[#🏝️ O Experimento Mental: A Ilha dos Pescadores e as Maçãs]]
+- [[#🧠 As 3 Leis Axiomáticas dos Preços Livres]]
+- [[#🧬 Conexões Semânticas & Referências]]
 
 ---
 
@@ -86,7 +93,6 @@ flowchart TD
 
 ## 🧬 Conexões Semânticas & Referências
 
-* **Trilha de Economia:** [[00 - Economia & Antifragilidade — Guia Mestre]] | [[01 - Economia — As 6 Lições de Mises]]
-* **Trilha de Bitcoin:** [[01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]]
-* **Fundamentos Teóricos:** [[Escola Austríaca]] | [[A pretensão do Conhecimento Humano]]
-* **Obra Recomendada:** *As Seis Lições* (Ludwig von Mises), Conferência 1 (Capitalismo) e 4 (Inflação).
+* **Trilha de Economia:** [[00 - Economia & Antifragilidade — Guia Mestre]]
+* **Trilha de Bitcoin:** [[00 - Soberania Digital & Bitcoin — Guia Mestre]] | [[01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]]
+* **Fundamentos Históricos:** [[Fundamentos e História do Bitcoin — Da Crise de 2008 ao Bloco Gênesis]]

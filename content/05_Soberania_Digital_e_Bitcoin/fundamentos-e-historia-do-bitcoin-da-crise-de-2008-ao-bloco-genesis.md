@@ -23,8 +23,6 @@ aliases:
 > **Autor:** Arthur (Tutu)  
 > **Trilha:** [[00 - Soberania Digital & Bitcoin — Guia Mestre|Soberania Digital & Bitcoin (Sidequest Fundacional)]]  
 > **Artigo Principal Vinculado:** [[01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]]  
-> **Notas de Origem no KM:** [[Bitcoin — Origens e Motivações]], [[Friedman e o Bitcoin]]  
-> **Book Skill de Apoio:** [[SKILL|book-bitcoin-red-pill]] — *Bitcoin Red Pill (3ª Edição)*  
 
 ---
 
@@ -33,6 +31,15 @@ aliases:
 O nascimento do Bitcoin não foi um evento acadêmico isolado, mas uma **resposta tecnológica e moral direta à maior crise de solvência do sistema financeiro global desde a Grande Depressão de 1929**.
 
 Compreender o surgimento da rede exige examinar a falência dos intermediários de confiança em 2008, a proposta revolucionária de Satoshi Nakamoto e os princípios matemáticos que tornam o protocolo uma tecnologia inconfiscável e livre de coerção estatal.
+
+---
+
+## 🧭 Índice do Artigo
+- [[#💥 1. O Pano de Fundo: O Colapso de 2008 e os Resgates (*Bailouts*)]]
+- [[#📄 2. O White Paper de Satoshi Nakamoto (31 de Outubro de 2008)]]
+- [[#⛏️ 3. A Mineração do Bloco Gênesis (03 de Janeiro de 2009)]]
+- [[#🧱 4. Os 4 Pilares Fundacionais do Protocolo]]
+- [[#🧬 Conexões Semânticas & Referências]]
 
 ---
 
@@ -99,6 +106,6 @@ graph TD
 ## 🧬 Conexões Semânticas & Referências
 
 * **Artigo Central da Trilha:** [[01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]]
-* **Fundamentos no KM:** [[Bitcoin — Origens e Motivações]] | [[Friedman e o Bitcoin]] | [[Autocustódia e Soberania]]
-* **Teoria Econômica de Apoio:** [[O Padrão Bitcoin - Saifedean Ammous]]
-* **Book Skill Canônica:** [[SKILL|book-bitcoin-red-pill]] — *Bitcoin Red Pill (3ª Edição)*, Renato Amoedo e Alan Schramm.
+* **Guia Mestre da Trilha:** [[00 - Soberania Digital & Bitcoin — Guia Mestre]]
+* **Mecânica Bancária:** [[Reserva Fracionária — Como os Bancos Criam Dinheiro do Vazio]]
+* **Experimento Mental de Preços:** [[Experimento Mental — Oferta, Demanda e a Formação de Preços]]

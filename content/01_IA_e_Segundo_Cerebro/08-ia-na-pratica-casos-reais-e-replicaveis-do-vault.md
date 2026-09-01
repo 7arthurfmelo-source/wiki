@@ -40,6 +40,16 @@ aliases:
 
 ---
 
+## 🧭 Índice do Artigo
+- [[#🏛️ A Virada Prática: Do Chat Abstrato para a Infraestrutura Local]]
+- [[#📚 Caso 1: Ingestão e Fatiamento de Livros (De ePub a Mentor Agêntico)]]
+- [[#🔍 Caso 2: Auditoria Mecânica e Saúde de Grafos Zettelkasten]]
+- [[#💳 Caso 3: Conciliação Financeira Imutável (OFX e Faturas PDF)]]
+- [[#🚀 Como Começar no Seu Computador (Actionable ROI em 3 Passos)]]
+- [[#🧬 Conexões e Referências]]
+
+---
+
 ## 🏛️ A Virada Prática: Do Chat Abstrato para a Infraestrutura Local
 
 A maioria das pessoas utiliza IA abrindo uma aba do navegador, colando uma dúvida e fechando a janela. No dia seguinte, todo o histórico evaporou, a IA esqueceu quem é o usuário e a rotina recomeça do zero.
@@ -84,7 +94,7 @@ Conforme um cofre pessoal atinge milhares de notas interligadas, o grafo começa
 ### A Solução com IA
 Implementamos agentes de auditoria (`auditoria-grafos` e `saude-e-grafos-vault`) operando em modo **Somente Leitura (N0)**:
 - Fazem a varredura bidirecional em 100% dos arquivos do cofre.
-- Resolvem cada link em colchetes duplos (`[[Link]]`) contra o sistema de arquivos físico.
+- Resolvem cada link em colchetes duplos contra o sistema de arquivos físico.
 - Detectam links quebrados e geram relatórios com métrica **BLR (Broken Link Ratio = 0.0%)**.
 - Calculam a maturidade de cada nota através de scores de confiança YAML.
 
@@ -123,6 +133,7 @@ Você não precisa de sistemas complexos para começar. Siga este roteiro mínim
 ---
 
 ## 🧬 Conexões e Referências
-- **Hub Mestre da Trilha:** [[00 - IA na Prática — Guia Mestre]]
-- **Plano Mestre:** [[Plano Mestre — Trilha de IA e Segundo Cérebro]]
-- **Artigo de Agentes:** [[04 - IA na Prática — A Era dos Agentes e Automações]]
+* **Hub Mestre da Trilha:** [[00 - IA na Prática — Guia Mestre]]
+* **Artigo Central (Amplificação vs Substituição):** [[01 - IA na Prática — Amplificação vs Substituição]]
+* **Artigo de Agentes:** [[04 - IA na Prática — A Era dos Agentes e Automações]]
+* **Glossário Essencial:** [[07 - IA na Prática — Glossário Essencial de IA e Contexto]]
