@@ -21,9 +21,9 @@ aliases:
 # ⚡ 03. Dieta Carnívora — O Protocolo de Transição e Adaptação Estável
 
 > **Autor:** Arthur (Tutu)  
-> **Trilha:** [[00 - Nutrição Ancestral & Terapêutica de Eliminação — Guia Mestre|Nutrição Ancestral & Terapêutica de Eliminação (Espinha Dorsal — Etapa 03)]]  
+> **Trilha:** [[00-nutricao-ancestral-e-terapeutica-de-eliminacao-guia-mestre|Nutrição Ancestral & Terapêutica de Eliminação (Espinha Dorsal — Etapa 03)]]  
 > **Nível de Consciência:** Nível 2 ➔ Nível 3 (Do entendimento dos fundamentos à execução prática de 30 dias sem atrito)  
-> **Conexões:** ← [[02 - Dieta Carnívora — Fundamentos, Antinutrientes e Densidade Heme]] | → [[00 - Nutrição Ancestral & Terapêutica de Eliminação — Guia Mestre]]  
+> **Conexões:** ← [[02-dieta-carnivora-fundamentos-antinutrientes-e-densidade-heme|02 - Dieta Carnívora — Fundamentos, Antinutrientes e Densidade Heme]] | → [[00-nutricao-ancestral-e-terapeutica-de-eliminacao-guia-mestre|00 - Nutrição Ancestral & Terapêutica de Eliminação — Guia Mestre]]  
 
 ---
 
@@ -31,7 +31,7 @@ aliases:
 
 > **Tempo Estimado de Leitura:** 8 minutos  
 > **Premissas Necessárias:**
-> 1. Compreensão da lógica de eliminação de antinutrientes e densidade heme ([[02 - Dieta Carnívora — Fundamentos, Antinutrientes e Densidade Heme]]).
+> 1. Compreensão da lógica de eliminação de antinutrientes e densidade heme ([[02-dieta-carnivora-fundamentos-antinutrientes-e-densidade-heme|02 - Dieta Carnívora — Fundamentos, Antinutrientes e Densidade Heme]]).
 > 2. Decisão deliberada de testar uma intervenção nutricional controlada de 30 dias.
 >
 > **O que você VAI aprender neste artigo:**
@@ -140,15 +140,15 @@ Nos primeiros 14 dias, **nunca conte calorias e nunca passe fome**. Coma carne e
 
 Com o protocolo em mãos, você tem em mãos a ferramenta máxima de reset metabólico. Para aprofundar tópicos específicos e desmistificar preocupações comuns:
 
-* 🔬 **Fisiologia Descomplicada:** [[A Mecânica do Diabetes Tipo 2 — Resistência à Insulina e o Paradoxo da Mala Cheia]] *(Entenda por que a resistência à insulina é uma célula cheia e como esvaziá-la)*.
-* 🛡️ **Desmonte de Mitos:** [[Dieta Carnívora — Os 5 Maiores Mitos e Misconceptions Desmistificados]] *(Vitamina C, o mito das fibras, colesterol LMHR e ácido úrico)*.
-* ⚡ **Sinergia Sistêmica:** [[A Tríade Metabólica — Dieta Carnívora, Cetose Nutricional e Jejum Intermitente]] *(Como integrar carnívora, cetose e jejum sem esforço cognitivo)*.
+* 🔬 **Fisiologia Descomplicada:** [[a-mecanica-do-diabetes-tipo-2-resistencia-a-insulina-e-o-paradoxo-da-mala-cheia|A Mecânica do Diabetes Tipo 2 — Resistência à Insulina e o Paradoxo da Mala Cheia]] *(Entenda por que a resistência à insulina é uma célula cheia e como esvaziá-la)*.
+* 🛡️ **Desmonte de Mitos:** [[dieta-carnivora-os-5-maiores-mitos-e-misconceptions-desmistificados|Dieta Carnívora — Os 5 Maiores Mitos e Misconceptions Desmistificados]] *(Vitamina C, o mito das fibras, colesterol LMHR e ácido úrico)*.
+* ⚡ **Sinergia Sistêmica:** [[a-triade-metabolica-dieta-carnivora-cetose-nutricional-e-jejum-intermitente|A Tríade Metabólica — Dieta Carnívora, Cetose Nutricional e Jejum Intermitente]] *(Como integrar carnívora, cetose e jejum sem esforço cognitivo)*.
 
 ---
 
 ### 🧬 Notas Co-ativadas & Conexões da Trilha
-* **Guia Mestre da Sub-Trilha:** [[00 - Nutrição Ancestral & Terapêutica de Eliminação — Guia Mestre]]
-* **Etapa 01 (A Falsa Normalidade do Cansaço):** [[01 - Nutrição Ancestral — A Falsa Normalidade do Cansaço e a Inflamação Oculta]]
-* **Etapa 02 (Fundamentos & Densidade Heme):** [[02 - Dieta Carnívora — Fundamentos, Antinutrientes e Densidade Heme]]
+* **Guia Mestre da Sub-Trilha:** [[00-nutricao-ancestral-e-terapeutica-de-eliminacao-guia-mestre|00 - Nutrição Ancestral & Terapêutica de Eliminação — Guia Mestre]]
+* **Etapa 01 (A Falsa Normalidade do Cansaço):** [[01-nutricao-ancestral-a-falsa-normalidade-do-cansaco-e-a-inflamacao-oculta|01 - Nutrição Ancestral — A Falsa Normalidade do Cansaço e a Inflamação Oculta]]
+* **Etapa 02 (Fundamentos & Densidade Heme):** [[02-dieta-carnivora-fundamentos-antinutrientes-e-densidade-heme|02 - Dieta Carnívora — Fundamentos, Antinutrientes e Densidade Heme]]
 * **Livro do Acervo:** **The Carnivore Diet** *(Jacob Greene & Dr. Shawn Baker)*
 * **Livro do Acervo:** **A Revolução Carnívora** *(Fernanda Geribello Anders)*

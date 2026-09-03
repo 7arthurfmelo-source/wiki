@@ -20,9 +20,9 @@ aliases:
 # 🤖 01. Amplificação vs Substituição: O Critério Humano e a Janela de Oportunidade
 
 > **Autor:** Arthur (Tutu)  
-> **Trilha:** [[00 - IA na Prática — Guia Mestre|IA & O Segundo Cérebro (Espinha Dorsal — Etapa 01)]]  
+> **Trilha:** [[00-ia-na-pratica-guia-mestre|IA & O Segundo Cérebro (Espinha Dorsal — Etapa 01)]]  
 > **Nível de Consciência:** Nível 0 ➔ Nível 1 (Do medo de substituição à postura de Comandante)  
-> **Conexões:** → [[00 - IA na Prática — Guia Mestre]] | [[02 - IA na Prática — Prompting em 3 Partes]] | [[Experimento Mental — O Chute Estatístico e a Ilusão de Certeza da IA]]  
+> **Conexões:** → [[00-ia-na-pratica-guia-mestre|00 - IA na Prática — Guia Mestre]] | [[02-ia-na-pratica-prompting-em-3-partes|02 - IA na Prática — Prompting em 3 Partes]] | [[experimento-mental-o-chute-estatistico-e-a-ilusao-de-certeza-da-ia|Experimento Mental — O Chute Estatístico e a Ilusão de Certeza da IA]]  
 
 ---
 
@@ -37,7 +37,7 @@ aliases:
 > - Como navegar o jogo de interesses econômicos e explorar a janela de computação subsidiada.
 > - A física real dos LLMs: como a previsão estatística de palavras explica por que a máquina alucina com tanta convicção.
 > - Onde reside o verdadeiro ganho de IA: processamento cognitivo acelerado, mineração de padrões e estruturação de contexto.
-> - Por que respostas genéricas são inúteis e como o contexto privado conecta o uso de IA a um [[03 - IA na Prática — O Operador no Comando e Contexting|Segundo Cérebro]].
+> - Por que respostas genéricas são inúteis e como o contexto privado conecta o uso de IA a um [[03-ia-na-pratica-o-operador-no-comando-e-contexting|Segundo Cérebro]].
 > - As 4 armadilhas da dependência intelectual e a matriz de blindagem operacional.
 
 ---
@@ -77,7 +77,7 @@ Para compreender o momento atual da Inteligência Artificial, é preciso enxerga
 
 Para dominar a ferramenta, você precisa entender o que ela é fisicamente. O maior erro de um iniciante é atribuir consciência, raciocínio moral ou "sabedoria" a um Large Language Model (LLM).
 
-> 📖 **Consulta Rápida:** Caso queira revisar termos fundamentais como *Token*, *Prompt*, *LLM* e *Janela de Contexto*, consulte o [[07 - IA na Prática — Glossário Essencial de IA e Contexto|Glossário Essencial de IA e Contexto]] (organizado em níveis básico, intermediário e avançado).
+> 📖 **Consulta Rápida:** Caso queira revisar termos fundamentais como *Token*, *Prompt*, *LLM* e *Janela de Contexto*, consulte o [[07-ia-na-pratica-glossario-essencial-de-ia-e-contexto|Glossário Essencial de IA e Contexto]] (organizado em níveis básico, intermediário e avançado).
 
 Um LLM não é uma mente pensante; ele é um **preditor estatístico de próxima palavra (*Next Token Prediction*)** treinado sobre trilhões de conexões linguísticas.
 
@@ -95,7 +95,7 @@ Compreender esse mecanismo revela a causa-raiz de dois fenômenos cruciais:
 * **A Razão Mecânica da Alucinação:**  
   Quando você faz uma pergunta factual complexa sem fornecer dados de entrada, a IA não "sabe que não sabe". Como sua função matemática é continuar o padrão textual, ela preenche a lacuna com a continuação estatisticamente mais plausível. Ela mente com convicção cirúrgica porque a mentira foi gerada com a mesma gramática perfeita da verdade.
 
-> 🔬 **Experimento Mental Recomendado:** Para entender visualmente por que a IA fala com certeza absoluta mesmo quando está apenas chutando no escuro, veja a sidequest [[Experimento Mental — O Chute Estatístico e a Ilusão de Certeza da IA|O Chute Estatístico e a Ilusão de Certeza da IA]], analisando o caso do gosto musical e da gastronomia sob a ótica da Teoria dos Conjuntos.
+> 🔬 **Experimento Mental Recomendado:** Para entender visualmente por que a IA fala com certeza absoluta mesmo quando está apenas chutando no escuro, veja a sidequest [[experimento-mental-o-chute-estatistico-e-a-ilusao-de-certeza-da-ia|O Chute Estatístico e a Ilusão de Certeza da IA]], analisando o caso do gosto musical e da gastronomia sob a ótica da Teoria dos Conjuntos.
 
 ---
 
@@ -130,7 +130,7 @@ O que tem valor econômico real é uma resposta desenhada para o seu **contexto 
 2. **A Ilusão da Resposta Média:** Sem o seu contexto, a IA só pode responder com base na média estatística global da internet — entregando um texto formal, polido, mas completamente inútil para resolver seu problema concreto.
 3. **A Necessidade do Segundo Cérebro:** Para que a IA entregue valor de consultoria sênior, você precisa alimentá-la com o seu contexto. No entanto, ficar redigindo esse contexto manualmente a cada nova conversa é insustentável.
 
-É desse atrito que nasce a necessidade formal de um **Segundo Cérebro estruturado**: manter suas regras, projetos e notas organizadas em arquivos Markdown no Obsidian para que a IA possa ler seu contexto sob demanda (*Just-In-Time*). Essa arquitetura é detalhada no artigo [[03 - IA na Prática — O Operador no Comando e Contexting|03. Engenharia de Contexto — O Córtex do Segundo Cérebro]].
+É desse atrito que nasce a necessidade formal de um **Segundo Cérebro estruturado**: manter suas regras, projetos e notas organizadas em arquivos Markdown no Obsidian para que a IA possa ler seu contexto sob demanda (*Just-In-Time*). Essa arquitetura é detalhada no artigo [[03-ia-na-pratica-o-operador-no-comando-e-contexting|03. Engenharia de Contexto — O Córtex do Segundo Cérebro]].
 
 ---
 
@@ -141,7 +141,7 @@ Para não virar refém da tecnologia nem sofrer de atrofia cognitiva, o operador
 | Armadilha | O que NÃO Fazer | Riscos de Fazer | O que FAZER | Melhoria Esperada |
 | :--- | :--- | :--- | :--- | :--- |
 | **1. Terceirização do Raciocínio** | Copiar e colar a resposta bruta da IA sem ler, questionar ou editar criticamente. | Atrofia cognitiva progressiva, perda de autoria e geração de textos pasteurizados (*AI Slop*). | Use a IA para a base mecânica de processamento e aplique seu julgamento no topo do funil. | Retenção do senso crítico, originalidade autoral e alta velocidade de entrega. |
-| **2. Ilusão da Avaliação sem Fundamento** | Tentar usar IA em áreas onde você não domina os fundamentos básicos. | Incapacidade de julgar o output; a fronteira de qualidade da IA fica restrita ao seu próprio desconhecimento (veja o [[Experimento Mental — O Chute Estatístico e a Ilusão de Certeza da IA\|Experimento Mental]]). | Estude os fundamentos antes de delegar, usando a IA como tutora socrática e não como oráculo cego. | Imunidade contra alucinações técnicas e capacidade real de auditoria do trabalho. |
+| **2. Ilusão da Avaliação sem Fundamento** | Tentar usar IA em áreas onde você não domina os fundamentos básicos. | Incapacidade de julgar o output; a fronteira de qualidade da IA fica restrita ao seu próprio desconhecimento (veja o [[experimento-mental-o-chute-estatistico-e-a-ilusao-de-certeza-da-ia\|Experimento Mental]]). | Estude os fundamentos antes de delegar, usando a IA como tutora socrática e não como oráculo cego. | Imunidade contra alucinações técnicas e capacidade real de auditoria do trabalho. |
 | **3. Erro de Categoria de Responsabilidade** | Atribuir responsabilidade moral, jurídica ou profissional aos erros da máquina. | Prejuízos financeiros e quebra de confiança profissional; a IA não responde no mundo real. | Assuma a responsabilidade integral por 100% dos outputs e valide cada premissa factual no disco. | Soberania operacional, confiabilidade nas entregas e segurança profissional. |
 | **4. Adulação Estatística (*RLHF*)** | Aceitar os primeiros elogios da IA sobre ideias fracas sem pedir contra-argumentos. | Falsa sensação de genialidade e validação de premissas inconsistentes. | Instrua a IA a atuar como revisor implacável, apontando pontos cegos, fraquezas lógicas e objeções. | Raciocínios blindados contra falhas antes do contato com o mercado real. |
 
@@ -151,13 +151,13 @@ Para não virar refém da tecnologia nem sofrer de atrofia cognitiva, o operador
 
 Compreendida a física dos LLMs e a importância do contexto privado, o próximo desafio é prático: **como parar de fazer perguntas vagas e passar a controlar a máquina com precisão cirúrgica através de uma fórmula modular em 3 partes?**
 
-* → Avançar para a Etapa 02: [[02 - IA na Prática — Prompting em 3 Partes]]
+* → Avançar para a Etapa 02: [[02-ia-na-pratica-prompting-em-3-partes|02 - IA na Prática — Prompting em 3 Partes]]
 
 ---
 
 ### 🧬 Notas Co-ativadas & Conexões da Trilha
-* **Guia Mestre da Trilha:** [[00 - IA na Prática — Guia Mestre]]
-* **Sidequest de Fundamentos:** [[Experimento Mental — O Chute Estatístico e a Ilusão de Certeza da IA]]
-* **Próxima Etapa (Prompting em 3 Partes):** [[02 - IA na Prática — Prompting em 3 Partes]]
-* **Engenharia de Contexto:** [[03 - IA na Prática — O Operador no Comando e Contexting]]
-* **Glossário Essencial de IA:** [[07 - IA na Prática — Glossário Essencial de IA e Contexto]]
+* **Guia Mestre da Trilha:** [[00-ia-na-pratica-guia-mestre|00 - IA na Prática — Guia Mestre]]
+* **Sidequest de Fundamentos:** [[experimento-mental-o-chute-estatistico-e-a-ilusao-de-certeza-da-ia|Experimento Mental — O Chute Estatístico e a Ilusão de Certeza da IA]]
+* **Próxima Etapa (Prompting em 3 Partes):** [[02-ia-na-pratica-prompting-em-3-partes|02 - IA na Prática — Prompting em 3 Partes]]
+* **Engenharia de Contexto:** [[03-ia-na-pratica-o-operador-no-comando-e-contexting|03 - IA na Prática — O Operador no Comando e Contexting]]
+* **Glossário Essencial de IA:** [[07-ia-na-pratica-glossario-essencial-de-ia-e-contexto|07 - IA na Prática — Glossário Essencial de IA e Contexto]]

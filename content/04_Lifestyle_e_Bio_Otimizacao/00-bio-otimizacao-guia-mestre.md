@@ -21,7 +21,7 @@ aliases:
 
 > **Autor:** Arthur (Tutu)  
 > **Trilha:** #BioOtimizacao (Nível 1 a 4)  
-> **Conexões:** → [[Índice — Acervo de Artigos Wiki]] | → [[00 - Nutrição Ancestral & Terapêutica de Eliminação — Guia Mestre]]  
+> **Conexões:** → [[index|Início / Todas as Trilhas]] | → [[00-nutricao-ancestral-e-terapeutica-de-eliminacao-guia-mestre|00 - Nutrição Ancestral & Terapêutica de Eliminação — Guia Mestre]]  
 
 ---
 
@@ -35,13 +35,13 @@ Esta trilha conduz o leitor da fadiga crônica e desregulação metabólica à a
 
 A alimentação é a principal interface química entre o ambiente e a sua biologia. Aprofunde-se no nosso sub-hub dedicado:
 
-* 🧭 **Sub-Hub Central:** [[00 - Nutrição Ancestral & Terapêutica de Eliminação — Guia Mestre]]
-  - **Artigo 01:** [[01 - Nutrição Ancestral — A Falsa Normalidade do Cansaço e a Inflamação Oculta]]
-  - **Artigo 02:** [[02 - Dieta Carnívora — Fundamentos, Antinutrientes e Densidade Heme]]
-  - **Artigo 03:** [[03 - Dieta Carnívora — O Protocolo de Transição e Adaptação Estável]]
-  - **Sidequest de Fisiologia:** [[A Mecânica do Diabetes Tipo 2 — Resistência à Insulina e o Paradoxo da Mala Cheia]]
-  - **Sidequest de Mitos:** [[Dieta Carnívora — Os 5 Maiores Mitos e Misconceptions Desmistificados]]
-  - **Sidequest de Sinergia:** [[A Tríade Metabólica — Dieta Carnívora, Cetose Nutricional e Jejum Intermitente]]
+* 🧭 **Sub-Hub Central:** [[00-nutricao-ancestral-e-terapeutica-de-eliminacao-guia-mestre|00 - Nutrição Ancestral & Terapêutica de Eliminação — Guia Mestre]]
+  - **Artigo 01:** [[01-nutricao-ancestral-a-falsa-normalidade-do-cansaco-e-a-inflamacao-oculta|01 - Nutrição Ancestral — A Falsa Normalidade do Cansaço e a Inflamação Oculta]]
+  - **Artigo 02:** [[02-dieta-carnivora-fundamentos-antinutrientes-e-densidade-heme|02 - Dieta Carnívora — Fundamentos, Antinutrientes e Densidade Heme]]
+  - **Artigo 03:** [[03-dieta-carnivora-o-protocolo-de-transicao-e-adaptacao-estavel|03 - Dieta Carnívora — O Protocolo de Transição e Adaptação Estável]]
+  - **Sidequest de Fisiologia:** [[a-mecanica-do-diabetes-tipo-2-resistencia-a-insulina-e-o-paradoxo-da-mala-cheia|A Mecânica do Diabetes Tipo 2 — Resistência à Insulina e o Paradoxo da Mala Cheia]]
+  - **Sidequest de Mitos:** [[dieta-carnivora-os-5-maiores-mitos-e-misconceptions-desmistificados|Dieta Carnívora — Os 5 Maiores Mitos e Misconceptions Desmistificados]]
+  - **Sidequest de Sinergia:** [[a-triade-metabolica-dieta-carnivora-cetose-nutricional-e-jejum-intermitente|A Tríade Metabólica — Dieta Carnívora, Cetose Nutricional e Jejum Intermitente]]
 
 ---
 

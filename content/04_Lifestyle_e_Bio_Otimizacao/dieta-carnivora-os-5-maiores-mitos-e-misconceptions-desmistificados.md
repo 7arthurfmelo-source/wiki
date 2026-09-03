@@ -21,8 +21,8 @@ aliases:
 # 🛡️ Dieta Carnívora — Os 5 Maiores Mitos e Misconceptions Desmistificados
 
 > **Autor:** Arthur (Tutu)  
-> **Trilha:** [[00 - Nutrição Ancestral & Terapêutica de Eliminação — Guia Mestre|Nutrição Ancestral (Sidequest de Quebra de Objeções)]]  
-> **Conexões:** ← [[02 - Dieta Carnívora — Fundamentos, Antinutrientes e Densidade Heme]] | → [[03 - Dieta Carnívora — O Protocolo de Transição e Adaptação Estável]]  
+> **Trilha:** [[00-nutricao-ancestral-e-terapeutica-de-eliminacao-guia-mestre|Nutrição Ancestral (Sidequest de Quebra de Objeções)]]  
+> **Conexões:** ← [[02-dieta-carnivora-fundamentos-antinutrientes-e-densidade-heme|02 - Dieta Carnívora — Fundamentos, Antinutrientes e Densidade Heme]] | → [[03-dieta-carnivora-o-protocolo-de-transicao-e-adaptacao-estavel|03 - Dieta Carnívora — O Protocolo de Transição e Adaptação Estável]]  
 
 ---
 
@@ -30,7 +30,7 @@ aliases:
 
 > **Tempo Estimado de Leitura:** 9 minutos  
 > **Premissas Necessárias:**
-> 1. Compreensão básica dos mecanismos de eliminação e densidade animal ([[02 - Dieta Carnívora — Fundamentos, Antinutrientes e Densidade Heme]]).
+> 1. Compreensão básica dos mecanismos de eliminação e densidade animal ([[02-dieta-carnivora-fundamentos-antinutrientes-e-densidade-heme|02 - Dieta Carnívora — Fundamentos, Antinutrientes e Densidade Heme]]).
 >
 > **O que você VAI aprender neste ensaio:**
 > - Por que carnívoros não desenvolvem escorbuto (a mecânica do receptor celular GLUT-1).
@@ -171,13 +171,13 @@ O ácido úrico é um potente antioxidante endógeno produzido na quebra de puri
 
 Com os mitos desarmados por dados e ensaios clínicos, o próximo passo é entender como a Dieta Carnívora se integra sinergicamente com a **Cetose Nutricional** e o **Jejum Intermitente**:
 
-* → Ler a Sidequest: [[A Tríade Metabólica — Dieta Carnívora, Cetose Nutricional e Jejum Intermitente]]
-* → Voltar para a Espinha Dorsal: [[03 - Dieta Carnívora — O Protocolo de Transição e Adaptação Estável]]
+* → Ler a Sidequest: [[a-triade-metabolica-dieta-carnivora-cetose-nutricional-e-jejum-intermitente|A Tríade Metabólica — Dieta Carnívora, Cetose Nutricional e Jejum Intermitente]]
+* → Voltar para a Espinha Dorsal: [[03-dieta-carnivora-o-protocolo-de-transicao-e-adaptacao-estavel|03 - Dieta Carnívora — O Protocolo de Transição e Adaptação Estável]]
 
 ---
 
 ### 🧬 Notas Co-ativadas & Conexões da Trilha
-* **Guia Mestre da Sub-Trilha:** [[00 - Nutrição Ancestral & Terapêutica de Eliminação — Guia Mestre]]
-* **Artigo 02 (Fundamentos & Densidade Heme):** [[02 - Dieta Carnívora — Fundamentos, Antinutrientes e Densidade Heme]]
+* **Guia Mestre da Sub-Trilha:** [[00-nutricao-ancestral-e-terapeutica-de-eliminacao-guia-mestre|00 - Nutrição Ancestral & Terapêutica de Eliminação — Guia Mestre]]
+* **Artigo 02 (Fundamentos & Densidade Heme):** [[02-dieta-carnivora-fundamentos-antinutrientes-e-densidade-heme|02 - Dieta Carnívora — Fundamentos, Antinutrientes e Densidade Heme]]
 * **Livro do Acervo:** **The Carnivore Code** *(Dr. Paul Saladino)*
 * **Livro do Acervo:** **The Carnivore Diet** *(Jacob Greene & Dr. Shawn Baker)*

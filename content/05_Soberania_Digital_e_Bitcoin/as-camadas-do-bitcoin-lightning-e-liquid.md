@@ -20,9 +20,9 @@ aliases:
 # ⚡ As Camadas do Bitcoin — Lightning e Liquid
 
 > **Autor:** Arthur (Tutu)  
-> **Trilha:** [[00 - Soberania Digital & Bitcoin — Guia Mestre|Soberania Digital & Bitcoin (Sidequest)]]  
+> **Trilha:** [[00-soberania-digital-e-bitcoin-guia-mestre|Soberania Digital & Bitcoin (Sidequest)]]  
 > **Status:** Em Construção / Nota Semente 🚧  
-> **Conexões:** ← [[02 - Bitcoin — As 5 Fases da Adoção Monetária]] | → [[00 - Soberania Digital & Bitcoin — Guia Mestre]]  
+> **Conexões:** ← [[02-bitcoin-as-5-fases-da-adocao-monetaria|02 - Bitcoin — As 5 Fases da Adoção Monetária]] | → [[00-soberania-digital-e-bitcoin-guia-mestre|00 - Soberania Digital & Bitcoin — Guia Mestre]]  
 
 ---
 
@@ -43,6 +43,6 @@ aliases:
 ---
 
 ## 🧬 Notas Co-ativadas & Conexões da Trilha
-* **Artigo Central de Origem:** [[02 - Bitcoin — As 5 Fases da Adoção Monetária]]
-* **Guia Mestre da Trilha:** [[00 - Soberania Digital & Bitcoin — Guia Mestre]]
-* **História & Governança:** [[04 - Governança sem Estado — Protocolos, Consenso e Sociedades Descentralizadas]]
+* **Artigo Central de Origem:** [[02-bitcoin-as-5-fases-da-adocao-monetaria|02 - Bitcoin — As 5 Fases da Adoção Monetária]]
+* **Guia Mestre da Trilha:** [[00-soberania-digital-e-bitcoin-guia-mestre|00 - Soberania Digital & Bitcoin — Guia Mestre]]
+* **História & Governança:** [[04-governanca-sem-estado-protocolos-consenso-e-sociedades-descentralizadas|04 - Governança sem Estado — Protocolos, Consenso e Sociedades Descentralizadas]]

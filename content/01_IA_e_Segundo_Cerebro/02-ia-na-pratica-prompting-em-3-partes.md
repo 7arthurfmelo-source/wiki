@@ -21,9 +21,9 @@ aliases:
 # 🎯 02. Prompting em 3 Partes: A Sintaxe de Controle da Máquina
 
 > **Autor:** Arthur (Tutu)  
-> **Trilha:** [[00 - IA na Prática — Guia Mestre|IA & O Segundo Cérebro (Espinha Dorsal — Etapa 02)]]  
+> **Trilha:** [[00-ia-na-pratica-guia-mestre|IA & O Segundo Cérebro (Espinha Dorsal — Etapa 02)]]  
 > **Nível de Consciência:** Nível 1 ➔ Nível 2 (Da frustração com respostas genéricas ao controle previsível)  
-> **Conexões:** → [[00 - IA na Prática — Guia Mestre]] | [[01 - IA na Prática — Amplificação vs Substituição]] | [[03 - IA na Prática — O Operador no Comando e Contexting]]  
+> **Conexões:** → [[00-ia-na-pratica-guia-mestre|00 - IA na Prática — Guia Mestre]] | [[01-ia-na-pratica-amplificacao-vs-substituicao|01 - IA na Prática — Amplificação vs Substituição]] | [[03-ia-na-pratica-o-operador-no-comando-e-contexting|03 - IA na Prática — O Operador no Comando e Contexting]]  
 
 ---
 
@@ -31,7 +31,7 @@ aliases:
 
 > **Tempo Estimado de Leitura:** 6 minutos  
 > **Premissas Necessárias:**
-> 1. Compreensão de que a IA opera por previsão estatística de palavras e não por clarividência ([[01 - IA na Prática — Amplificação vs Substituição]]).
+> 1. Compreensão de que a IA opera por previsão estatística de palavras e não por clarividência ([[01-ia-na-pratica-amplificacao-vs-substituicao|01 - IA na Prática — Amplificação vs Substituição]]).
 >
 > **O que você VAI aprender neste artigo:**
 > - A diferença crucial entre usar a IA como "Oráculo" (errado) vs. "Assistente de Processamento" (correto).
@@ -154,12 +154,12 @@ Você já domina a sintaxe do prompt individual. No entanto, digitar o contexto 
 
 Como fazer a IA lembrar de quem você é, dos seus projetos e das suas preferências sem você precisar repetir nada todo dia?
 
-* → Avançar para a Etapa 03: [[03 - IA na Prática — O Operador no Comando e Contexting]]
+* → Avançar para a Etapa 03: [[03-ia-na-pratica-o-operador-no-comando-e-contexting|03 - IA na Prática — O Operador no Comando e Contexting]]
 
 ---
 
 ### 🧬 Notas Co-ativadas & Conexões da Trilha
-* **Guia Mestre da Trilha:** [[00 - IA na Prática — Guia Mestre]]
-* **Etapa Anterior:** [[01 - IA na Prática — Amplificação vs Substituição]]
-* **Próxima Etapa:** [[03 - IA na Prática — O Operador no Comando e Contexting]]
-* **Glossário Essencial de IA:** [[07 - IA na Prática — Glossário Essencial de IA e Contexto]]
+* **Guia Mestre da Trilha:** [[00-ia-na-pratica-guia-mestre|00 - IA na Prática — Guia Mestre]]
+* **Etapa Anterior:** [[01-ia-na-pratica-amplificacao-vs-substituicao|01 - IA na Prática — Amplificação vs Substituição]]
+* **Próxima Etapa:** [[03-ia-na-pratica-o-operador-no-comando-e-contexting|03 - IA na Prática — O Operador no Comando e Contexting]]
+* **Glossário Essencial de IA:** [[07-ia-na-pratica-glossario-essencial-de-ia-e-contexto|07 - IA na Prática — Glossário Essencial de IA e Contexto]]

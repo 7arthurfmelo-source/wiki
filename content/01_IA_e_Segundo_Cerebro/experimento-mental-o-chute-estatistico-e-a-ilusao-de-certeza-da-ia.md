@@ -21,8 +21,8 @@ aliases:
 # 🎲 Experimento Mental — O Chute Estatístico e a Ilusão de Certeza da IA
 
 > **Autor:** Arthur (Tutu)  
-> **Trilha:** [[00 - IA na Prática — Guia Mestre|IA & O Segundo Cérebro (Sidequest de Fundamentos)]]  
-> **Artigo Relacionado:** ← [[01 - IA na Prática — Amplificação vs Substituição]]  
+> **Trilha:** [[00-ia-na-pratica-guia-mestre|IA & O Segundo Cérebro (Sidequest de Fundamentos)]]  
+> **Artigo Relacionado:** ← [[01-ia-na-pratica-amplificacao-vs-substituicao|01 - IA na Prática — Amplificação vs Substituição]]  
 
 ---
 
@@ -98,12 +98,12 @@ Este experimento mental revela a verdadeira mecânica dos Modelos de Linguagem (
 4. **O Papel do Comandante:** A utilidade da IA depende diretamente de **quantas variáveis do seu contexto privado (Conjunto B)** você foi capaz de injetar na conversa.
 
 > 🚀 **Como Aplicar na Prática:**
-> - Entenda como estruturar o seu **contexto privado** no [[01 - IA na Prática — Amplificação vs Substituição|Artigo 01 (Ato 4)]].
-> - Aprenda a técnica de **Prompting em 3 Partes** no [[02 - IA na Prática — Prompting em 3 Partes|Artigo 02]] para injetar essas restrições e condições de contorno de forma modular e sem atrito.
+> - Entenda como estruturar o seu **contexto privado** no [[01-ia-na-pratica-amplificacao-vs-substituicao|Artigo 01 (Ato 4)]].
+> - Aprenda a técnica de **Prompting em 3 Partes** no [[02-ia-na-pratica-prompting-em-3-partes|Artigo 02]] para injetar essas restrições e condições de contorno de forma modular e sem atrito.
 
 ---
 
 ### 🧬 Conexões e Referências
-* **Artigo Central da Trilha:** [[01 - IA na Prática — Amplificação vs Substituição]]
-* **Guia Mestre:** [[00 - IA na Prática — Guia Mestre]]
-* **Próxima Etapa da Trilha:** [[02 - IA na Prática — Prompting em 3 Partes]]
+* **Artigo Central da Trilha:** [[01-ia-na-pratica-amplificacao-vs-substituicao|01 - IA na Prática — Amplificação vs Substituição]]
+* **Guia Mestre:** [[00-ia-na-pratica-guia-mestre|00 - IA na Prática — Guia Mestre]]
+* **Próxima Etapa da Trilha:** [[02-ia-na-pratica-prompting-em-3-partes|02 - IA na Prática — Prompting em 3 Partes]]

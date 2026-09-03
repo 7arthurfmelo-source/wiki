@@ -21,9 +21,9 @@ aliases:
 # 🥩 02. Dieta Carnívora — Fundamentos, Antinutrientes e Densidade Heme
 
 > **Autor:** Arthur (Tutu)  
-> **Trilha:** [[00 - Nutrição Ancestral & Terapêutica de Eliminação — Guia Mestre|Nutrição Ancestral & Terapêutica de Eliminação (Espinha Dorsal — Etapa 02)]]  
+> **Trilha:** [[00-nutricao-ancestral-e-terapeutica-de-eliminacao-guia-mestre|Nutrição Ancestral & Terapêutica de Eliminação (Espinha Dorsal — Etapa 02)]]  
 > **Nível de Consciência:** Nível 1 ➔ Nível 2 (Da identificação da inflamação ao domínio dos mecanismos biológicos da carne e antinutrientes)  
-> **Conexões:** ← [[01 - Nutrição Ancestral — A Falsa Normalidade do Cansaço e a Inflamação Oculta]] | → [[03 - Dieta Carnívora — O Protocolo de Transição e Adaptação Estável]]  
+> **Conexões:** ← [[01-nutricao-ancestral-a-falsa-normalidade-do-cansaco-e-a-inflamacao-oculta|01 - Nutrição Ancestral — A Falsa Normalidade do Cansaço e a Inflamação Oculta]] | → [[03-dieta-carnivora-o-protocolo-de-transicao-e-adaptacao-estavel|03 - Dieta Carnívora — O Protocolo de Transição e Adaptação Estável]]  
 
 ---
 
@@ -31,7 +31,7 @@ aliases:
 
 > **Tempo Estimado de Leitura:** 8 minutos  
 > **Premissas Necessárias:**
-> 1. Reconhecimento de que a inflamação alimentar moderna afeta o rendimento diário ([[01 - Nutrição Ancestral — A Falsa Normalidade do Cansaço e a Inflamação Oculta]]).
+> 1. Reconhecimento de que a inflamação alimentar moderna afeta o rendimento diário ([[01-nutricao-ancestral-a-falsa-normalidade-do-cansaco-e-a-inflamacao-oculta|01 - Nutrição Ancestral — A Falsa Normalidade do Cansaço e a Inflamação Oculta]]).
 > 2. Disposição para analisar a evolução biológica de predadores e presas sob primeiros princípios.
 >
 > **O que você VAI aprender neste artigo:**
@@ -148,13 +148,13 @@ Com os fundamentos da eliminação de antinutrientes consolidados e a densidade 
 
 *Como fazer a transição para uma dieta estritamente carnívora de 30 dias sem sofrer com a fraqueza inicial, como repor eletrólitos corretamente e quais cortes comprar no açougue?*
 
-* → Avançar para a Etapa 03: [[03 - Dieta Carnívora — O Protocolo de Transição e Adaptação Estável]]
+* → Avançar para a Etapa 03: [[03-dieta-carnivora-o-protocolo-de-transicao-e-adaptacao-estavel|03 - Dieta Carnívora — O Protocolo de Transição e Adaptação Estável]]
 
 ---
 
 ### 🧬 Notas Co-ativadas & Conexões da Trilha
-* **Guia Mestre da Sub-Trilha:** [[00 - Nutrição Ancestral & Terapêutica de Eliminação — Guia Mestre]]
-* **Etapa Anterior (A Falsa Normalidade do Cansaço):** [[01 - Nutrição Ancestral — A Falsa Normalidade do Cansaço e a Inflamação Oculta]]
-* **Próxima Etapa (Protocolo de 30 Dias):** [[03 - Dieta Carnívora — O Protocolo de Transição e Adaptação Estável]]
-* **Sidequest de Mitos:** [[Dieta Carnívora — Os 5 Maiores Mitos e Misconceptions Desmistificados]]
+* **Guia Mestre da Sub-Trilha:** [[00-nutricao-ancestral-e-terapeutica-de-eliminacao-guia-mestre|00 - Nutrição Ancestral & Terapêutica de Eliminação — Guia Mestre]]
+* **Etapa Anterior (A Falsa Normalidade do Cansaço):** [[01-nutricao-ancestral-a-falsa-normalidade-do-cansaco-e-a-inflamacao-oculta|01 - Nutrição Ancestral — A Falsa Normalidade do Cansaço e a Inflamação Oculta]]
+* **Próxima Etapa (Protocolo de 30 Dias):** [[03-dieta-carnivora-o-protocolo-de-transicao-e-adaptacao-estavel|03 - Dieta Carnívora — O Protocolo de Transição e Adaptação Estável]]
+* **Sidequest de Mitos:** [[dieta-carnivora-os-5-maiores-mitos-e-misconceptions-desmistificados|Dieta Carnívora — Os 5 Maiores Mitos e Misconceptions Desmistificados]]
 * **Livro do Acervo:** **The Carnivore Code** *(Dr. Paul Saladino)*

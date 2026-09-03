@@ -21,8 +21,8 @@ aliases:
 # 📖 07. Glossário Essencial de IA e Contexto
 
 > **Autor:** Arthur (Tutu)  
-> **Trilha:** [[00 - IA na Prática — Guia Mestre|IA & O Segundo Cérebro (Sidequest 3 — Glossário)]]  
-> **Conexões:** → [[00 - IA na Prática — Guia Mestre]] | [[01 - IA na Prática — Amplificação vs Substituição]]  
+> **Trilha:** [[00-ia-na-pratica-guia-mestre|IA & O Segundo Cérebro (Sidequest 3 — Glossário)]]  
+> **Conexões:** → [[00-ia-na-pratica-guia-mestre|00 - IA na Prática — Guia Mestre]] | [[01-ia-na-pratica-amplificacao-vs-substituicao|01 - IA na Prática — Amplificação vs Substituição]]  
 
 ---
 
@@ -120,6 +120,6 @@ Este documento serve como referência rápida e desmistificada para consulta con
 ---
 
 ## 🧬 Conexões e Referências
-* **Guia Mestre da Trilha:** [[00 - IA na Prática — Guia Mestre]]
-* **Artigo 01 (Amplificação vs Substituição):** [[01 - IA na Prática — Amplificação vs Substituição]]
-* **Artigo 03 (Engenharia de Contexto):** [[03 - IA na Prática — O Operador no Comando e Contexting]]
+* **Guia Mestre da Trilha:** [[00-ia-na-pratica-guia-mestre|00 - IA na Prática — Guia Mestre]]
+* **Artigo 01 (Amplificação vs Substituição):** [[01-ia-na-pratica-amplificacao-vs-substituicao|01 - IA na Prática — Amplificação vs Substituição]]
+* **Artigo 03 (Engenharia de Contexto):** [[03-ia-na-pratica-o-operador-no-comando-e-contexting|03 - IA na Prática — O Operador no Comando e Contexting]]

@@ -21,8 +21,8 @@ aliases:
 # ⚡ A Tríade Metabólica — Dieta Carnívora, Cetose Nutricional e Jejum Intermitente
 
 > **Autor:** Arthur (Tutu)  
-> **Trilha:** [[00 - Nutrição Ancestral & Terapêutica de Eliminação — Guia Mestre|Nutrição Ancestral (Sidequest de Integração Sistêmica)]]  
-> **Conexões:** ← [[03 - Dieta Carnívora — O Protocolo de Transição e Adaptação Estável]] | → [[00 - Bio-Otimização — Guia Mestre]]  
+> **Trilha:** [[00-nutricao-ancestral-e-terapeutica-de-eliminacao-guia-mestre|Nutrição Ancestral (Sidequest de Integração Sistêmica)]]  
+> **Conexões:** ← [[03-dieta-carnivora-o-protocolo-de-transicao-e-adaptacao-estavel|03 - Dieta Carnívora — O Protocolo de Transição e Adaptação Estável]] | → [[00-bio-otimizacao-guia-mestre|00 - Bio-Otimização — Guia Mestre]]  
 
 ---
 
@@ -156,14 +156,14 @@ A integração entre a eliminação de antinutrientes da Dieta Carnívora, a est
 
 Para colocar o plano em prática e consultar todas as diretrizes da trilha:
 
-* → Voltar ao Guia Mestre de Nutrição Ancestral: [[00 - Nutrição Ancestral & Terapêutica de Eliminação — Guia Mestre]]
-* → Acessar o Guia Mestre de Bio-Otimização: [[00 - Bio-Otimização — Guia Mestre]]
-* → Rever o Protocolo dos 30 Dias: [[03 - Dieta Carnívora — O Protocolo de Transição e Adaptação Estável]]
+* → Voltar ao Guia Mestre de Nutrição Ancestral: [[00-nutricao-ancestral-e-terapeutica-de-eliminacao-guia-mestre|00 - Nutrição Ancestral & Terapêutica de Eliminação — Guia Mestre]]
+* → Acessar o Guia Mestre de Bio-Otimização: [[00-bio-otimizacao-guia-mestre|00 - Bio-Otimização — Guia Mestre]]
+* → Rever o Protocolo dos 30 Dias: [[03-dieta-carnivora-o-protocolo-de-transicao-e-adaptacao-estavel|03 - Dieta Carnívora — O Protocolo de Transição e Adaptação Estável]]
 
 ---
 
 ### 🧬 Notas Co-ativadas & Conexões da Trilha
-* **Guia Mestre da Sub-Trilha:** [[00 - Nutrição Ancestral & Terapêutica de Eliminação — Guia Mestre]]
-* **Trilha Mestre:** [[00 - Bio-Otimização — Guia Mestre]]
-* **Sidequest de Fisiologia:** [[A Mecânica do Diabetes Tipo 2 — Resistência à Insulina e o Paradoxo da Mala Cheia]]
+* **Guia Mestre da Sub-Trilha:** [[00-nutricao-ancestral-e-terapeutica-de-eliminacao-guia-mestre|00 - Nutrição Ancestral & Terapêutica de Eliminação — Guia Mestre]]
+* **Trilha Mestre:** [[00-bio-otimizacao-guia-mestre|00 - Bio-Otimização — Guia Mestre]]
+* **Sidequest de Fisiologia:** [[a-mecanica-do-diabetes-tipo-2-resistencia-a-insulina-e-o-paradoxo-da-mala-cheia|A Mecânica do Diabetes Tipo 2 — Resistência à Insulina e o Paradoxo da Mala Cheia]]
 * **Livro do Acervo:** **Outlive: The Science and Art of Longevity** *(Dr. Peter Attia)*

@@ -21,9 +21,9 @@ aliases:
 # 🎓 01. A Falência do Estudo Passivo e o Modelo Two-Tier de IA
 
 > **Autor:** Arthur (Tutu)  
-> **Trilha:** [[00 - Estudos & Agentes de IA — Guia Mestre|Estudos, Segundo Cérebro & Agentes de IA (Espinha Dorsal — Etapa 01)]]  
+> **Trilha:** [[00-estudos-e-agentes-de-ia-guia-mestre|Estudos, Segundo Cérebro & Agentes de IA (Espinha Dorsal — Etapa 01)]]  
 > **Nível de Consciência:** Nível 0 ➔ Nível 1 (Da ilusão de competência à captura ativa em duas camadas)  
-> **Conexões:** → [[00 - Estudos & Agentes de IA — Guia Mestre]] | [[02 - Estudos com IA — Engenharia de Prompts de Alto Rendimento]]  
+> **Conexões:** → [[00-estudos-e-agentes-de-ia-guia-mestre|00 - Estudos & Agentes de IA — Guia Mestre]] | [[02-estudos-com-ia-engenharia-de-prompts-de-alto-rendimento|02 - Estudos com IA — Engenharia de Prompts de Alto Rendimento]]  
 
 ---
 
@@ -123,7 +123,7 @@ Como cada dúvida já foi registrada no seu caderno digital com seu devido Promp
 | **Papel da Inteligência Artificial** | **Substituição:** Pede resumos prontos e atrofia o raciocínio. | **Amplificação:** Elimina digitação braçal e eleva a profundidade do debate. |
 | **Destino do Conhecimento** | Anotações descartáveis que somem após a prova. | Conhecimento acumulado no Obsidian pronto para consultas futuras. |
 
-Esse mecanismo materializa o conceito de [[01 - IA na Prática — Amplificação vs Substituição|Amplificação vs Substituição]]: a IA não estuda no seu lugar; ela remove o atrito mecânico para que você possa pensar em nível estratégico.
+Esse mecanismo materializa o conceito de [[01-ia-na-pratica-amplificacao-vs-substituicao|Amplificação vs Substituição]]: a IA não estuda no seu lugar; ela remove o atrito mecânico para que você possa pensar em nível estratégico.
 
 ---
 
@@ -159,11 +159,11 @@ Agora que você compreende a lógica da arquitetura em duas camadas e a opcional
 
 *Como desenhar prompts de estudo tão rápidos e padronizados que você consiga dispará-los em menos de 2 segundos sem interromper a aula?*
 
-* → Avançar para a Etapa 02: [[02 - Estudos com IA — Engenharia de Prompts de Alto Rendimento]]
+* → Avançar para a Etapa 02: [[02-estudos-com-ia-engenharia-de-prompts-de-alto-rendimento|02 - Estudos com IA — Engenharia de Prompts de Alto Rendimento]]
 
 ---
 
 ### 🧬 Notas Co-ativadas & Conexões da Trilha
-* **Guia Mestre da Trilha:** [[00 - Estudos & Agentes de IA — Guia Mestre]]
-* **Trilha de IA Aplicada:** [[01 - IA na Prática — Amplificação vs Substituição]]
-* **Próxima Etapa (Engenharia de Prompts):** [[02 - Estudos com IA — Engenharia de Prompts de Alto Rendimento]]
+* **Guia Mestre da Trilha:** [[00-estudos-e-agentes-de-ia-guia-mestre|00 - Estudos & Agentes de IA — Guia Mestre]]
+* **Trilha de IA Aplicada:** [[01-ia-na-pratica-amplificacao-vs-substituicao|01 - IA na Prática — Amplificação vs Substituição]]
+* **Próxima Etapa (Engenharia de Prompts):** [[02-estudos-com-ia-engenharia-de-prompts-de-alto-rendimento|02 - Estudos com IA — Engenharia de Prompts de Alto Rendimento]]

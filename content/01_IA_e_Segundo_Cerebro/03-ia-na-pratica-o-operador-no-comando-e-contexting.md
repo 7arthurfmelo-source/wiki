@@ -21,9 +21,9 @@ aliases:
 # 🧠 03. Engenharia de Contexto: O Córtex do Segundo Cérebro
 
 > **Autor:** Arthur (Tutu)  
-> **Trilha:** [[00 - IA na Prática — Guia Mestre|IA & O Segundo Cérebro (Espinha Dorsal — Etapa 03)]]  
+> **Trilha:** [[00-ia-na-pratica-guia-mestre|IA & O Segundo Cérebro (Espinha Dorsal — Etapa 03)]]  
 > **Nível de Consciência:** Nível 2 ➔ Nível 3 (Do prompt avulso à persistência estruturada de conhecimento)  
-> **Conexões:** → [[00 - IA na Prática — Guia Mestre]] | [[02 - IA na Prática — Prompting em 3 Partes]] | [[04 - IA na Prática — A Era dos Agentes e Automações]]  
+> **Conexões:** → [[00-ia-na-pratica-guia-mestre|00 - IA na Prática — Guia Mestre]] | [[02-ia-na-pratica-prompting-em-3-partes|02 - IA na Prática — Prompting em 3 Partes]] | [[04-ia-na-pratica-a-era-dos-agentes-e-automacoes|04 - IA na Prática — A Era dos Agentes e Automações]]  
 
 ---
 
@@ -31,7 +31,7 @@ aliases:
 
 > **Tempo Estimado de Leitura:** 7 minutos  
 > **Premissas Necessárias:**
-> 1. Domínio da fórmula de prompting em 3 partes ([[02 - IA na Prática — Prompting em 3 Partes]]).
+> 1. Domínio da fórmula de prompting em 3 partes ([[02-ia-na-pratica-prompting-em-3-partes|02 - IA na Prática — Prompting em 3 Partes]]).
 > 2. Clareza de que a IA não possui memória persistente entre conversas separadas no navegador.
 >
 > **O que você VAI aprender neste artigo:**
@@ -158,12 +158,12 @@ Você transformou a IA em um especialista que conhece seu contexto e suas regras
 
 *Como dar o próximo salto e permitir que a IA execute tarefas de ponta a ponta — lendo arquivos, rodando validações e atualizando seus projetos de forma autônoma e segura?*
 
-* → Avançar para a Etapa 04: [[04 - IA na Prática — A Era dos Agentes e Automações]]
+* → Avançar para a Etapa 04: [[04-ia-na-pratica-a-era-dos-agentes-e-automacoes|04 - IA na Prática — A Era dos Agentes e Automações]]
 
 ---
 
 ### 🧬 Notas Co-ativadas & Conexões da Trilha
-* **Guia Mestre da Trilha:** [[00 - IA na Prática — Guia Mestre]]
-* **Etapa Anterior (Prompting em 3 Partes):** [[02 - IA na Prática — Prompting em 3 Partes]]
-* **Próxima Etapa (Agentes e Automação):** [[04 - IA na Prática — A Era dos Agentes e Automações]]
-* **Glossário Essencial de IA:** [[07 - IA na Prática — Glossário Essencial de IA e Contexto]]
+* **Guia Mestre da Trilha:** [[00-ia-na-pratica-guia-mestre|00 - IA na Prática — Guia Mestre]]
+* **Etapa Anterior (Prompting em 3 Partes):** [[02-ia-na-pratica-prompting-em-3-partes|02 - IA na Prática — Prompting em 3 Partes]]
+* **Próxima Etapa (Agentes e Automação):** [[04-ia-na-pratica-a-era-dos-agentes-e-automacoes|04 - IA na Prática — A Era dos Agentes e Automações]]
+* **Glossário Essencial de IA:** [[07-ia-na-pratica-glossario-essencial-de-ia-e-contexto|07 - IA na Prática — Glossário Essencial de IA e Contexto]]

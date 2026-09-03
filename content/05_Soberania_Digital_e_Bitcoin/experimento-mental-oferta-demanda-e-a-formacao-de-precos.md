@@ -20,9 +20,9 @@ aliases:
 # 🍎 Experimento Mental — Oferta, Demanda e a Formação de Preços
 
 > **Autor:** Arthur (Tutu)  
-> **Trilha de Origem:** [[00 - Economia & Antifragilidade — Guia Mestre|Economia & Antifragilidade (Nível 1)]]  
-> **Trilha Co-ativada:** [[00 - Soberania Digital & Bitcoin — Guia Mestre|Soberania Digital & Bitcoin]]  
-> **Conexões Canônicas:** → [[01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]]  
+> **Trilha de Origem:** [[00-economia-e-antifragilidade-guia-mestre|Economia & Antifragilidade (Nível 1)]]  
+> **Trilha Co-ativada:** [[00-soberania-digital-e-bitcoin-guia-mestre|Soberania Digital & Bitcoin]]  
+> **Conexões Canônicas:** → [[01-bitcoin-das-predicoes-de-friedman-ao-bloco-genesis|01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]]  
 
 ---
 
@@ -93,6 +93,6 @@ flowchart TD
 
 ## 🧬 Conexões Semânticas & Referências
 
-* **Trilha de Economia:** [[00 - Economia & Antifragilidade — Guia Mestre]]
-* **Trilha de Bitcoin:** [[00 - Soberania Digital & Bitcoin — Guia Mestre]] | [[01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]]
-* **Fundamentos Históricos:** [[Fundamentos e História do Bitcoin — Da Crise de 2008 ao Bloco Gênesis]]
+* **Trilha de Economia:** [[00-economia-e-antifragilidade-guia-mestre|00 - Economia & Antifragilidade — Guia Mestre]]
+* **Trilha de Bitcoin:** [[00-soberania-digital-e-bitcoin-guia-mestre|00 - Soberania Digital & Bitcoin — Guia Mestre]] | [[01-bitcoin-das-predicoes-de-friedman-ao-bloco-genesis|01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]]
+* **Fundamentos Históricos:** [[fundamentos-e-historia-do-bitcoin-da-crise-de-2008-ao-bloco-genesis|Fundamentos e História do Bitcoin — Da Crise de 2008 ao Bloco Gênesis]]

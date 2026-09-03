@@ -22,16 +22,16 @@ aliases:
 # 🛠️ 08. Casos Reais e Replicáveis do Segundo Cérebro
 
 > **Autor:** Arthur (Tutu)  
-> **Trilha:** [[00 - IA na Prática — Guia Mestre|IA & O Segundo Cérebro (Sidequest 4 — Casos Práticos)]]  
-> **Conexões:** → [[00 - IA na Prática — Guia Mestre]] | [[04 - IA na Prática — A Era dos Agentes e Automações]]  
+> **Trilha:** [[00-ia-na-pratica-guia-mestre|IA & O Segundo Cérebro (Sidequest 4 — Casos Práticos)]]  
+> **Conexões:** → [[00-ia-na-pratica-guia-mestre|00 - IA na Prática — Guia Mestre]] | [[04-ia-na-pratica-a-era-dos-agentes-e-automacoes|04 - IA na Prática — A Era dos Agentes e Automações]]  
 
 ---
 
 ## 🎯 Cabeçalho de Metas & Premissas
 
 > **Premissas Necessárias:**
-> - Compreensão do conceito de Segundo Cérebro como banco de dados local em Markdown ([[03 - IA na Prática — O Operador no Comando e Contexting]]).
-> - Clareza de que agentes locais operam sobre arquivos do disco através de instruções estruturadas ([[04 - IA na Prática — A Era dos Agentes e Automações]]).
+> - Compreensão do conceito de Segundo Cérebro como banco de dados local em Markdown ([[03-ia-na-pratica-o-operador-no-comando-e-contexting|03 - IA na Prática — O Operador no Comando e Contexting]]).
+> - Clareza de que agentes locais operam sobre arquivos do disco através de instruções estruturadas ([[04-ia-na-pratica-a-era-dos-agentes-e-automacoes|04 - IA na Prática — A Era dos Agentes e Automações]]).
 >
 > **O que você VAI aprender neste artigo:**
 > - Como aplicar IA na vida real para além de perguntas genéricas no navegador.
@@ -133,7 +133,7 @@ Você não precisa de sistemas complexos para começar. Siga este roteiro mínim
 ---
 
 ## 🧬 Conexões e Referências
-* **Hub Mestre da Trilha:** [[00 - IA na Prática — Guia Mestre]]
-* **Artigo Central (Amplificação vs Substituição):** [[01 - IA na Prática — Amplificação vs Substituição]]
-* **Artigo de Agentes:** [[04 - IA na Prática — A Era dos Agentes e Automações]]
-* **Glossário Essencial:** [[07 - IA na Prática — Glossário Essencial de IA e Contexto]]
+* **Hub Mestre da Trilha:** [[00-ia-na-pratica-guia-mestre|00 - IA na Prática — Guia Mestre]]
+* **Artigo Central (Amplificação vs Substituição):** [[01-ia-na-pratica-amplificacao-vs-substituicao|01 - IA na Prática — Amplificação vs Substituição]]
+* **Artigo de Agentes:** [[04-ia-na-pratica-a-era-dos-agentes-e-automacoes|04 - IA na Prática — A Era dos Agentes e Automações]]
+* **Glossário Essencial:** [[07-ia-na-pratica-glossario-essencial-de-ia-e-contexto|07 - IA na Prática — Glossário Essencial de IA e Contexto]]

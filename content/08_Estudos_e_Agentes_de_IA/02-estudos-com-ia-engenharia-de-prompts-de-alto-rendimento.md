@@ -21,9 +21,9 @@ aliases:
 # ⚡ 02. Engenharia de Prompts de Alto Rendimento para Estudos
 
 > **Autor:** Arthur (Tutu)  
-> **Trilha:** [[00 - Estudos & Agentes de IA — Guia Mestre|Estudos, Segundo Cérebro & Agentes de IA (Espinha Dorsal — Etapa 02)]]  
+> **Trilha:** [[00-estudos-e-agentes-de-ia-guia-mestre|Estudos, Segundo Cérebro & Agentes de IA (Espinha Dorsal — Etapa 02)]]  
 > **Nível de Consciência:** Nível 1 ➔ Nível 2 (Do entendimento conceitual ao arsenal operacional plug & play)  
-> **Conexões:** → [[00 - Estudos & Agentes de IA — Guia Mestre]] | ← [[01 - Estudos com IA — A Falência do Estudo Passivo e o Modelo Two-Tier]]  
+> **Conexões:** → [[00-estudos-e-agentes-de-ia-guia-mestre|00 - Estudos & Agentes de IA — Guia Mestre]] | ← [[01-estudos-com-ia-a-falencia-do-estudo-passivo-e-o-modelo-two-tier|01 - Estudos com IA — A Falência do Estudo Passivo e o Modelo Two-Tier]]  
 
 ---
 
@@ -31,7 +31,7 @@ aliases:
 
 > **Tempo Estimado de Leitura:** 6 minutos  
 > **Premissas Necessárias:**
-> 1. Compreensão básica da Arquitetura Two-Tier ([[01 - Estudos com IA — A Falência do Estudo Passivo e o Modelo Two-Tier]]).
+> 1. Compreensão básica da Arquitetura Two-Tier ([[01-estudos-com-ia-a-falencia-do-estudo-passivo-e-o-modelo-two-tier|01 - Estudos com IA — A Falência do Estudo Passivo e o Modelo Two-Tier]]).
 > 2. Disposição para utilizar comandos padronizados em vez de improvisar perguntas a cada aula.
 >
 > **O que você VAI aprender neste artigo:**
@@ -230,5 +230,5 @@ Com os prompts afiados e a captura automatizada em 2 segundos, o próximo desafi
 ---
 
 ### 🧬 Notas Co-ativadas & Conexões da Trilha
-* **Guia Mestre da Trilha:** [[00 - Estudos & Agentes de IA — Guia Mestre]]
-* **Etapa Anterior (Modelo Two-Tier):** [[01 - Estudos com IA — A Falência do Estudo Passivo e o Modelo Two-Tier]]
+* **Guia Mestre da Trilha:** [[00-estudos-e-agentes-de-ia-guia-mestre|00 - Estudos & Agentes de IA — Guia Mestre]]
+* **Etapa Anterior (Modelo Two-Tier):** [[01-estudos-com-ia-a-falencia-do-estudo-passivo-e-o-modelo-two-tier|01 - Estudos com IA — A Falência do Estudo Passivo e o Modelo Two-Tier]]

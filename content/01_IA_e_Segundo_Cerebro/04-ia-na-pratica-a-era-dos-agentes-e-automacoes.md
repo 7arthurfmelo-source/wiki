@@ -22,9 +22,9 @@ aliases:
 # 🤖 04. Agentes e Automação: A Era da Ação Autônoma
 
 > **Autor:** Arthur (Tutu)  
-> **Trilha:** [[00 - IA na Prática — Guia Mestre|IA & O Segundo Cérebro (Espinha Dorsal — Etapa 04)]]  
+> **Trilha:** [[00-ia-na-pratica-guia-mestre|IA & O Segundo Cérebro (Espinha Dorsal — Etapa 04)]]  
 > **Nível de Consciência:** Nível 3 ➔ Nível 4 (Do contexto persistente à orquestração agêntica soberana)  
-> **Conexões:** → [[00 - IA na Prática — Guia Mestre]] | [[03 - IA na Prática — O Operador no Comando e Contexting]] | [[08 - IA na Prática — Casos Reais e Replicáveis do Vault]]  
+> **Conexões:** → [[00-ia-na-pratica-guia-mestre|00 - IA na Prática — Guia Mestre]] | [[03-ia-na-pratica-o-operador-no-comando-e-contexting|03 - IA na Prática — O Operador no Comando e Contexting]] | [[08-ia-na-pratica-casos-reais-e-replicaveis-do-vault|08 - IA na Prática — Casos Reais e Replicáveis do Vault]]  
 
 ---
 
@@ -32,7 +32,7 @@ aliases:
 
 > **Tempo Estimado de Leitura:** 8 minutos  
 > **Premissas Necessárias:**
-> 1. Domínio da injeção de contexto e organização de pastas em Markdown ([[03 - IA na Prática — O Operador no Comando e Contexting]]).
+> 1. Domínio da injeção de contexto e organização de pastas em Markdown ([[03-ia-na-pratica-o-operador-no-comando-e-contexting|03 - IA na Prática — O Operador no Comando e Contexting]]).
 >
 > **O que você VAI aprender neste artigo:**
 > - O salto de chats de turno único para sistemas de múltiplos loops iterativos (*AI Loops*).
@@ -169,15 +169,15 @@ Você completou a jornada central da Espinha Dorsal: compreendeu a física dos L
 
 Agora, explore as Sidequests especializadas para aprofundar seu discernimento crítico, consultar a terminologia técnica e inspirar-se em casos reais:
 
-* → Consultar o [[07 - IA na Prática — Glossário Essencial de IA e Contexto]]
-* → Explorar os [[08 - IA na Prática — Casos Reais e Replicáveis do Vault]]
-* → Entender o perigo do [[05 - IA na Prática — AI Slop e o POS Soberano]]
-* → Dominar o pensamento socrático em [[06 - IA na Prática — A Maiêutica da Dissonância Cognitiva]]
+* → Consultar o [[07-ia-na-pratica-glossario-essencial-de-ia-e-contexto|07 - IA na Prática — Glossário Essencial de IA e Contexto]]
+* → Explorar os [[08-ia-na-pratica-casos-reais-e-replicaveis-do-vault|08 - IA na Prática — Casos Reais e Replicáveis do Vault]]
+* → Entender o perigo do [[05-ia-na-pratica-ai-slop-e-o-pos-soberano|05 - IA na Prática — AI Slop e o POS Soberano]]
+* → Dominar o pensamento socrático em [[06-ia-na-pratica-a-maieutica-da-dissonancia-cognitiva|06 - IA na Prática — A Maiêutica da Dissonância Cognitiva]]
 
 ---
 
 ### 🧬 Notas Co-ativadas & Conexões da Trilha
-* **Guia Mestre da Trilha:** [[00 - IA na Prática — Guia Mestre]]
-* **Etapa Anterior (Engenharia de Contexto):** [[03 - IA na Prática — O Operador no Comando e Contexting]]
-* **Glossário Essencial:** [[07 - IA na Prática — Glossário Essencial de IA e Contexto]]
-* **Casos Reais do Vault:** [[08 - IA na Prática — Casos Reais e Replicáveis do Vault]]
+* **Guia Mestre da Trilha:** [[00-ia-na-pratica-guia-mestre|00 - IA na Prática — Guia Mestre]]
+* **Etapa Anterior (Engenharia de Contexto):** [[03-ia-na-pratica-o-operador-no-comando-e-contexting|03 - IA na Prática — O Operador no Comando e Contexting]]
+* **Glossário Essencial:** [[07-ia-na-pratica-glossario-essencial-de-ia-e-contexto|07 - IA na Prática — Glossário Essencial de IA e Contexto]]
+* **Casos Reais do Vault:** [[08-ia-na-pratica-casos-reais-e-replicaveis-do-vault|08 - IA na Prática — Casos Reais e Replicáveis do Vault]]

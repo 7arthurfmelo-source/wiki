@@ -23,9 +23,9 @@ aliases:
 # ₿ A Farsa de Papel e a Segunda Maior Mentira do Mundo
 
 > **Autor:** Arthur (Tutu)  
-> **Trilha:** [[00 - Soberania Digital & Bitcoin — Guia Mestre|Soberania Digital & Bitcoin (Espinha Dorsal — Etapa 1)]]  
+> **Trilha:** [[00-soberania-digital-e-bitcoin-guia-mestre|Soberania Digital & Bitcoin (Espinha Dorsal — Etapa 1)]]  
 > **Nível de Consciência:** 0 (Desconstrução do Sistema Fiduciário)  
-> **Conexões:** → [[00 - Soberania Digital & Bitcoin — Guia Mestre]] | [[Fundamentos e História do Bitcoin — Da Crise de 2008 ao Bloco Gênesis]] | [[Experimento Mental — Oferta, Demanda e a Formação de Preços]]  
+> **Conexões:** → [[00-soberania-digital-e-bitcoin-guia-mestre|00 - Soberania Digital & Bitcoin — Guia Mestre]] | [[fundamentos-e-historia-do-bitcoin-da-crise-de-2008-ao-bloco-genesis|Fundamentos e História do Bitcoin — Da Crise de 2008 ao Bloco Gênesis]] | [[experimento-mental-oferta-demanda-e-a-formacao-de-precos|Experimento Mental — Oferta, Demanda e a Formação de Preços]]  
 
 ---
 
@@ -72,7 +72,7 @@ Pense por um instante na seguinte contradição:
 
 Nas últimas cinco décadas, a humanidade atingiu o ápice do seu poder produtivo. Automatizamos lavouras inteiras, barateamos o frete global e colocamos supercomputadores no bolso de qualquer cidadão.
 
-Pela lei elementar da economia: **quando a oferta de bens se multiplica para a mesma demanda, o custo de vida deveria despencar.** A evolução tecnológica é intrinsecamente deflacionária (como ilustrado no [[Experimento Mental — Oferta, Demanda e a Formação de Preços]]).
+Pela lei elementar da economia: **quando a oferta de bens se multiplica para a mesma demanda, o custo de vida deveria despencar.** A evolução tecnológica é intrinsecamente deflacionária (como ilustrado no [[experimento-mental-oferta-demanda-e-a-formacao-de-precos|Experimento Mental — Oferta, Demanda e a Formação de Preços]]).
 
 No entanto, olhe para a realidade: na década de 1960, o salário de um único trabalhador sustentava uma família de quatro pessoas e comprava a casa própria. Hoje, um casal com diploma superior, trabalhando 50 horas semanais cada um, mal consegue pagar o aluguel e teme o custo de ter um filho.
 
@@ -118,7 +118,7 @@ Através do **Efeito Cantillon**: **a moeda não é neutra, e o dinheiro recém-
 
 Quem recebe o dinheiro novo primeiro (governo, grandes bancos e corporações subsidiadas) gasta a moeda antes que os preços subam. Conforme o dinheiro circula, ele empurra os preços para cima, fazendo com que a classe trabalhadora receba a moeda desvalorizada quando o custo de vida já atingiu o pico.
 
-Os grandes beneficiários desse arranjo são os **"Cantillonários"**, que usam liquidez barata para adquirir ativos reais a preços defasados (via [[Reserva Fracionária — Como os Bancos Criam Dinheiro do Vazio]]), enquanto a população arca com aluguéis e supermercados caros.
+Os grandes beneficiários desse arranjo são os **"Cantillonários"**, que usam liquidez barata para adquirir ativos reais a preços defasados (via [[reserva-fracionaria-como-os-bancos-criam-dinheiro-do-vazio|Reserva Fracionária — Como os Bancos Criam Dinheiro do Vazio]]), enquanto a população arca com aluguéis e supermercados caros.
 
 > 📺 **Aprofundamento Geopolítico:** No documentário [Por que os EUA estão sempre em guerra e o mundo todo só aceita? (⏱️ 20:13)](https://youtu.be/FNaBDh6JcjI?t=1213) de *Jovens de Negócios*, a análise do **Petrodólar** mostra como o poder militar e financeiro permitiu aos EUA exportar sua inflação doméstica para o resto do planeta.
 
@@ -126,7 +126,7 @@ Os grandes beneficiários desse arranjo são os **"Cantillonários"**, que usam 
 
 ### Ato 5: A Máquina da Verdade e o Lastro de Utilidade
 
-Em 3 de janeiro de 2009, em resposta ao colapso bancário mundial, Satoshi Nakamoto minerou o Bloco Gênesis do Bitcoin ([[Fundamentos e História do Bitcoin — Da Crise de 2008 ao Bloco Gênesis]]).
+Em 3 de janeiro de 2009, em resposta ao colapso bancário mundial, Satoshi Nakamoto minerou o Bloco Gênesis do Bitcoin ([[fundamentos-e-historia-do-bitcoin-da-crise-de-2008-ao-bloco-genesis|Fundamentos e História do Bitcoin — Da Crise de 2008 ao Bloco Gênesis]]).
 
 A rede Bitcoin não é um banco nem uma empresa; ela é uma **máquina da verdade**:
 * **Escassez Absoluta:** Exatamente **21 milhões de unidades**, imutáveis e programadas em código.
@@ -143,12 +143,12 @@ Pela primeira vez na história, a humanidade dispõe de uma tecnologia para sepa
 
 Na próxima etapa, entendemos a ordem da monetização e por que nenhum ativo nasce como meio de troca antes de se consolidar como reserva de valor:
 
-* → Avançar para a Etapa 2: [[02 - Bitcoin — As 5 Fases da Adoção Monetária]]
+* → Avançar para a Etapa 2: [[02-bitcoin-as-5-fases-da-adocao-monetaria|02 - Bitcoin — As 5 Fases da Adoção Monetária]]
 
 ---
 
 ### 🧬 Notas Co-ativadas & Conexões da Trilha
-* **Guia Mestre da Trilha:** [[00 - Soberania Digital & Bitcoin — Guia Mestre]]
-* **Fundamentos Históricos:** [[Fundamentos e História do Bitcoin — Da Crise de 2008 ao Bloco Gênesis]]
-* **Mecânica Bancária:** [[Reserva Fracionária — Como os Bancos Criam Dinheiro do Vazio]]
-* **Experimento Mental de Preços:** [[Experimento Mental — Oferta, Demanda e a Formação de Preços]]
+* **Guia Mestre da Trilha:** [[00-soberania-digital-e-bitcoin-guia-mestre|00 - Soberania Digital & Bitcoin — Guia Mestre]]
+* **Fundamentos Históricos:** [[fundamentos-e-historia-do-bitcoin-da-crise-de-2008-ao-bloco-genesis|Fundamentos e História do Bitcoin — Da Crise de 2008 ao Bloco Gênesis]]
+* **Mecânica Bancária:** [[reserva-fracionaria-como-os-bancos-criam-dinheiro-do-vazio|Reserva Fracionária — Como os Bancos Criam Dinheiro do Vazio]]
+* **Experimento Mental de Preços:** [[experimento-mental-oferta-demanda-e-a-formacao-de-precos|Experimento Mental — Oferta, Demanda e a Formação de Preços]]

@@ -21,15 +21,15 @@ aliases:
 # ⚡ 06. A Maiêutica da Dissonância: Como o Erro da IA Gera Insights Humanos
 
 > **Autor:** Arthur (Tutu)  
-> **Trilha:** [[00 - IA na Prática — Guia Mestre|IA & O Segundo Cérebro (Sidequest 2 — Metacognição e Pensamento Crítico)]]  
-> **Conexões:** → [[00 - IA na Prática — Guia Mestre]] | [[01 - IA na Prática — Amplificação vs Substituição]] | [[03 - IA na Prática — O Operador no Comando e Contexting]]  
+> **Trilha:** [[00-ia-na-pratica-guia-mestre|IA & O Segundo Cérebro (Sidequest 2 — Metacognição e Pensamento Crítico)]]  
+> **Conexões:** → [[00-ia-na-pratica-guia-mestre|00 - IA na Prática — Guia Mestre]] | [[01-ia-na-pratica-amplificacao-vs-substituicao|01 - IA na Prática — Amplificação vs Substituição]] | [[03-ia-na-pratica-o-operador-no-comando-e-contexting|03 - IA na Prática — O Operador no Comando e Contexting]]  
 
 ---
 
 ## 🎯 Cabeçalho de Metas & Premissas
 
 > **Premissas Necessárias:**
-> - Compreensão de que a IA opera por correlação estatística e alucina na ausência de restrições ([[01 - IA na Prática — Amplificação vs Substituição]]).
+> - Compreensão de que a IA opera por correlação estatística e alucina na ausência de restrições ([[01-ia-na-pratica-amplificacao-vs-substituicao|01 - IA na Prática — Amplificação vs Substituição]]).
 >
 > **O que você VAI aprender neste artigo:**
 > - O conceito de Fricção Reflexiva (*Reflective Friction*) e por que sistemas "fáceis demais" causam atrofia cognitiva.
@@ -85,7 +85,7 @@ Sem o *Sensemaking* humano, os dados gerados pela IA permanecem como ruído inú
 ---
 
 ### 🧬 Conexões e Referências
-* **Guia Mestre da Trilha:** [[00 - IA na Prática — Guia Mestre]]
-* **Artigo Central:** [[01 - IA na Prática — Amplificação vs Substituição]]
-* **Engenharia de Contexto:** [[03 - IA na Prática — O Operador no Comando e Contexting]]
-* **Glossário Essencial:** [[07 - IA na Prática — Glossário Essencial de IA e Contexto]]
+* **Guia Mestre da Trilha:** [[00-ia-na-pratica-guia-mestre|00 - IA na Prática — Guia Mestre]]
+* **Artigo Central:** [[01-ia-na-pratica-amplificacao-vs-substituicao|01 - IA na Prática — Amplificação vs Substituição]]
+* **Engenharia de Contexto:** [[03-ia-na-pratica-o-operador-no-comando-e-contexting|03 - IA na Prática — O Operador no Comando e Contexting]]
+* **Glossário Essencial:** [[07-ia-na-pratica-glossario-essencial-de-ia-e-contexto|07 - IA na Prática — Glossário Essencial de IA e Contexto]]

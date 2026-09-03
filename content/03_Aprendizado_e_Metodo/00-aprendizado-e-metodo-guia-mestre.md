@@ -21,7 +21,7 @@ aliases:
 
 > **Autor:** Arthur (Tutu)  
 > **Trilha:** #AprendizadoEMetodo (Nível 1 a 3)  
-> **Conexões:** → [[Índice — Acervo de Artigos Wiki]]  
+> **Conexões:** → [[index|Início / Todas as Trilhas]]  
 
 ---
 

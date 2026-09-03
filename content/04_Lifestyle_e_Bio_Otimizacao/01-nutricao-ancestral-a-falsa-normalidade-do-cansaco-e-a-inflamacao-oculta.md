@@ -21,9 +21,9 @@ aliases:
 # ⚡ 01. A Falsa Normalidade do Cansaço e a Inflamação Oculta
 
 > **Autor:** Arthur (Tutu)  
-> **Trilha:** [[00 - Nutrição Ancestral & Terapêutica de Eliminação — Guia Mestre|Nutrição Ancestral & Terapêutica de Eliminação (Espinha Dorsal — Etapa 01)]]  
+> **Trilha:** [[00-nutricao-ancestral-e-terapeutica-de-eliminacao-guia-mestre|Nutrição Ancestral & Terapêutica de Eliminação (Espinha Dorsal — Etapa 01)]]  
 > **Nível de Consciência:** Nível 0 ➔ Nível 1 (Da inconsciência dos sintomas diários à identificação da inflamação alimentar)  
-> **Conexões:** → [[00 - Nutrição Ancestral & Terapêutica de Eliminação — Guia Mestre]] | → [[02 - Dieta Carnívora — Fundamentos, Antinutrientes e Densidade Heme]]  
+> **Conexões:** → [[00-nutricao-ancestral-e-terapeutica-de-eliminacao-guia-mestre|00 - Nutrição Ancestral & Terapêutica de Eliminação — Guia Mestre]] | → [[02-dieta-carnivora-fundamentos-antinutrientes-e-densidade-heme|02 - Dieta Carnívora — Fundamentos, Antinutrientes e Densidade Heme]]  
 
 ---
 
@@ -147,13 +147,13 @@ Agora que você reconheceu que a fadiga diária não é um traço inevitável da
 
 *Por que as plantas produzem toxinas químicas defensivas para evitar serem comidas? E por que a carne vermelha é o alimento mais denso, biodisponível e seguro para a digestão humana?*
 
-* → Avançar para a Etapa 02: [[02 - Dieta Carnívora — Fundamentos, Antinutrientes e Densidade Heme]]
+* → Avançar para a Etapa 02: [[02-dieta-carnivora-fundamentos-antinutrientes-e-densidade-heme|02 - Dieta Carnívora — Fundamentos, Antinutrientes e Densidade Heme]]
 
 ---
 
 ### 🧬 Notas Co-ativadas & Conexões da Trilha
-* **Guia Mestre da Sub-Trilha:** [[00 - Nutrição Ancestral & Terapêutica de Eliminação — Guia Mestre]]
-* **Trilha Mestre de Bio-Otimização:** [[00 - Bio-Otimização — Guia Mestre]]
-* **Próxima Etapa (Fundamentos & Antinutrientes):** [[02 - Dieta Carnívora — Fundamentos, Antinutrientes e Densidade Heme]]
-* **Sidequest de Fisiologia:** [[A Mecânica do Diabetes Tipo 2 — Resistência à Insulina e o Paradoxo da Mala Cheia]]
+* **Guia Mestre da Sub-Trilha:** [[00-nutricao-ancestral-e-terapeutica-de-eliminacao-guia-mestre|00 - Nutrição Ancestral & Terapêutica de Eliminação — Guia Mestre]]
+* **Trilha Mestre de Bio-Otimização:** [[00-bio-otimizacao-guia-mestre|00 - Bio-Otimização — Guia Mestre]]
+* **Próxima Etapa (Fundamentos & Antinutrientes):** [[02-dieta-carnivora-fundamentos-antinutrientes-e-densidade-heme|02 - Dieta Carnívora — Fundamentos, Antinutrientes e Densidade Heme]]
+* **Sidequest de Fisiologia:** [[a-mecanica-do-diabetes-tipo-2-resistencia-a-insulina-e-o-paradoxo-da-mala-cheia|A Mecânica do Diabetes Tipo 2 — Resistência à Insulina e o Paradoxo da Mala Cheia]]
 * **Livro do Acervo:** **A Revolução Carnívora** *(Fernanda Geribello Anders)*

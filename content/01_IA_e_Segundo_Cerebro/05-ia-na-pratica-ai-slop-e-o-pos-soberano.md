@@ -21,15 +21,15 @@ aliases:
 # 🛡️ 05. AI Slop e o POS: Proof of Work vs. Conteúdo Sintético
 
 > **Autor:** Arthur (Tutu)  
-> **Trilha:** [[00 - IA na Prática — Guia Mestre|IA & O Segundo Cérebro (Sidequest 1 — Qualidade Cognitiva)]]  
-> **Conexões:** → [[00 - IA na Prática — Guia Mestre]] | [[01 - IA na Prática — Amplificação vs Substituição]] | [[04 - IA na Prática — A Era dos Agentes e Automações]]  
+> **Trilha:** [[00-ia-na-pratica-guia-mestre|IA & O Segundo Cérebro (Sidequest 1 — Qualidade Cognitiva)]]  
+> **Conexões:** → [[00-ia-na-pratica-guia-mestre|00 - IA na Prática — Guia Mestre]] | [[01-ia-na-pratica-amplificacao-vs-substituicao|01 - IA na Prática — Amplificação vs Substituição]] | [[04-ia-na-pratica-a-era-dos-agentes-e-automacoes|04 - IA na Prática — A Era dos Agentes e Automações]]  
 
 ---
 
 ## 🎯 Cabeçalho de Metas & Premissas
 
 > **Premissas Necessárias:**
-> - Compreensão da amplificação ativa e do perigo da terceirização de raciocínio ([[01 - IA na Prática — Amplificação vs Substituição]]).
+> - Compreensão da amplificação ativa e do perigo da terceirização de raciocínio ([[01-ia-na-pratica-amplificacao-vs-substituicao|01 - IA na Prática — Amplificação vs Substituição]]).
 >
 > **O que você VAI aprender neste artigo:**
 > - O fenômeno do "AI Slop" (a inundação de lixo estatístico na internet) e como ele degrada a autoridade profissional.
@@ -96,7 +96,7 @@ As vantagens de um POS em Markdown soberano:
 ---
 
 ### 🧬 Conexões e Referências
-* **Guia Mestre da Trilha:** [[00 - IA na Prática — Guia Mestre]]
-* **Artigo Central:** [[01 - IA na Prática — Amplificação vs Substituição]]
-* **Casos Práticos do Vault:** [[08 - IA na Prática — Casos Reais e Replicáveis do Vault]]
-* **Glossário Essencial:** [[07 - IA na Prática — Glossário Essencial de IA e Contexto]]
+* **Guia Mestre da Trilha:** [[00-ia-na-pratica-guia-mestre|00 - IA na Prática — Guia Mestre]]
+* **Artigo Central:** [[01-ia-na-pratica-amplificacao-vs-substituicao|01 - IA na Prática — Amplificação vs Substituição]]
+* **Casos Práticos do Vault:** [[08-ia-na-pratica-casos-reais-e-replicaveis-do-vault|08 - IA na Prática — Casos Reais e Replicáveis do Vault]]
+* **Glossário Essencial:** [[07-ia-na-pratica-glossario-essencial-de-ia-e-contexto|07 - IA na Prática — Glossário Essencial de IA e Contexto]]

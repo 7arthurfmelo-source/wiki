@@ -21,8 +21,8 @@ aliases:
 # 🧳 A Mecânica do Diabetes Tipo 2 — Resistência à Insulina e o Paradoxo da Mala Cheia
 
 > **Autor:** Arthur (Tutu)  
-> **Trilha:** [[00 - Nutrição Ancestral & Terapêutica de Eliminação — Guia Mestre|Nutrição Ancestral (Sidequest de Fisiologia)]]  
-> **Conexões:** ← [[01 - Nutrição Ancestral — A Falsa Normalidade do Cansaço e a Inflamação Oculta]] | → [[03 - Dieta Carnívora — O Protocolo de Transição e Adaptação Estável]]  
+> **Trilha:** [[00-nutricao-ancestral-e-terapeutica-de-eliminacao-guia-mestre|Nutrição Ancestral (Sidequest de Fisiologia)]]  
+> **Conexões:** ← [[01-nutricao-ancestral-a-falsa-normalidade-do-cansaco-e-a-inflamacao-oculta|01 - Nutrição Ancestral — A Falsa Normalidade do Cansaço e a Inflamação Oculta]] | → [[03-dieta-carnivora-o-protocolo-de-transicao-e-adaptacao-estavel|03 - Dieta Carnívora — O Protocolo de Transição e Adaptação Estável]]  
 
 ---
 
@@ -144,14 +144,14 @@ A compreensão de que a resistência à insulina é um problema de sobrecarga en
 
 Para entender como a eliminação completa de carboidratos e a adoção de carnes gordas permite desinflamar o organismo sem passar fome:
 
-* → Ler a Sidequest dos Mitos: [[Dieta Carnívora — Os 5 Maiores Mitos e Misconceptions Desmistificados]]
-* → Entender a Sinergia Metabólica: [[A Tríade Metabólica — Dieta Carnívora, Cetose Nutricional e Jejum Intermitente]]
-* → Acessar o Guia de Execução: [[03 - Dieta Carnívora — O Protocolo de Transição e Adaptação Estável]]
+* → Ler a Sidequest dos Mitos: [[dieta-carnivora-os-5-maiores-mitos-e-misconceptions-desmistificados|Dieta Carnívora — Os 5 Maiores Mitos e Misconceptions Desmistificados]]
+* → Entender a Sinergia Metabólica: [[a-triade-metabolica-dieta-carnivora-cetose-nutricional-e-jejum-intermitente|A Tríade Metabólica — Dieta Carnívora, Cetose Nutricional e Jejum Intermitente]]
+* → Acessar o Guia de Execução: [[03-dieta-carnivora-o-protocolo-de-transicao-e-adaptacao-estavel|03 - Dieta Carnívora — O Protocolo de Transição e Adaptação Estável]]
 
 ---
 
 ### 🧬 Notas Co-ativadas & Conexões da Trilha
-* **Guia Mestre da Sub-Trilha:** [[00 - Nutrição Ancestral & Terapêutica de Eliminação — Guia Mestre]]
-* **Trilha Mestre:** [[00 - Bio-Otimização — Guia Mestre]]
-* **Artigo 01 (Falsa Normalidade do Cansaço):** [[01 - Nutrição Ancestral — A Falsa Normalidade do Cansaço e a Inflamação Oculta]]
+* **Guia Mestre da Sub-Trilha:** [[00-nutricao-ancestral-e-terapeutica-de-eliminacao-guia-mestre|00 - Nutrição Ancestral & Terapêutica de Eliminação — Guia Mestre]]
+* **Trilha Mestre:** [[00-bio-otimizacao-guia-mestre|00 - Bio-Otimização — Guia Mestre]]
+* **Artigo 01 (Falsa Normalidade do Cansaço):** [[01-nutricao-ancestral-a-falsa-normalidade-do-cansaco-e-a-inflamacao-oculta|01 - Nutrição Ancestral — A Falsa Normalidade do Cansaço e a Inflamação Oculta]]
 * **Livro do Acervo:** **Outlive: The Science and Art of Longevity** *(Dr. Peter Attia)*

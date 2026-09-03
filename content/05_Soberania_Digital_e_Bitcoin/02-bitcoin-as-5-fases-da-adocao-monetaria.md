@@ -23,9 +23,9 @@ aliases:
 # 📈 02. As 4 Fases da Adoção Monetária e a Vendabilidade de Menger
 
 > **Autor:** Arthur (Tutu)  
-> **Trilha:** [[00 - Soberania Digital & Bitcoin — Guia Mestre|Soberania Digital & Bitcoin (Espinha Dorsal — Etapa 2)]]  
+> **Trilha:** [[00-soberania-digital-e-bitcoin-guia-mestre|Soberania Digital & Bitcoin (Espinha Dorsal — Etapa 2)]]  
 > **Nível de Consciência:** Nível 1 ➔ Nível 2 (Da desconstrução da moeda estatal à monetização histórica)  
-> **Conexões:** ← [[01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]] | → [[03 - Autocustódia & Soberania — A Física do Sem Risco de Contraparte]]  
+> **Conexões:** ← [[01-bitcoin-das-predicoes-de-friedman-ao-bloco-genesis|01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]] | → [[03-autocustodia-e-soberania-a-fisica-do-sem-risco-de-contraparte|03 - Autocustódia & Soberania — A Física do Sem Risco de Contraparte]]  
 
 ---
 
@@ -33,7 +33,7 @@ aliases:
 
 > **Tempo Estimado de Leitura:** 8 minutos  
 > **Premissas Necessárias:**
-> 1. A moeda estatal sofre diluição sistêmica contínua ([[01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]]).
+> 1. A moeda estatal sofre diluição sistêmica contínua ([[01-bitcoin-das-predicoes-de-friedman-ao-bloco-genesis|01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]]).
 > 2. O dinheiro é uma descoberta espontânea de mercado, não uma criação estatal por decreto.
 >
 > **O que você VAI aprender neste artigo:**
@@ -69,7 +69,7 @@ A crítica incorre em dois erros de diagnóstico:
 
 #### Volatilidade não é Risco: A Lição do Sr. Mercado
 
-Em economia real, **volatilidade não é risco**. A volatilidade reflete a clássica alegoria do **"Sr. Mercado"** de Benjamin Graham: uma persona emocional, ansiosa e bipolar que bate à sua porta todos os dias oferecendo preços erráticos baseados em euforia ou pânico. Em um mercado livre e ininterrupto (24/7), a oscilação de preço é o mecanismo transparente pelo qual oferta e demanda se equilibram sem manipulação de bancos centrais (como explorado em [[Experimento Mental — Oferta, Demanda e a Formação de Preços]]).
+Em economia real, **volatilidade não é risco**. A volatilidade reflete a clássica alegoria do **"Sr. Mercado"** de Benjamin Graham: uma persona emocional, ansiosa e bipolar que bate à sua porta todos os dias oferecendo preços erráticos baseados em euforia ou pânico. Em um mercado livre e ininterrupto (24/7), a oscilação de preço é o mecanismo transparente pelo qual oferta e demanda se equilibram sem manipulação de bancos centrais (como explorado em [[experimento-mental-oferta-demanda-e-a-formacao-de-precos|Experimento Mental — Oferta, Demanda e a Formação de Preços]]).
 
 Além disso, há um erro de categoria: **nem o ouro, nem o Bitcoin são moedas correntes de trocas diárias (*currencies*)**. Ambos são **reservas de valor primárias** (*money / store of value*). Exigir que um ativo nascente sirva para pagar o cafezinho antes de acumular liquidez global é inverter a ordem natural da evolução da moeda. O ouro levou mais de 3.000 anos para estabilizar seu poder de compra planetário; o Bitcoin está compactando essa descoberta em menos de duas décadas. A cada ciclo de 4 anos, a volatilidade cai em relação ao valor total de capital alocado.
 
@@ -90,8 +90,8 @@ timeline
 
 1. **Fase 1 — Colecionável:** O ativo é apreciado por propriedades peculiares por um nicho pioneiro. Foi a fase do Bitcoin de 2009 a 2011, minerado em PCs caseiros como experimento lúdico.
 2. **Fase 2 — Reserva de Valor (O Estágio Atual):** O mercado reconhece a escassez matemática para preservar riqueza no tempo. A entrada de capital institucional gera ciclos de alta e correção (*booms and busts*) típicos da precificação pelo Sr. Mercado.
-3. **Fase 3 — Meio de Troca:** Ao atingir trilhões em liquidez, a volatilidade marginal arrefece. O ativo passa a ser aceito no comércio diário via segundas camadas como a **Lightning Network** (detalhado em [[As Camadas do Bitcoin — Lightning e Liquid]]).
-4. **Fase 4 — Unidade de Conta:** Estágio final onde bens são precificados em Satoshis. Cabe a provocação: talvez o Bitcoin nunca alcance plenamente esse estágio no comércio diário. Pela Lei de Gresham (analisada em [[A Lei de Gresham e o Paradoxo da Unidade de Conta]]), a moeda fraca expulsa a forte da circulação: indivíduos racionais gastam o dinheiro fiduciário inflacionário e entesouram o Bitcoin como reserva soberana de valor.
+3. **Fase 3 — Meio de Troca:** Ao atingir trilhões em liquidez, a volatilidade marginal arrefece. O ativo passa a ser aceito no comércio diário via segundas camadas como a **Lightning Network** (detalhado em [[as-camadas-do-bitcoin-lightning-e-liquid|As Camadas do Bitcoin — Lightning e Liquid]]).
+4. **Fase 4 — Unidade de Conta:** Estágio final onde bens são precificados em Satoshis. Cabe a provocação: talvez o Bitcoin nunca alcance plenamente esse estágio no comércio diário. Pela Lei de Gresham (analisada em [[a-lei-de-gresham-e-o-paradoxo-da-unidade-de-conta|A Lei de Gresham e o Paradoxo da Unidade de Conta]]), a moeda fraca expulsa a forte da circulação: indivíduos racionais gastam o dinheiro fiduciário inflacionário e entesouram o Bitcoin como reserva soberana de valor.
 
 Cobrar do Bitcoin função transacional plena antes de consolidar sua reserva de valor é o equivalente a exigir que uma árvore dê frutos antes de criar raízes.
 
@@ -111,7 +111,7 @@ Em termos práticos:
 * Quanto **maior** o $S2F$, **menor** é o fluxo novo em relação ao estoque, tornando o ativo **resistente** à diluição de oferta.
 * Commodities industriais têm $S2F < 1$: qualquer alta de preço dispara a produção e derruba o valor.
 
-Essa dinâmica decorre da formação de preços entre oferta e demanda (revisitada em [[Experimento Mental — Oferta, Demanda e a Formação de Preços]]): quando a produção de novos fluxos não consegue responder à explosão de demanda, a valorização é absorvida integralmente pelo estoque acumulado.
+Essa dinâmica decorre da formação de preços entre oferta e demanda (revisitada em [[experimento-mental-oferta-demanda-e-a-formacao-de-precos|Experimento Mental — Oferta, Demanda e a Formação de Preços]]): quando a produção de novos fluxos não consegue responder à explosão de demanda, a valorização é absorvida integralmente pelo estoque acumulado.
 
 #### Exemplo histórico: A Corrida dos Metais e a Quebra dos Irmãos Hunt
 Durante séculos, ouro e prata competiram pelo monopólio monetário. A prata tinha melhor divisibilidade, mas uma vulnerabilidade fatal: sua abundância relativa na crosta confere a ela um $S2F \approx 22$ (inflação de fluxo anual de $\approx 4.5\%$).
@@ -130,7 +130,7 @@ graph LR
 #### A Escassez Absoluta do Bitcoin ($S2F > 120$)
 No padrão fiduciário, com a expansão monetária de M2 historicamente situada entre 7% e 15% ao ano, o $S2F$ gravita na faixa de 7 a 14, colapsando para valores próximos de zero apenas em episódios de hiperinflação. No Bitcoin, a produção é determinada por algoritmo: a cada **210.000 blocos** (~4 anos), o **Halving** corta a emissão pela metade.
 
-Após abril de 2024, a emissão caiu para 3,125 BTC por bloco, elevando o **$S2F$ do Bitcoin para mais de 120** — o dobro do ouro e com inflação de oferta inferior a $0.83\%$ a.a. Pela primeira vez na história, existe um ativo com oferta totalmente inelástica, cujos fundamentos de precificação foram modelados por PlanB e analisados pelo Nakamoto Portfolio da Swan Research (aprofundados em [[Valuation do Bitcoin — Stock-to-Flow]]).
+Após abril de 2024, a emissão caiu para 3,125 BTC por bloco, elevando o **$S2F$ do Bitcoin para mais de 120** — o dobro do ouro e com inflação de oferta inferior a $0.83\%$ a.a. Pela primeira vez na história, existe um ativo com oferta totalmente inelástica, cujos fundamentos de precificação foram modelados por PlanB e analisados pelo Nakamoto Portfolio da Swan Research (aprofundados em [[valuation-do-bitcoin-stock-to-flow|Valuation do Bitcoin — Stock-to-Flow]]).
 
 ---
 
@@ -161,7 +161,7 @@ graph TD
 | **Ouro Físico** | **Péssima** | **Ruim** (pesado, fácil de confiscar) | **Excelente** ($S2F \approx 62$) | Venceu como padrão, mas sucumbiu à centralização. |
 | **Rede Bitcoin** | **Perfeita** ($10^8$ sats) | **Instantânea** (teletransporte digital) | **Absoluta** ($S2F > 120$, 21M) | **Pico máximo nas 3 dimensões simultâneas.** |
 
-O ouro impôs severas limitações de escala e espaço aos seus custodiantes. Por ser difícil de transportar e fracionar, foi guardado em bancos em troca de recibos de papel. Essa centralização viabilizou as reservas fracionárias (explorado em [[Reserva Fracionária — Como os Bancos Criam Dinheiro do Vazio]]) e culminou no rompimento do padrão-ouro em 1971.
+O ouro impôs severas limitações de escala e espaço aos seus custodiantes. Por ser difícil de transportar e fracionar, foi guardado em bancos em troca de recibos de papel. Essa centralização viabilizou as reservas fracionárias (explorado em [[reserva-fracionaria-como-os-bancos-criam-dinheiro-do-vazio|Reserva Fracionária — Como os Bancos Criam Dinheiro do Vazio]]) e culminou no rompimento do padrão-ouro em 1971.
 
 O Bitcoin une a durabilidade temporal do ouro com a velocidade espacial e a divisibilidade infinita da informação digital.
 
@@ -171,17 +171,17 @@ O Bitcoin une a durabilidade temporal do ouro com a velocidade espacial e a divi
 
 *Se o Bitcoin é a reserva de valor matemática soberana, como garantir a posse real das suas chaves privadas sem depender de terceiros ou custodiantes?*
 
-* → Avançar para a Etapa 3: [[03 - Autocustódia & Soberania — A Física do Sem Risco de Contraparte]]
+* → Avançar para a Etapa 3: [[03-autocustodia-e-soberania-a-fisica-do-sem-risco-de-contraparte|03 - Autocustódia & Soberania — A Física do Sem Risco de Contraparte]]
 
 ---
 
 ### 🧬 Notas Co-ativadas & Conexões da Trilha
-* **Guia Mestre:** [[00 - Soberania Digital & Bitcoin — Guia Mestre]]
-* **Espinha Dorsal:** ← [[01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]] | → [[03 - Autocustódia & Soberania — A Física do Sem Risco de Contraparte]]
+* **Guia Mestre:** [[00-soberania-digital-e-bitcoin-guia-mestre|00 - Soberania Digital & Bitcoin — Guia Mestre]]
+* **Espinha Dorsal:** ← [[01-bitcoin-das-predicoes-de-friedman-ao-bloco-genesis|01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]] | → [[03-autocustodia-e-soberania-a-fisica-do-sem-risco-de-contraparte|03 - Autocustódia & Soberania — A Física do Sem Risco de Contraparte]]
 * **Sidequests Conectadas:**
-  - [[As Camadas do Bitcoin — Lightning e Liquid]]
-  - [[Valuation do Bitcoin — Stock-to-Flow]]
-  - [[A Lei de Gresham e o Paradoxo da Unidade de Conta]]
-  - [[Experimento Mental — Oferta, Demanda e a Formação de Preços]]
-  - [[Reserva Fracionária — Como os Bancos Criam Dinheiro do Vazio]]
+  - [[as-camadas-do-bitcoin-lightning-e-liquid|As Camadas do Bitcoin — Lightning e Liquid]]
+  - [[valuation-do-bitcoin-stock-to-flow|Valuation do Bitcoin — Stock-to-Flow]]
+  - [[a-lei-de-gresham-e-o-paradoxo-da-unidade-de-conta|A Lei de Gresham e o Paradoxo da Unidade de Conta]]
+  - [[experimento-mental-oferta-demanda-e-a-formacao-de-precos|Experimento Mental — Oferta, Demanda e a Formação de Preços]]
+  - [[reserva-fracionaria-como-os-bancos-criam-dinheiro-do-vazio|Reserva Fracionária — Como os Bancos Criam Dinheiro do Vazio]]
 * **Obras Consultadas:** *The Origins of Money* (Menger, 1892), *O Padrão Bitcoin* (Ammous), *Bitcoin Red Pill* (Amoedo & Schramm).

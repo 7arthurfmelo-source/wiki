@@ -21,8 +21,8 @@ aliases:
 # 🏦 Reserva Fracionária — Como os Bancos Criam Dinheiro do Vazio
 
 > **Autor:** Arthur (Tutu)  
-> **Trilha:** [[00 - Soberania Digital & Bitcoin — Guia Mestre|Soberania Digital & Bitcoin (Sidequest de Apoio)]]  
-> **Artigo Principal Vinculado:** [[01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]]  
+> **Trilha:** [[00-soberania-digital-e-bitcoin-guia-mestre|Soberania Digital & Bitcoin (Sidequest de Apoio)]]  
+> **Artigo Principal Vinculado:** [[01-bitcoin-das-predicoes-de-friedman-ao-bloco-genesis|01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]]  
 
 ---
 
@@ -108,7 +108,7 @@ A rede Bitcoin extingue completamente a possibilidade de reserva fracionária no
 
 ## 🧬 Conexões Semânticas & Referências
 
-* **Artigo Principal da Trilha:** [[01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]]
-* **Guia Mestre da Trilha:** [[00 - Soberania Digital & Bitcoin — Guia Mestre]]
-* **Fundamentos Históricos:** [[Fundamentos e História do Bitcoin — Da Crise de 2008 ao Bloco Gênesis]]
-* **Experimento Mental de Preços:** [[Experimento Mental — Oferta, Demanda e a Formação de Preços]]
+* **Artigo Principal da Trilha:** [[01-bitcoin-das-predicoes-de-friedman-ao-bloco-genesis|01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]]
+* **Guia Mestre da Trilha:** [[00-soberania-digital-e-bitcoin-guia-mestre|00 - Soberania Digital & Bitcoin — Guia Mestre]]
+* **Fundamentos Históricos:** [[fundamentos-e-historia-do-bitcoin-da-crise-de-2008-ao-bloco-genesis|Fundamentos e História do Bitcoin — Da Crise de 2008 ao Bloco Gênesis]]
+* **Experimento Mental de Preços:** [[experimento-mental-oferta-demanda-e-a-formacao-de-precos|Experimento Mental — Oferta, Demanda e a Formação de Preços]]
