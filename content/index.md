@@ -83,7 +83,7 @@ Se algum texto te ajudou, se você achou algo interessante e quiser trocar uma i
 
 📍 **Artigos Principais:**
 - **[[01-bitcoin-das-predicoes-de-friedman-ao-bloco-genesis|01. A Farsa de Papel e a Segunda Maior Mentira do Mundo]]** — *Por que a moeda estatal é uma esteira de descapitalização do seu tempo de vida, a falência do padrão fiat pós-1971, o Efeito Cantillon e o nascimento da primeira escassez digital.*
-- **[[02-bitcoin-as-5-fases-da-adocao-monetaria|02. As 5 Fases da Adoção Monetária e a Vendabilidade de Menger]]** — *Por que o Bitcoin é volátil no curto prazo, a Teoria da Vendabilidade de Carl Menger, a razão Stock-to-Flow e a ordem natural pela qual um bem se transforma em dinheiro.*
+- **[[02-bitcoin-as-5-fases-da-adocao-monetaria|02. As 4 Fases da Adoção Monetária e a Vendabilidade de Menger]]** — *Por que a volatilidade não é risco, as 4 fases canônicas da monetização, a métrica de Stock-to-Flow dos metais ao Bitcoin e a Teoria da Vendabilidade de Carl Menger.*
 
 🌿 **Notas de Aprofundamento, Experimentos & Casos Reais:**
 - **[[experimento-mental-oferta-demanda-e-a-formacao-de-precos|Experimento Mental — Oferta, Demanda e a Formação de Preços]]** — *Um experimento mental didático ancorado na teoria austríaca e na formação dinâmica de preços como sinais de escassez e coordenação de mercado.*
