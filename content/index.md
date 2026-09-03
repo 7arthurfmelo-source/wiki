@@ -86,9 +86,12 @@ Se algum texto te ajudou, se você achou algo interessante e quiser trocar uma i
 - **[[02-bitcoin-as-5-fases-da-adocao-monetaria|02. As 4 Fases da Adoção Monetária e a Vendabilidade de Menger]]** — *Por que a volatilidade não é risco, as 4 fases canônicas da monetização, a métrica de Stock-to-Flow dos metais ao Bitcoin e a Teoria da Vendabilidade de Carl Menger.*
 
 🌿 **Notas de Aprofundamento, Experimentos & Casos Reais:**
+- **[[a-lei-de-gresham-e-o-paradoxo-da-unidade-de-conta|A Lei de Gresham e o Paradoxo da Unidade de Conta]]** — *Por que a moeda fraca expulsa a forte da circulação e o motivo pelo qual o Bitcoin pode nunca se tornar a unidade de conta cotidiana.*
+- **[[as-camadas-do-bitcoin-lightning-e-liquid|As Camadas do Bitcoin — Lightning e Liquid]]** — *O trilema de escalabilidade, canais de estado e liquidação instantânea em segundas camadas.*
 - **[[experimento-mental-oferta-demanda-e-a-formacao-de-precos|Experimento Mental — Oferta, Demanda e a Formação de Preços]]** — *Um experimento mental didático ancorado na teoria austríaca e na formação dinâmica de preços como sinais de escassez e coordenação de mercado.*
 - **[[fundamentos-e-historia-do-bitcoin-da-crise-de-2008-ao-bloco-genesis|Fundamentos e História do Bitcoin — Da Crise de 2008 ao Bloco Gênesis]]** — *A gênese do Bitcoin: o colapso dos subprimes em 2008, os resgates bancários trilionários, o lançamento do White Paper por Satoshi Nakamoto e os pilares de consenso e escassez digital.*
 - **[[reserva-fracionaria-como-os-bancos-criam-dinheiro-do-vazio|Reserva Fracionária — Como os Bancos Criam Dinheiro do Vazio]]** — *A anatomia do sistema de reservas fracionárias: como os bancos comerciais multiplicam crédito escritural a partir do nada, expandindo a massa monetária e gerando instabilidade sistêmica.*
+- **[[valuation-do-bitcoin-stock-to-flow|Valuation do Bitcoin — Stock-to-Flow]]** — *Modelagem de escassez matemática, razão Stock-to-Flow e análise de múltiplos on-chain pelo Nakamoto Portfolio.*
 
 ---
 

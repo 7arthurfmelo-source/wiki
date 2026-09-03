@@ -50,6 +50,9 @@ Artigos e ensaios complementares desacoplados da linha cronológica principal pa
 
 * **História & Gênese do Protocolo:** [[Fundamentos e História do Bitcoin — Da Crise de 2008 ao Bloco Gênesis]].
 * **Economia & Mecânica de Mercado:** [[Experimento Mental — Oferta, Demanda e a Formação de Preços]] e [[Reserva Fracionária — Como os Bancos Criam Dinheiro do Vazio]].
+* **Escalabilidade & Camadas:** [[As Camadas do Bitcoin — Lightning e Liquid]] *(O trilema de escalabilidade, canais de estado e liquidação instantânea)*.
+* **Modelagem & Métricas On-Chain:** [[Valuation do Bitcoin — Stock-to-Flow]] *(Modelagem de escassez de PlanB, Nakamoto Portfolio e múltiplos on-chain)*.
+* **Teoria Monetária & Circulação:** [[A Lei de Gresham e o Paradoxo da Unidade de Conta]] *(Por que a moeda má expulsa a boa e o Bitcoin como reserva primária vs unidade de conta)*.
 * **Psicologia & Sociedade:** **Preferência Temporal e Civilização — Como a Moeda Fraca Destrói o Futuro** *(A tese austríaca de Ammous sobre moeda, ansiedade e poupança — Em breve)*.
 * **História Econômica & Dados:** **A Anatomia do Padrão Fiat — Dívida Soberana e o Descolamento de 1971** *(WTF Happened in 1971, produtividade vs salário e Petrodólar — Em breve)*.
 * **Objeções & Ceticismo:** **O Arsenal do Cético — As 7 Maiores Objeções ao Bitcoin** *(Quântica, Proibição Estatal, Tether, Volatilidade — Em breve)*.
