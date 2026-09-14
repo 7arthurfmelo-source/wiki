@@ -83,7 +83,7 @@ Se algum texto te ajudou, se você achou algo interessante e quiser trocar uma i
 
 📍 **Artigos Principais:**
 - **[[01-bitcoin-das-predicoes-de-friedman-ao-bloco-genesis|01. A Farsa de Papel e a Segunda Maior Mentira do Mundo]]** — *Por que a moeda estatal é uma esteira de descapitalização do seu tempo de vida, a falência do padrão fiat pós-1971, o Efeito Cantillon e o nascimento da primeira escassez digital.*
-- **[[02-bitcoin-as-5-fases-da-adocao-monetaria|02. As 4 Fases da Adoção Monetária e a Vendabilidade de Menger]]** — *Por que a volatilidade não é risco, as 4 fases canônicas da monetização, a métrica de Stock-to-Flow dos metais ao Bitcoin e a Teoria da Vendabilidade de Carl Menger.*
+- **[[02-bitcoin-as-5-fases-da-adocao-monetaria|02. As 4 Fases da Adoção Monetária e a Vendabilidade de Menger]]** — *Como separar volatilidade, funções do dinheiro, vendabilidade e escassez na trajetória de monetização do Bitcoin.*
 
 🌿 **Notas de Aprofundamento, Experimentos & Casos Reais:**
 - **[[a-lei-de-gresham-e-o-paradoxo-da-unidade-de-conta|A Lei de Gresham e o Paradoxo da Unidade de Conta]]** — *Por que a moeda fraca expulsa a forte da circulação e o motivo pelo qual o Bitcoin pode nunca se tornar a unidade de conta cotidiana.*
@@ -117,6 +117,13 @@ Se algum texto te ajudou, se você achou algo interessante e quiser trocar uma i
 📍 **Artigos Principais:**
 - **[[01-estudos-com-ia-a-falencia-do-estudo-passivo-e-o-modelo-two-tier|01. A Falência do Estudo Passivo e o Modelo Two-Tier de IA]]** — *Por que assistir aulas passivamente gera ilusão de competência e como a Arquitetura Two-Tier de IA com Prompt-Ponte permite capturar o contexto da aula e aprofundar dúvidas sob demanda.*
 - **[[02-estudos-com-ia-engenharia-de-prompts-de-alto-rendimento|02. Engenharia de Prompts de Alto Rendimento para Estudos]]** — *Os 5 princípios de design de prompts em tempo real e a tríade de comandos prontos (Síntese, Prompt-Ponte e Consolidador) para estudar em velocidade 3x com IA.*
+
+---
+
+### 🏛️ Cultura, Tradição & Cristandade
+> A gênese da cultura no culto sagrado, o conservadorismo prudencial, a autoridade moral contra o poder coercitivo e a Igreja Católica como arquiteta do Ocidente.
+
+📖 **Guia Mestre:** **[[00-cultura-tradicao-e-cristandade-guia-mestre|00. Guia Mestre — Cultura, Tradição e Cristandade]]** — *Hub central da Trilha 9: A gênese da cultura no culto, o conservadorismo prudencial, a autoridade moral contra o poder coercitivo e a Igreja Católica como arquiteta do Ocidente.*
 
 ---
 
