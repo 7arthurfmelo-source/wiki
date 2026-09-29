@@ -25,7 +25,7 @@ aliases:
 > **Autor:** Arthur (Tutu)  
 > **Trilha:** [[00-bitcoin|Soberania Digital & Bitcoin (Espinha Dorsal — Etapa 2)]]  
 > **Nível de Consciência:** Nível 1 ➔ Nível 2 (Da desconstrução da moeda estatal à monetização histórica)  
-> **Conexões:** ← [[01-bitcoin-das-predicoes-de-friedman-ao-bloco-genesis|01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]] | → [[03-autocustodia|03 - Autocustódia & Soberania — A Física do Sem Risco de Contraparte]]  
+> **Conexões:** ← [[01-bloco-genesis|01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]] | → [[03-autocustodia|03 - Autocustódia & Soberania — A Física do Sem Risco de Contraparte]]  
 
 ---
 
@@ -33,7 +33,7 @@ aliases:
 
 > **Tempo Estimado de Leitura:** 8 minutos  
 > **Premissas Necessárias:**
-> 1. A moeda estatal sofre diluição sistêmica contínua ([[01-bitcoin-das-predicoes-de-friedman-ao-bloco-genesis|01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]]).
+> 1. A moeda estatal sofre diluição sistêmica contínua ([[01-bloco-genesis|01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]]).
 > 2. O dinheiro é uma descoberta espontânea de mercado, não uma criação estatal por decreto.
 >
 > **O que você VAI aprender neste artigo:**
@@ -115,7 +115,7 @@ Onde:
 
 Quanto maior a razão, menor é o fluxo novo em relação ao estoque. Isso ajuda a analisar a resistência da oferta à diluição. Não transforma escassez em previsão automática de preço: demanda, liquidez, concorrência, regras e horizonte também alteram o poder de compra.
 
-Essa dinâmica pode ser lida junto do experimento de formação de preços em [[experimento-mental-oferta-demanda-e-a-formacao-de-precos|Experimento Mental — Oferta, Demanda e a Formação de Preços]], sem confundir escassez de oferta com previsão de preço.
+Essa dinâmica pode ser lida junto do experimento de formação de preços em [[oferta-e-demanda|Experimento Mental — Oferta, Demanda e a Formação de Preços]], sem confundir escassez de oferta com previsão de preço.
 
 #### Exemplo histórico: a prata e os irmãos Hunt
 Durante séculos, ouro e prata competiram pelo uso monetário. A prata era divisível, mas sua oferta respondia mais facilmente a mudanças de preço.
@@ -129,7 +129,7 @@ O ouro, por sua vez, acumulou um estoque histórico grande diante da produção 
 #### Emissão programada e limites da escassez
 No Bitcoin, o halving reduz a emissão programada em intervalos definidos pelo protocolo.
 
-Isso altera o fluxo novo, mas não determina sozinho o preço. A métrica é útil para discutir a oferta; o modelo de valuation e as métricas on-chain pertencem à sidequest [[valuation-do-bitcoin-stock-to-flow|Valuation do Bitcoin — Stock-to-Flow]], ainda em desenvolvimento.
+Isso altera o fluxo novo, mas não determina sozinho o preço. A métrica é útil para discutir a oferta; o modelo de valuation e as métricas on-chain pertencem à sidequest [[stock-to-flow|Valuation do Bitcoin — Stock-to-Flow]], ainda em desenvolvimento.
 
 ---
 
@@ -139,12 +139,12 @@ Um modelo apresentado por [Vijay Boyapati](https://vijayboyapati.medium.com/the-
 
 1. **Colecionável:** o bem é adquirido antes de ser amplamente usado como dinheiro.
 2. **Reserva de valor:** participantes passam a guardá-lo para preservar riqueza e liquidez futura.
-3. **Meio de troca:** o bem começa a circular em transações, inclusive por camadas de pagamento como [[as-camadas-do-bitcoin-lightning-e-liquid|Lightning e Liquid]].
+3. **Meio de troca:** o bem começa a circular em transações, inclusive por camadas de pagamento como [[camadas-bitcoin|Lightning e Liquid]].
 4. **Unidade de conta:** preços, contratos e cálculos passam a ser expressos originalmente no bem.
 
 Esse é um modelo interpretativo, não uma cronologia garantida nem uma lei universal. Os estágios podem coexistir, recuar ou nunca completar-se. O framework de cinco fases registrado no KM descreve um ciclo tecnológico diferente e não será fundido a este modelo monetário.
 
-A [[a-lei-de-gresham-e-o-paradoxo-da-unidade-de-conta|Lei de Gresham]] ajuda a discutir por que um meio pode ser guardado enquanto outro circula, mas a aplicação ao Bitcoin é uma analogia moderna, não uma consequência automática da formulação clássica.
+A [[lei-de-gresham|Lei de Gresham]] ajuda a discutir por que um meio pode ser guardado enquanto outro circula, mas a aplicação ao Bitcoin é uma analogia moderna, não uma consequência automática da formulação clássica.
 
 A volatilidade continua relevante. Um horizonte mais longo pode mudar a leitura de uma oscilação, mas não elimina a possibilidade de perda, falha operacional ou mudança de adoção. A pergunta não é se o risco desapareceu; é qual risco está sendo medido e em que horizonte.
 
@@ -160,11 +160,11 @@ A volatilidade continua relevante. Um horizonte mais longo pode mudar a leitura 
 
 ### 🧬 Notas Co-ativadas & Conexões da Trilha
 * **Guia Mestre:** [[00-bitcoin|00 - Soberania Digital & Bitcoin — Guia Mestre]]
-* **Espinha Dorsal:** ← [[01-bitcoin-das-predicoes-de-friedman-ao-bloco-genesis|01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]] | → [[03-autocustodia|03 - Autocustódia & Soberania — A Física do Sem Risco de Contraparte]]
+* **Espinha Dorsal:** ← [[01-bloco-genesis|01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]] | → [[03-autocustodia|03 - Autocustódia & Soberania — A Física do Sem Risco de Contraparte]]
 * **Sidequests Conectadas:**
-  - [[as-camadas-do-bitcoin-lightning-e-liquid|As Camadas do Bitcoin — Lightning e Liquid]]
-  - [[valuation-do-bitcoin-stock-to-flow|Valuation do Bitcoin — Stock-to-Flow]]
-  - [[a-lei-de-gresham-e-o-paradoxo-da-unidade-de-conta|A Lei de Gresham e o Paradoxo da Unidade de Conta]]
-  - [[experimento-mental-oferta-demanda-e-a-formacao-de-precos|Experimento Mental — Oferta, Demanda e a Formação de Preços]]
-  - [[reserva-fracionaria-como-os-bancos-criam-dinheiro-do-vazio|Reserva Fracionária — Como os Bancos Criam Dinheiro do Vazio]]
+  - [[camadas-bitcoin|As Camadas do Bitcoin — Lightning e Liquid]]
+  - [[stock-to-flow|Valuation do Bitcoin — Stock-to-Flow]]
+  - [[lei-de-gresham|A Lei de Gresham e o Paradoxo da Unidade de Conta]]
+  - [[oferta-e-demanda|Experimento Mental — Oferta, Demanda e a Formação de Preços]]
+  - [[reserva-fracionaria|Reserva Fracionária — Como os Bancos Criam Dinheiro do Vazio]]
 * **Obras Consultadas:** *The Origins of Money* (Menger, 1892), *O Padrão Bitcoin* (Ammous), *Bitcoin Red Pill* (Amoedo & Schramm).

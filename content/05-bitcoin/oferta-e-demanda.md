@@ -15,6 +15,7 @@ aliases:
   - "Experimento Mental — Oferta, Demanda e a Formação de Preços"
   - "Oferta, Demanda e Formação de Preços"
   - "Como Funcionam Oferta e Demanda"
+  - "experimento-mental-oferta-demanda-e-a-formacao-de-precos"
 ---
 
 # 🍎 Experimento Mental — Oferta, Demanda e a Formação de Preços
@@ -22,7 +23,7 @@ aliases:
 > **Autor:** Arthur (Tutu)  
 > **Trilha de Origem:** [[00-economia|Economia & Antifragilidade (Nível 1)]]  
 > **Trilha Co-ativada:** [[00-bitcoin|Soberania Digital & Bitcoin]]  
-> **Conexões Canônicas:** → [[01-bitcoin-das-predicoes-de-friedman-ao-bloco-genesis|01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]]  
+> **Conexões Canônicas:** → [[01-bloco-genesis|01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]]  
 
 ---
 
@@ -94,5 +95,5 @@ flowchart TD
 ## 🧬 Conexões Semânticas & Referências
 
 * **Trilha de Economia:** [[00-economia|00 - Economia & Antifragilidade — Guia Mestre]]
-* **Trilha de Bitcoin:** [[00-bitcoin|00 - Soberania Digital & Bitcoin — Guia Mestre]] | [[01-bitcoin-das-predicoes-de-friedman-ao-bloco-genesis|01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]]
-* **Fundamentos Históricos:** [[fundamentos-e-historia-do-bitcoin-da-crise-de-2008-ao-bloco-genesis|Fundamentos e História do Bitcoin — Da Crise de 2008 ao Bloco Gênesis]]
+* **Trilha de Bitcoin:** [[00-bitcoin|00 - Soberania Digital & Bitcoin — Guia Mestre]] | [[01-bloco-genesis|01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]]
+* **Fundamentos Históricos:** [[crise-2008|Fundamentos e História do Bitcoin — Da Crise de 2008 ao Bloco Gênesis]]

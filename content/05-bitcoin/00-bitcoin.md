@@ -22,7 +22,7 @@ aliases:
 
 > **Autor:** Arthur (Tutu)  
 > **Trilha:** #SoberaniaDigital (Nível 0 a 4)  
-> **Conexões:** → [[01-bitcoin-das-predicoes-de-friedman-ao-bloco-genesis|01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]] | → [[fundamentos-e-historia-do-bitcoin-da-crise-de-2008-ao-bloco-genesis|Fundamentos e História do Bitcoin — Da Crise de 2008 ao Bloco Gênesis]] | → [[experimento-mental-oferta-demanda-e-a-formacao-de-precos|Experimento Mental — Oferta, Demanda e a Formação de Preços]]  
+> **Conexões:** → [[01-bloco-genesis|01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]] | → [[crise-2008|Fundamentos e História do Bitcoin — Da Crise de 2008 ao Bloco Gênesis]] | → [[oferta-e-demanda|Experimento Mental — Oferta, Demanda e a Formação de Preços]]  
 
 ---
 
@@ -38,8 +38,8 @@ A trilha é estruturada em uma **Espinha Dorsal Linear (01 a 04)** com metas e c
 
 | Artigo da Espinha Dorsal | O que Informa? (Fato/Mecanismo) | O que Convence/Persuade? (Quebra de Crença) | O que o Leitor Faz/Muda na Vida? (Ação/Comportamento) | CTA de Encerramento & Estágio Promovido |
 | :--- | :--- | :--- | :--- | :--- |
-| **[[01-bitcoin-das-predicoes-de-friedman-ao-bloco-genesis\|01. A Farsa de Papel e a 2ª Maior Mentira do Mundo]]** | A morte do lastro em 1971, o decreto do *fiat* (*faça-se moeda*), o Efeito Cantillon e os juros reais negativos. | Destrói a crença de que o Estado e o sistema bancário preservam poder de compra. Expõe o contrato social não-assinado. | Para de confiar na renda fixa tradicional como proteção e passa a enxergar a perda real de poder de compra. | **CTA:** Avançar para o Artigo 02 para entender como a humanidade constrói uma nova moeda. *(Promove para Nível 1)* |
-| **[[02-bitcoin-as-5-fases-da-adocao-monetaria|02. As 4 Fases da Adoção Monetária e a Vendabilidade de Menger]]** | Funções do dinheiro, vendabilidade, limites do S2F e modelo interpretativo de quatro estágios. | Distingue oscilação, risco de preço e processo de monetização sem prometer o futuro. | Separa funções, avalia horizonte e estuda custódia antes de agir. | **CTA:** Avançar para o Artigo 03 para assumir a custódia das próprias chaves. *(Promove para Nível 2)* |
+| **[[01-bloco-genesis\|01. A Farsa de Papel e a 2ª Maior Mentira do Mundo]]** | A morte do lastro em 1971, o decreto do *fiat* (*faça-se moeda*), o Efeito Cantillon e os juros reais negativos. | Destrói a crença de que o Estado e o sistema bancário preservam poder de compra. Expõe o contrato social não-assinado. | Para de confiar na renda fixa tradicional como proteção e passa a enxergar a perda real de poder de compra. | **CTA:** Avançar para o Artigo 02 para entender como a humanidade constrói uma nova moeda. *(Promove para Nível 1)* |
+| **[[02-adocao-monetaria|02. As 4 Fases da Adoção Monetária e a Vendabilidade de Menger]]** | Funções do dinheiro, vendabilidade, limites do S2F e modelo interpretativo de quatro estágios. | Distingue oscilação, risco de preço e processo de monetização sem prometer o futuro. | Separa funções, avalia horizonte e estuda custódia antes de agir. | **CTA:** Avançar para o Artigo 03 para assumir a custódia das próprias chaves. *(Promove para Nível 2)* |
 | **03. A Física do Sem Risco de Contraparte** *(Em breve)* | Criptografia assimétrica (chaves públicas/privadas), padrão BIP-39 (12/24 palavras), dispositivos *air-gapped* e placas de metal. | Mostra como a custódia cria riscos de contraparte e operação. | Compreende riscos e executa um teste seguro antes de qualquer transferência patrimonial. | **CTA:** Avançar para o Artigo 04 para auditar suas próprias transações. *(Promove para Nível 3)* |
 | **04. Governança sem Estado — Protocolos e Consenso** *(Em breve)* | Consenso por Prova de Trabalho (PoW), o papel soberano dos nós validadores (*Full Nodes*) e a lição da *Blocksize War*. | Prova que nenhuma entidade, corporação ou minerador controla as regras do protocolo; o usuário com nó próprio é quem manda. | Sobe um *Full Node* em casa e passa a validar suas transações sem depender de servidores terceiros. | **CTA:** Integrar a soberania na vida prática. *(Promove para Nível 4)* |
 
@@ -49,11 +49,11 @@ A trilha é estruturada em uma **Espinha Dorsal Linear (01 a 04)** com metas e c
 
 Artigos e ensaios complementares desacoplados da linha cronológica principal para resolver dúvidas e aprofundar temas específicos:
 
-* **História & Gênese do Protocolo:** [[fundamentos-e-historia-do-bitcoin-da-crise-de-2008-ao-bloco-genesis|Fundamentos e História do Bitcoin — Da Crise de 2008 ao Bloco Gênesis]].
-* **Economia & Mecânica de Mercado:** [[experimento-mental-oferta-demanda-e-a-formacao-de-precos|Experimento Mental — Oferta, Demanda e a Formação de Preços]] e [[reserva-fracionaria-como-os-bancos-criam-dinheiro-do-vazio|Reserva Fracionária — Como os Bancos Criam Dinheiro do Vazio]].
-* **Escalabilidade & Camadas:** [[as-camadas-do-bitcoin-lightning-e-liquid|As Camadas do Bitcoin — Lightning e Liquid]] *(O trilema de escalabilidade, canais de estado e liquidação instantânea)*.
-* **Modelagem & Métricas On-Chain:** [[valuation-do-bitcoin-stock-to-flow|Valuation do Bitcoin — Stock-to-Flow]] *(Modelagem de escassez de PlanB, Nakamoto Portfolio e múltiplos on-chain)*.
-* **Teoria Monetária & Circulação:** [[a-lei-de-gresham-e-o-paradoxo-da-unidade-de-conta|A Lei de Gresham e o Paradoxo da Unidade de Conta]] *(Por que a moeda má expulsa a boa e o Bitcoin como reserva primária vs unidade de conta)*.
+* **História & Gênese do Protocolo:** [[crise-2008|Fundamentos e História do Bitcoin — Da Crise de 2008 ao Bloco Gênesis]].
+* **Economia & Mecânica de Mercado:** [[oferta-e-demanda|Experimento Mental — Oferta, Demanda e a Formação de Preços]] e [[reserva-fracionaria|Reserva Fracionária — Como os Bancos Criam Dinheiro do Vazio]].
+* **Escalabilidade & Camadas:** [[camadas-bitcoin|As Camadas do Bitcoin — Lightning e Liquid]] *(O trilema de escalabilidade, canais de estado e liquidação instantânea)*.
+* **Modelagem & Métricas On-Chain:** [[stock-to-flow|Valuation do Bitcoin — Stock-to-Flow]] *(Modelagem de escassez de PlanB, Nakamoto Portfolio e múltiplos on-chain)*.
+* **Teoria Monetária & Circulação:** [[lei-de-gresham|A Lei de Gresham e o Paradoxo da Unidade de Conta]] *(Por que a moeda má expulsa a boa e o Bitcoin como reserva primária vs unidade de conta)*.
 * **Psicologia & Sociedade:** **Preferência Temporal e Civilização — Como a Moeda Fraca Destrói o Futuro** *(A tese austríaca de Ammous sobre moeda, ansiedade e poupança — Em breve)*.
 * **História Econômica & Dados:** **A Anatomia do Padrão Fiat — Dívida Soberana e o Descolamento de 1971** *(WTF Happened in 1971, produtividade vs salário e Petrodólar — Em breve)*.
 * **Objeções & Ceticismo:** **O Arsenal do Cético — As 7 Maiores Objeções ao Bitcoin** *(Quântica, Proibição Estatal, Tether, Volatilidade — Em breve)*.
