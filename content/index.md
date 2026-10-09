@@ -1,28 +1,18 @@
 ---
-title: "Wiki Pessoal — Arthur"
+title: "Digital Garden"
 publish: true
-description: "Caderno público de anotações, estudos e reflexões no Obsidian: Inteligência Artificial, Estudos, Economia e Soberania Digital."
+description: "Caderno aberto de estudos, notas densas e modelos mentais estruturados no Obsidian."
 ---
 
-# 🌿 Bem-vindo à minha Wiki Pessoal
+# 🌿 Digital Garden & Notas Abertas
 
-Olá! Eu sou o Arthur.
+Este espaço é um caderno aberto de estudos, sínteses conceituais e reflexões no Obsidian.
 
-Este espaço é o meu caderno público de anotações e estudos no Obsidian. Aqui eu compartilho um pouco do que venho aprendendo, minhas visões de mundo e reflexões sobre temas que me interessam profundamente — com a intenção genuína de que algo disso possa ser útil, inspirador ou prático para você também.
-
----
-
-## 📬 Contato, Conversas & Apoio
-
-Se algum texto te ajudou, se você achou algo interessante e quiser trocar uma ideia, pedir para eu aprofundar em algum assunto ou até me avisar de algum ponto que não ficou claro ou poderia ser melhor explicado:
-
-* ✉️ **E-mail de Contato:** `1arthur.fmelo@gmail.com`
-
-> ☕ **Apoio Voluntário:** Se você sentiu que algum conteúdo gerou valor real para você e quiser apoiar a continuidade deste projeto, o e-mail acima também funciona como **chave Pix**. Toda contribuição é 100% voluntária e muito bem-vinda!
+O objetivo deste repositório público é disponibilizar materiais densos, raciocínios de primeira ordem e trilhas temáticas com foco exclusivo na qualidade intrínseca do conteúdo, na clareza epistemológica e na aplicabilidade prática do conhecimento.
 
 ---
 
-## 🧭 O que você vai encontrar por aqui (Trilhas de Estudo)
+## 🧭 Trilhas de Estudo Disponíveis
 
 ### 📈 00. Guia Mestre — Economia & Antifragilidade
 > Hub central da Trilha 2: Teoria monetária austríaca, desmonte do keynesianismo, derivativos financeiros e estratégias de convexidade patrimonial.

@@ -75,4 +75,3 @@ Todas essas panaceias esbarram no **problema do cálculo econômico**: sem preç
 * [[01-as-6-licoes]]: Lições fundamentais sobre capitalismo, socialismo e intervencionismo.
 * [[02-austriaca-vs-keynesianismo]]: A estrutura de capital e o problema do cálculo de preços.
 * [[preco-da-isencao]]: A covardia dos que tentam conciliar mercado e planificação sob falsa moderação.
-* [[Corpus de Voz Autoral — Arthur Melo]]: Vetor da corrosão fiscal e raciocínio socrático.

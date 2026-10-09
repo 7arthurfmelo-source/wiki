@@ -20,7 +20,6 @@ aliases:
 
 # ₿ 00. Guia Mestre — Soberania Digital, Teoria Monetária & Bitcoin
 
-> **Autor:** Arthur (Tutu)  
 > **Trilha:** #SoberaniaDigital (Nível 0 a 4)  
 > **Conexões:** → [[01-bloco-genesis|01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]] | → [[crise-2008|Fundamentos e História do Bitcoin — Da Crise de 2008 ao Bloco Gênesis]] | → [[oferta-e-demanda|Experimento Mental — Oferta, Demanda e a Formação de Preços]]  
 

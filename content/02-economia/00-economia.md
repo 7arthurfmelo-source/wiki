@@ -19,7 +19,6 @@ aliases:
 
 # 📈 00. Guia Mestre — Economia & Antifragilidade
 
-> **Autor:** Arthur (Tutu)  
 > **Trilha:** #EconomiaEAntifragilidade (Nível 1 a 3)  
 > **Conexões:** → [[index|Início / Todas as Trilhas]]  
 

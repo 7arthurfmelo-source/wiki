@@ -22,7 +22,6 @@ aliases:
 
 # 📈 02. As 4 Fases da Adoção Monetária e a Vendabilidade de Menger
 
-> **Autor:** Arthur (Tutu)  
 > **Trilha:** [[00-bitcoin|Soberania Digital & Bitcoin (Espinha Dorsal — Etapa 2)]]  
 > **Nível de Consciência:** Nível 1 ➔ Nível 2 (Da desconstrução da moeda estatal à monetização histórica)  
 > **Conexões:** ← [[01-bloco-genesis|01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]] | → [[03-autocustodia|03 - Autocustódia & Soberania — A Física do Sem Risco de Contraparte]]  

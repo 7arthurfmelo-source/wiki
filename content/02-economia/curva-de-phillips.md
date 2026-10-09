@@ -85,4 +85,3 @@ Existe um limite real na alocação da força de trabalho e do capital escasso d
 * [[01-as-6-licoes]]: A natureza da inflação como expansão deliberada da oferta de dinheiro pelo governo.
 * [[02-austriaca-vs-keynesianismo]]: A crítica ao multiplicador keynesiano e a distorção da taxa de juros.
 * [[lucro-e-risco]]: A poupança real como único gerador legítimo de capital de longo prazo.
-* [[Corpus de Voz Autoral — Arthur Melo]]: Rigor metodológico anti-ilusão e foco nos custos invisíveis.

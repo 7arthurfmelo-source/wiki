@@ -21,7 +21,6 @@ aliases:
 
 # 🏛️ Fundamentos e História do Bitcoin — Da Crise de 2008 ao Bloco Gênesis
 
-> **Autor:** Arthur (Tutu)  
 > **Trilha:** [[00-bitcoin|Soberania Digital & Bitcoin (Sidequest Fundacional)]]  
 > **Artigo Principal Vinculado:** [[01-bloco-genesis|01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]]  
 

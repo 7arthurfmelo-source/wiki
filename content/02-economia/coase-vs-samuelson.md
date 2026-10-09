@@ -84,4 +84,3 @@ Chicago tenta aperfeiçoar a gestão do Estado; a Escola Austríaca demonstra qu
 * [[02-austriaca-vs-keynesianismo]]: A crítica ao agregacionismo macroeconômico e aos modelos de equilíbrio.
 * [[curva-de-phillips]]: A falácia das soluções monetárias artificiais e o custo invisível do Estado.
 * [[04-o-dilema-principal-agente-e-as-falhas-de-governo]]: As falhas de governo que superam qualquer falha de mercado teórica.
-* [[Corpus de Voz Autoral — Arthur Melo]]: Rigor analítico, distinção epistemológica e desmistificação do intervencionismo.

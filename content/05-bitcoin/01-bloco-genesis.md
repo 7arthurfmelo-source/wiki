@@ -23,7 +23,6 @@ aliases:
 
 # ₿ A Farsa de Papel e a Segunda Maior Mentira do Mundo
 
-> **Autor:** Arthur (Tutu)  
 > **Trilha:** [[00-bitcoin|Soberania Digital & Bitcoin (Espinha Dorsal — Etapa 1)]]  
 > **Nível de Consciência:** 0 (Desconstrução do Sistema Fiduciário)  
 > **Conexões:** → [[00-bitcoin|00 - Soberania Digital & Bitcoin — Guia Mestre]] | [[crise-2008|Fundamentos e História do Bitcoin — Da Crise de 2008 ao Bloco Gênesis]] | [[oferta-e-demanda|Experimento Mental — Oferta, Demanda e a Formação de Preços]]  

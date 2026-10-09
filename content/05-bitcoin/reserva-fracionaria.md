@@ -21,7 +21,6 @@ aliases:
 
 # 🏦 Reserva Fracionária — Como os Bancos Criam Dinheiro do Vazio
 
-> **Autor:** Arthur (Tutu)  
 > **Trilha:** [[00-bitcoin|Soberania Digital & Bitcoin (Sidequest de Apoio)]]  
 > **Artigo Principal Vinculado:** [[01-bloco-genesis|01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]]  
 

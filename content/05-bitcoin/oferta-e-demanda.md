@@ -20,7 +20,6 @@ aliases:
 
 # 🍎 Experimento Mental — Oferta, Demanda e a Formação de Preços
 
-> **Autor:** Arthur (Tutu)  
 > **Trilha de Origem:** [[00-economia|Economia & Antifragilidade (Nível 1)]]  
 > **Trilha Co-ativada:** [[00-bitcoin|Soberania Digital & Bitcoin]]  
 > **Conexões Canônicas:** → [[01-bloco-genesis|01 - Bitcoin — Das Predições de Friedman ao Bloco Gênesis]]  
